@@ -1,0 +1,238 @@
+	
+AMUL17.ITM : Opcode 321 à gérer.
+AMUL17.ITM : Opcode 321 à gérer.
+spin775.spl : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+AX1H02.ITM : Opcode 319 à gérer.
+AX1H03.ITM : Opcode 319 à gérer.
+AX1H05.ITM : Opcode 319 à gérer.
+AX1H06.ITM : Opcode 319 à gérer.
+AX1H06.ITM : Opcode 341 à gérer.
+AX1H07.ITM : Opcode 319 à gérer.
+AX1H11.ITM : Opcode 319 à gérer.
+AX1H16.ITM : Opcode 319 à gérer.
+AX1H17.ITM : Opcode 319 à gérer.
+AX1H18.ITM : Opcode 319 à gérer.
+AX1H19.ITM : Opcode 319 à gérer.
+BDAMUL02.ITM : opcode 177: Traduction 225391 manquante
+BDAMUL02.ITM : FAILURE: opcode 177: Not_found
+BDAMUL06.ITM : opcode 177: Traduction 225404 manquante
+BDAMUL06.ITM : FAILURE: opcode 177: Not_found
+BDAMUL11.ITM : opcode 177: Traduction 225401 manquante
+BDAMUL11.ITM : FAILURE: opcode 177: Not_found
+BDAMUL12.ITM : Opcode 319 à gérer.
+BDAMUL26.ITM : Opcode 319 à gérer.
+BDAX1H02.ITM : Opcode 319 à gérer.
+BDAX1H02.ITM : Opcode 318 à gérer.
+bdax1h02.spl : Opcode 146 : Nom du sort introuvable pour bdax1h02.spl.
+BDAX1H02.ITM : FAILURE: opcode 146: Failure("BDAX1H02.ITM : opcode_target_probability_146 nom du sort introuvable pour BDAX1H02")
+BDAX1H03.ITM : Opcode 319 à gérer.
+BDAX1H04.ITM : Opcode 319 à gérer.
+BDAX1H05.ITM : Opcode 319 à gérer.
+BDAX1H05.ITM : Opcode 318 à gérer.
+bdax1h05.spl : Opcode 146 : Nom du sort introuvable pour bdax1h05.spl.
+BDAX1H05.ITM : FAILURE: opcode 146: Failure("BDAX1H05.ITM : opcode_target_probability_146 nom du sort introuvable pour BDAX1H05")
+BDBELT01.ITM : Opcode 321 à gérer.
+BDBELT02.ITM : opcode 177: Traduction 225396 manquante
+BDBELT02.ITM : FAILURE: opcode 177: Not_found
+BDBLUN04.ITM : Opcode 341 à gérer.
+BDBLUN07.ITM : Opcode 340 à gérer.
+bdbow06.spl : Opcode 206 : Nom du sort introuvable pour bdbow06.spl.
+bdshamb.spl : Opcode 206 : Nom du sort introuvable pour bdshamb.spl.
+BDBOOT03.ITM : opcode 177: Traduction 225386 manquante
+BDBOOT03.ITM : FAILURE: opcode 177: Not_found
+BDBOW01.ITM : Opcode 319 à gérer.
+BDBOW01.ITM : Opcode 318 à gérer.
+bdbow01.spl : Opcode 146 : Nom du sort introuvable pour bdbow01.spl.
+BDBOW01.ITM : FAILURE: opcode 146: Failure("BDBOW01.ITM : opcode_target_probability_146 nom du sort introuvable pour BDBOW01")
+BDBOW02.ITM : Opcode 341 à gérer.
+BDBOW03.ITM : Opcode 319 à gérer.
+bdfleshr.spl : Opcode 146 : Nom du sort introuvable pour bdfleshr.spl.
+BDBOW03.ITM : FAILURE: opcode 146: Failure("BDBOW03.ITM : opcode_target_probability_146 nom du sort introuvable pour BDFLESHR")
+BDBOW04.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 319 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW06.ITM : Opcode 319 à gérer.
+bdbow06.spl : Opcode 146 : Nom du sort introuvable pour bdbow06.spl.
+BDBOW06.ITM : FAILURE: opcode 146: Failure("BDBOW06.ITM : opcode_target_probability_146 nom du sort introuvable pour BDBOW06")
+BDBRAC01.ITM : Opcode 341 à gérer.
+BDBRAC02.ITM : opcode 177: Traduction 225398 manquante
+BDBRAC02.ITM : FAILURE: opcode 177: Not_found
+BDBRAC05.ITM : opcode 177: Traduction 225392 manquante
+BDBRAC05.ITM : FAILURE: opcode 177: Not_found
+BDBRAC15.ITM : Opcode 361 à gérer.
+BDCHAN01.ITM : Opcode 319 à gérer.
+BDCHAN02.ITM : Opcode 319 à gérer.
+BDCHAN04.ITM : Opcode 272 à gérer.
+BDCHAN05.ITM : Opcode 319 à gérer.
+bdbeldis.spl : Opcode 206 : Nom du sort introuvable pour bdbeldis.spl.
+BDCHANCA.ITM : Opcode 319 à gérer.
+BDCLCK03.ITM : Opcode 232 à gérer.
+BDDAGG01.ITM : opcode 177: Traduction 205219 manquante
+BDDAGG01.ITM : FAILURE: opcode 177: Not_found
+RNDGEM01.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM01.itm.
+RNDGEM02.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM02.itm.
+RNDGEM03.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM03.itm.
+RNDGEM04.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM04.itm.
+bddagg05.spl : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+BDDAGG05.ITM : FAILURE: opcode 146: Failure("BDDAGG05.ITM : opcode_target_probability_146 nom du sort introuvable pour BDDAGG05")
+BDHALB01.ITM : Opcode 361 à gérer.
+BDHALB02.ITM : Opcode 341 à gérer.
+bdhalb02.spl : Opcode 146 : Nom du sort introuvable pour bdhalb02.spl.
+BDHALB03.ITM : Opcode 326 à gérer.
+BDHAMM02.ITM : Opcode 324 à gérer.
+bdvoid.spl : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+BDHAMM06.ITM : Opcode 361 à gérer.
+BDHAMM06.ITM : Opcode 326 à gérer.
+BDHELM16.ITM : Opcode 319 à gérer.
+BDHELM17.ITM : Opcode 248 à gérer.
+BDHELM17.ITM : Opcode 319 à gérer.
+BDLEAT02.ITM : Opcode 232 à gérer.
+BDLEAT02.ITM : Opcode 319 à gérer.
+BDLEAT04.ITM : Opcode 318 à gérer.
+bdbow06.spl : Opcode 206 : Nom du sort introuvable pour bdbow06.spl.
+bdshamb.spl : Opcode 206 : Nom du sort introuvable pour bdshamb.spl.
+BDLEAT06.ITM : Opcode 319 à gérer.
+BDLEAT07.ITM : Opcode 232 à gérer.
+bdbeldis.spl : Opcode 206 : Nom du sort introuvable pour bdbeldis.spl.
+BDPLAT03.ITM : Opcode 319 à gérer.
+BDPLAT04.ITM : Opcode 319 à gérer.
+BDRING08.ITM : Opcode 180 à gérer.
+BDRING08.ITM : Opcode 180 à gérer.
+BDRING09.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+sppr203d.spl : Opcode 206 : Nom du sort introuvable pour sppr203d.spl.
+sppr203e.spl : Opcode 206 : Nom du sort introuvable pour sppr203e.spl.
+BDROBE03.ITM : Opcode 319 à gérer.
+BDSHLD02.ITM : Opcode 232 à gérer.
+BDSHLD03.ITM : opcode 177: Traduction 225405 manquante
+BDSHLD03.ITM : FAILURE: opcode 177: Not_found
+BDSHLD04.ITM : Opcode 319 à gérer.
+BDSHLD05.ITM : Opcode 319 à gérer.
+BDSHLD07.ITM : Opcode 319 à gérer.
+BDSHLD08.ITM : Opcode 232 à gérer.
+BDSHLDCA.ITM : Opcode 319 à gérer.
+bdsper1a.spl : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+BDSPER01.ITM : FAILURE: opcode 146: Failure("BDSPER01.ITM : opcode_target_probability_146 nom du sort introuvable pour BDSPER1A")
+BDSTAF02.ITM : Opcode 319 à gérer.
+BDSW1H01.ITM : Opcode 232 à gérer.
+bdsw1h02.spl : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+BDSW1H02.ITM : FAILURE: opcode 146: Failure("BDSW1H02.ITM : opcode_target_probability_146 nom du sort introuvable pour BDSW1H02")
+BDSW1H03.ITM : Opcode 319 à gérer.
+BDSW1H03.ITM : Opcode 341 à gérer.
+BDSW1H04.ITM : opcode 177: Traduction 225387 manquante
+BDSW1H04.ITM : FAILURE: opcode 177: Not_found
+BDSW1H06.ITM : Opcode 324 à gérer.
+bdvoid.spl : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+BDSW1H08.ITM : Opcode 319 à gérer.
+BDSW1H08.ITM : Opcode 232 à gérer.
+BDSW1H14.ITM : Opcode 232 à gérer.
+bdsw1h14.spl : Opcode 146 : Nom du sort introuvable pour bdsw1h14.spl.
+BDSW1H14.ITM : FAILURE: opcode 146: Failure("BDSW1H14.ITM : opcode_target_probability_146 nom du sort introuvable pour BDSW1H14")
+BDSW1H21.ITM : Opcode 340 à gérer.
+bdsw1h21.spl : Opcode 146 : Nom du sort introuvable pour bdsw1h21.spl.
+BDSW1H23.ITM : Opcode 319 à gérer.
+BDSW1H25.ITM : opcode 177: Traduction 225386 manquante
+BDSW1H25.ITM : FAILURE: opcode 177: Not_found
+BDSW1HCA.ITM : Opcode 319 à gérer.
+BDSW2H01.ITM : Opcode 232 à gérer.
+BDSW2H01.ITM : Opcode 341 à gérer.
+BDSW2H02.ITM : Opcode 341 à gérer.
+BDSW2H03.ITM : Opcode 341 à gérer.
+BDXBOW01.ITM : Opcode 341 à gérer.
+bddoom.spl : Opcode 146 : Nom du sort introuvable pour bddoom.spl.
+BDXBOW02.ITM : FAILURE: opcode 146: Failure("BDXBOW02.ITM : opcode_target_probability_146 nom du sort introuvable pour BDDOOM")
+BLUN38.ITM : Opcode 232 à gérer.
+BOOT08.ITM : Opcode 272 à gérer.
+BOW06.ITM : Opcode 319 à gérer.
+BOW08.ITM : Opcode 319 à gérer.
+BOW18.ITM : Opcode 319 à gérer.
+CHALCY1.ITM : Opcode 324 à gérer.
+CHALCY1.ITM : Opcode 324 à gérer.
+spin775.spl : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+CHALCY3.ITM : Opcode 321 à gérer.
+CHALCY3.ITM : Opcode 321 à gérer.
+spin775.spl : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+CLCK07.ITM : Opcode 324 à gérer.
+CLCK07.ITM : Opcode 324 à gérer.
+CLCK08.ITM : Opcode 324 à gérer.
+CLCK08.ITM : Opcode 324 à gérer.
+CLCK22.ITM : Opcode 319 à gérer.
+CLCK24.ITM : FAILURE: opcode 197: Failure("CLCK24.ITM : Opcode 197 : R\195\169flection du Type de projectile '212' \195\160 g\195\169rer")
+DAGG16.ITM : Opcode 324 à gérer.
+DAGG16.ITM : Opcode 324 à gérer.
+DART04.ITM : Opcode 324 à gérer.
+DART04.ITM : Opcode 324 à gérer.
+DART05.ITM : Opcode 324 à gérer.
+DART05.ITM : Opcode 324 à gérer.
+DWDART01.ITM : Opcode 324 à gérer.
+DWDART01.ITM : Opcode 324 à gérer.
+DWSW1H01.ITM : Opcode 319 à gérer.
+ENSW2H.ITM : Opcode 319 à gérer.
+hamm01.spl : Opcode 146 : Nom du sort introuvable pour hamm01.spl.
+HAMM01.ITM : FAILURE: opcode 146: Failure("HAMM01.ITM : opcode_target_probability_146 nom du sort introuvable pour HAMM01")
+HELM35.ITM : Unknown macro: opcode_self_probability_83
+JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+MISC75.ITM : Opcode 324 à gérer.
+MISC75.ITM : Opcode 324 à gérer.
+OHSW1H55.ITM : Opcode 319 à gérer.
+PLAT06.ITM : Opcode 319 à gérer.
+ohsmode3.spl : Opcode 146 : Nom du sort introuvable pour ohsmode3.spl.
+PRINCESS.ITM : FAILURE: opcode 101: Not_found
+RING03.ITM : Opcode 324 à gérer.
+RING03.ITM : Opcode 324 à gérer.
+RING03.ITM : Opcode 324 à gérer.
+RING08.ITM : Opcode 180 à gérer.
+RING08.ITM : Opcode 180 à gérer.
+RING09.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+RING47.ITM : Opcode 283 à gérer.
+RSBOOT.ITM : Opcode 319 à gérer.
+RSBRAC.ITM : Opcode 319 à gérer.
+SHLD06P.ITM : FAILURE: opcode 178: Failure("SHLD06P.ITM: opcode 178: Fichier ids numero '255' n'existe pas. Objet corrompu ?")
+SHLD07P.ITM : Opcode 188 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+STAFN1.ITM : Opcode 319 à gérer.
+SW1H15.ITM : Opcode 319 à gérer.
+SW1H16.ITM : Opcode 319 à gérer.
+SW1H22.ITM : Opcode 319 à gérer.
+SW1H23.ITM : Opcode 319 à gérer.
+SW1H52.ITM : Opcode 319 à gérer.
+SW1P01.ITM : Opcode 232 à gérer.
+SW1P01.ITM : Opcode 180 à gérer.
+SW1P01.ITM : Opcode 180 à gérer.
+SW1P01.ITM : Opcode 180 à gérer.
+SW1P01.ITM : Opcode 318 à gérer.
+SW1P01.ITM : Opcode 318 à gérer.
+SW1P01.ITM : Unknown macro: opcode_target_probability_175
+SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+SW2HD1.ITM : Opcode 232 à gérer.
+SW2HD1.ITM : Opcode 232 à gérer.
+WA2SHIEL.ITM : FAILURE: opcode 197: Failure("WA2SHIEL.ITM : Opcode 197 : R\195\169flection du Type de projectile '320' \195\160 g\195\169rer")
+
+Total : 2153
+
+Sans description : 937
+
+Ignores : 1630
+
+Reussis : 491
+
+Echoues : 32
+
+Potions (TODO): 290
+
+Munitions (TODO) : 47
+
+Opcodes a coder : 64
