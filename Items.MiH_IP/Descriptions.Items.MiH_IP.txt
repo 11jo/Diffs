@@ -1,0 +1,208 @@
+mh#amul1  : (Originale)
+
+Amulet against Undead
+
+As long as the dead have been walking the land of the living, the clergy of all good deities have been creating enchanted items to help destroy these foul abominations.  This particular amulet was created by the clergy of Lathander to aid a brave adventurer willing to take the fight to these cursed foes of all life.
+
+STATISTICS:
+
+Equipped abilities:
+- THAC0: +2 vs. undead
+- Damage: +2 vs. undead
+- Turn Undead Level: +2
+
+Weight: 3
+
+mh#amul1  : (Autodescription)
+
+Amulet against Undead
+
+As long as the dead have been walking the land of the living, the clergy of all good deities have been creating enchanted items to help destroy these foul abominations.  This particular amulet was created by the clergy of Lathander to aid a brave adventurer willing to take the fight to these cursed foes of all life.
+
+PARAMÈTRES : 
+
+Capacités d'équipement : 
+- Niveau de repousser les morts-vivants : +2
+- Inflige  points de dégâts supplémentaires contre les morts-vivants
+- TAC0 : 0 contre les morts-vivants
+
+Poids : 3
+............................................................
+
+mh#amul5  : (original)
+
+Brooch of Shielding
+
+This enchanted brooch has but one purpose, to harmlessly absorb the projectiles of the Magic Missile spell and similar effects.
+
+There is no known history, and the near mint condition of the item suggests it was crafted quite recently, perhaps by Thalantyr of Beregost.
+
+STATISTICS:
+
+Equipped abilities:
+- Immunity to Magic Missile
+
+Weight: 2
+
+mh#amul5 : (Autodescription)
+
+Brooch of Shielding
+
+This enchanted brooch has but one purpose, to harmlessly absorb the projectiles of the Magic Missile spell and similar effects.
+
+There is no known history, and the near mint condition of the item suggests it was crafted quite recently, perhaps by Thalantyr of Beregost.
+
+PARAMÈTRES : 
+
+Capacités d'équipement : 
+- Immunité contre les missiles magiques
+
+Poids : 1
+............................................................
+
+mh#amul6  : (Original)
+
+
+Scarab versus Golems
+
+Sometimes scathingly called the "Amulet of Tomb Robbers" by the clergy of Mulhorand, this enchanted jewel is a boon for those who expect to counter golems of any type.  Powerful wizards often employ these mindless but strong servants, making this necklace a favorite item among adventurers as well.
+
+STATISTICS:
+
+Equipped abilities:
+-THAC0: +3 vs. golems
+-Damage: +3 vs. golems
+
+Weight: 3
+
+mh#amul6  : (Autodescription)
+
+Scarab versus Golems
+
+Sometimes scathingly called the "Amulet of Tomb Robbers" by the clergy of Mulhorand, this enchanted jewel is a boon for those who expect to counter golems of any type.  Powerful wizards often employ these mindless but strong servants, making this necklace a favorite item among adventurers as well.
+
+PARAMÈTRES : 
+
+Capacités d'équipement : 
+- Inflige  points de dégâts supplémentaires contre les golems
+- TAC0 : 0 contre les golems
+
+Poids : 3
+...........................................................
+mh#amul7  : (Original)
+
+Medallion of the Arcticv
+
+This strange medallion is decorated with an engraving of a beautiful woman with her arms outstretched at her sides, snow piled in each hand.  A bear stands in profile behind her.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1 to entire party (within 60')
+- Saving Throws: +1 to entire party (within 60')
+- Cold Resistance: +35% (wearer only)
+
+Weight: 1
+
+mh#amul7  : (Autodescription)
+
+Medallion of the Arcticv
+
+This strange medallion is decorated with an engraving of a beautiful woman with her arms outstretched at her sides, snow piled in each hand.  A bear stands in profile behind her.
+
+PARAMÈTRES : 
+
+Capacités d'équipement : 
+- Classe d'armure : +1
+- Jets de sauvegarde : +1
+- Résistance au froid : +35 %
+
+Poids : 1
+............................................................
+mh#belt3  : (Original)
+
+Storm's Garter
+
+This enchanted black silken sash was designed by Storm Silverhand, one of the Seven Sisters, but she has shared the secret of making then with other members of the Harpers.  As such, items bearing this title are common among their members and are worn by both genders.  
+
+Equipped abilities:
+- Infravision 60'
+- Dexterity: +1
+
+Charge abilities:
+- Silence (1/day)
+- Cure Disease (1/day)
+- Neutralize Poison (1/day)
+
+Weight: 2
+
+mh#belt3  : (Autodescription)
+
+Storm's Garter
+
+This enchanted black silken sash was designed by Storm Silverhand, one of the Seven Sisters, but she has shared the secret of making then with other members of the Harpers.  As such, items bearing this title are common among their members and are worn by both genders.  
+
+Equipped abilities:
+- Infravision 60'
+- Dexterity: +1
+
+Charge abilities:
+- Silence (1/day)
+- Cure Disease (1/day)
+- Neutralize Poison (1/day)
+
+Weight: 2
+
+Capacités d'équipement : 
+- Dextérité : +1
+- Infravision permanente
+
+Capacités de charge : 
+- Silence dans un rayon de 4,5 m (comme un lanceur de sorts de niveau 8) (1 fois par jour)
+- Guérison des maladies (comme un lanceur de sorts de niveau 8) (1 fois par jour)
+- Neutralisation du poison (comme un lanceur de sorts de niveau 8) (1 fois par jour)
+
+Poids : 2
+
+Pour mh#belt3 Storm's Garter, "Statistics" oubliée dans la version original du coup problème...
+
+...........................................................
+
+mh#belt5  : (Original)
+
+Girdle of Ogre Blood
+
+Caldinar the Wily was a wizard of keen wits. Suspicious by nature, Caldinar manufactured a number of protective devices to come to his aid in an emergency. This broad belt is made of tanned ogre hide and features five glass lozenges filled with black ogre blood. Caldinar used the belt frequently in his adventures. When he died, his practical comrades sold the belt in an auction.
+
+STATISTICS:
+
+Equipped abilities:
+- Regeneration: 2 hp/turn
+
+Charge abilities:
+- Ogre Summoning (1/day, 5 ogres)
+
+Weight: 2
+
+mh#belt5  : (Autodescription)
+
+Girdle of Ogre Blood
+
+Caldinar the Wily was a wizard of keen wits. Suspicious by nature, Caldinar manufactured a number of protective devices to come to his aid in an emergency. This broad belt is made of tanned ogre hide and features five glass lozenges filled with black ogre blood. Caldinar used the belt frequently in his adventures. When he died, his practical comrades sold the belt in an auction.
+
+PARAMÈTRES : 
+
+Capacités d'équipement : 
+- Régénère 1 point de vie toutes les 30 secondes
+
+Capacités de charge : 
+- Capacité 1 (1 fois par jour)
+  Invoque une créature (Ogre)
+  Invoque une créature (Ogre)
+  Invoque une créature (Ogre)
+  Invoque une créature (Ogre)
+  Invoque une créature (Ogre)
+
+Pour mh#belt5 Girdle of Ogre Blood, cas un peu particulier et pas vraiment d'erreur...
+
+

@@ -1,0 +1,53 @@
+CLCK07 :
+
+-La Cape de Nymphe
+La fameuse cape de la nymphe est réputée accroître le Charisme de tout individu, fût-ce le nain le plus grincheux. Une noble cormyrienne qui espérait rendre plus agréable son mariage de raison a semble-t-il cassé sa tirelire afin d'en obtenir deux, une pour elle et une pour son mari.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- charisme : +2
+
+Capacités de charge :
+- Charme créature (jet de sauvegarde contre les Souffles à -1)
+  Portée : contact
+  Durée : 12 heures
+  Zone d'effet : 1 créature
+
+Poids : 3
+.............................................................CLCK24 :
+
+-La Cape de Reflet
+Vorn le Tueur de Druides conçut cette cape et s'en servit avec beaucoup de succès dans sa croisade pour éliminer tous les druides des forêts au sud de la Porte de Baldur. Croisade qui se termina assez abruptement le jour où il tomba sur une volée de wivernes attirées par l'éclat de la cape. Elle tuèrent Vorn et prirent le vêtement pour couvrir leur nid, ce qui permit de protéger leurs petits de la foudre pendant les orages.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- résistance à l'électricité : 100 %
+- renvoie tous les dégâts électriques à leur source
+
+Poids : 3
+.............................................................
+princess :
+
+- (placeholder) Description d'Anneau d'histoire
+
+Celui-ci n'a pas d'autre description...
+.............................................................
+wa2shiel :
+
+- Ce bouclier était porté par le héros Baldurien. Il s'agit de l'une des nombreuses armes et armures volées au musée de la ville de la Porte de Baldur.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Force : -1
+- Classe d'armure : +4
+
+Capacités de combat :
+- Renvoie les rayons des tyrannœils
+
+Nécessite :
+ 12 en Force
+
+Poids : 4
