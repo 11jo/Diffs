@@ -1,0 +1,205 @@
+	
+AMUL17.ITM : Opcode 321 à gérer.
+AMUL17.ITM : Opcode 321 à gérer.
+AX1H02.ITM : Opcode 319 à gérer.
+AX1H03.ITM : Opcode 319 à gérer.
+AX1H05.ITM : Opcode 319 à gérer.
+AX1H06.ITM : Opcode 319 à gérer.
+AX1H07.ITM : Opcode 319 à gérer.
+AX1H08.ITM : Opcode 319 à gérer.
+AX1H09.ITM : Opcode 319 à gérer.
+AX1H10.ITM : Opcode 319 à gérer.
+AX1H11.ITM : Opcode 319 à gérer.
+AX1H12.ITM : Opcode 319 à gérer.
+AX1H13.ITM : Opcode 319 à gérer.
+AX1H14.ITM : Opcode 319 à gérer.
+AX1H15.ITM : Opcode 319 à gérer.
+AX1H16.ITM : Opcode 319 à gérer.
+AX1H17.ITM : Opcode 319 à gérer.
+BDAMUL02.ITM : opcode 177: Traduction 225391 manquante
+BDAMUL02.ITM : FAILURE: opcode 177: Not_found
+BDAMUL26.ITM : Opcode 319 à gérer.
+BDBELT02.ITM : opcode 177: Traduction 225396 manquante
+BDBELT02.ITM : FAILURE: opcode 177: Not_found
+BDHAMM02.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : BDHAMM02
+bdvoid.spl : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+BDHELM16.ITM : Opcode 319 à gérer.
+BDSW1H06.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : BDSW1H06
+bdvoid.spl : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+BDSW2H01.ITM : Opcode 232 à gérer.
+BDSW2H01.ITM : La ressource BDSW2H01.eff n'existe pas.
+BELTBW.ITM : Opcode 319 à gérer.
+BELTSH.ITM : Opcode 319 à gérer.
+BLUN17.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN17
+BLUN17.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN17
+BLUN30.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+BLUN30.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+BLUN30.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+BLUN30.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN30
+BLUN30.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN30
+BLUN30C.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN30C
+BLUN30C.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN30C
+BOOT08.ITM : Opcode 272 à gérer.
+BOW06.ITM : Opcode 319 à gérer.
+BOW08.ITM : Opcode 319 à gérer.
+BOW14.ITM : Opcode 319 à gérer.
+BOW15.ITM : Opcode 319 à gérer.
+BOW18.ITM : Opcode 319 à gérer.
+BOW19.ITM : Opcode 319 à gérer.
+BOW20.ITM : Opcode 319 à gérer.
+BOW21.ITM : Opcode 319 à gérer.
+BOW26.ITM : Opcode 319 à gérer.
+BRUENAXE.ITM : Opcode 319 à gérer.
+CATTIBOW.ITM : Opcode 319 à gérer.
+CHALCY1.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : CHALCY1
+CHALCY1.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : CHALCY1
+CHALCY3.ITM : Opcode 321 à gérer.
+CHALCY3.ITM : Opcode 321 à gérer.
+CLCK07.ITM : Opcode 324 target probability à gérer
+CLCK07.ITM : Opcode 324 target probability à gérer
+CLCK24.ITM : FAILURE: opcode 197: Failure("CLCK24.ITM : Opcode 197 : R\195\169flection du Type de projectile '219' \195\160 g\195\169rer")
+DAGG13.ITM : Opcode 324 target probability à gérer
+DAGG13.ITM : Opcode 324 target probability à gérer
+DART04.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : DART04
+DART04.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : DART04
+DART05.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : DART05
+DART05.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : DART05
+DWSW1H01.ITM : Opcode 319 à gérer.
+ENSW2H.ITM : Opcode 319 à gérer.
+HALB05.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : HALB05
+HALB05.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : HALB05
+HALB11.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : HALB11
+HALB11.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : HALB11
+HLOLTH.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : HLOLTH
+HLOLTH.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : HLOLTH
+JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+KORAX01.ITM : Opcode 319 à gérer.
+LEAT23.ITM : Opcode 232 à gérer.
+MISC5X.ITM : Opcode 319 à gérer.
+MISC75.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : MISC75
+MISC75.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : MISC75
+NEBDAG.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : NEBDAG
+NEBDAG.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : NEBDAG
+NPARM.ITM : Opcode 319 à gérer.
+NPCHAN.ITM : Opcode 319 à gérer.
+NPCLCK.ITM : Opcode 319 à gérer.
+NPMISC2.ITM : Opcode 319 à gérer.
+NPPLAT.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+NPPLAT.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+NPPLAT.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+NPPLAT.ITM : Opcode 319 à gérer.
+NPSHLD.ITM : Opcode 319 à gérer.
+NPSTAF.ITM : Opcode 319 à gérer.
+NPSW02.ITM : Opcode 319 à gérer.
+NPSW03.ITM : Opcode 232 à gérer.
+NPSW04.ITM : Opcode 319 à gérer.
+NPSW04.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : NPSW04
+NPSW04.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : NPSW04
+NPSW05.ITM : Opcode 319 à gérer.
+NPSW05.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : NPSW05
+NPSW05.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : NPSW05
+OHBGLOV1.ITM : Opcode 232 à gérer.
+OHBGLOV1.ITM : Opcode 319 à gérer.
+OHBREW02.ITM : La ressource .eff n'existe pas.
+OHDARMOR.ITM : Opcode 319 à gérer.
+OHDARMOR.ITM : Opcode 232 à gérer.
+OHHCLOAK.ITM : Opcode 319 à gérer.
+OHHKORK.ITM : Opcode 319 à gérer.
+OHHSCIM.ITM : Opcode 319 à gérer.
+OHNHAMM1.ITM : Opcode 272 à gérer.
+OHNSHLD1.ITM : Opcode 272 à gérer.
+OHRAMUL1.ITM : FAILURE: opcode 197: Failure("OHRAMUL1.ITM : Opcode 197 : R\195\169flection du Type de projectile '36' \195\160 g\195\169rer")
+OHRAX1H1.ITM : Opcode 319 à gérer.
+OHRAXE01.ITM : Opcode 319 à gérer.
+OHRBELT2.ITM : Opcode 232 à gérer.
+OHRBOOT1.ITM : FAILURE: opcode 83: Failure("OHRBOOT1.ITM : Opcode 83 : Type de projectile '319' \195\160 g\195\169rer")
+OHRCLCK4.ITM : Opcode 232 à gérer.
+OHRINGWI.ITM : Opcode 180 à gérer.
+OHRINGWI.ITM : Opcode 180 à gérer.
+OHRSLNG1.ITM : Opcode 318 target probability à gérer
+OHRSLNG1.ITM : Opcode 318 target probability à gérer
+OHRSW1H1.ITM : Opcode 319 à gérer.
+OHSW1H55.ITM : Opcode 319 à gérer.
+PLAT06.ITM : Opcode 319 à gérer.
+PLAT18.ITM : Opcode 319 à gérer.
+PLAT20.ITM : Opcode 319 à gérer.
+REGISAMU.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : regisamu
+REGISAMU.ITM : Opcode 324 target probability à gérer
+REGISAMU.ITM : Opcode 324 target probability à gérer
+RING03.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : ring03
+RING03.ITM : Opcode 324 target probability à gérer
+RING03.ITM : Opcode 324 target probability à gérer
+RING08.ITM : Opcode 180 à gérer.
+RING08.ITM : Opcode 180 à gérer.
+RING09.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+RING30.ITM : Opcode 324 target probability à gérer
+RING30.ITM : Opcode 324 target probability à gérer
+ROSSRING.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+ROSSRING.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+ROSSRING.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+RSBOOT.ITM : Opcode 319 à gérer.
+RSBRAC.ITM : Opcode 319 à gérer.
+SENDAI.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SENDAI
+SENDAI.ITM : Opcode 324 target probability à gérer
+SHLD24.ITM : FAILURE: opcode 197: Failure("SHLD24.ITM : Opcode 197 : R\195\169flection du Type de projectile '318' \195\160 g\195\169rer")
+SHLD24A.ITM : FAILURE: opcode 197: Failure("SHLD24A.ITM : Opcode 197 : R\195\169flection du Type de projectile '1' \195\160 g\195\169rer")
+SHLD26.ITM : Opcode 319 à gérer.
+SHLD26A.ITM : Opcode 319 à gérer.
+SPER10.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SPER10
+SPER10.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SPER10
+SPER12.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+SPER12.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+SPER12.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+STAF23.ITM : Opcode 324 target probability à gérer
+STAF23.ITM : Opcode 324 target probability à gérer
+STAFN1.ITM : Opcode 319 à gérer.
+SW1H15.ITM : Opcode 319 à gérer.
+SW1H16.ITM : Opcode 319 à gérer.
+SW1H22.ITM : Opcode 319 à gérer.
+SW1H23.ITM : Opcode 319 à gérer.
+SW1H30.ITM : Opcode 319 à gérer.
+SW1H38.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SW1H38
+SW1H38.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SW1H38
+SW1H50.ITM : Opcode 319 à gérer.
+SW1H52.ITM : Opcode 319 à gérer.
+spin104a.spl : Opcode 146 : Nom du sort introuvable pour spin104a.spl.
+SW1H68.ITM : Opcode 319 à gérer.
+SW1H69.ITM : Opcode 319 à gérer.
+SW1H76.ITM : Opcode 319 à gérer.
+SW1HWK.ITM : Opcode 319 à gérer.
+SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+SW2H17.ITM : Opcode 324 target probability à gérer
+SW2H17.ITM : Opcode 324 target probability à gérer
+SW2H18.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SW2H18
+SW2H18.ITM : Opcode 324 target probability à gérer
+SW2HD1.ITM : Opcode 232 à gérer.
+SW2HD1.ITM : Opcode 232 à gérer.
+WA2SHIEL.ITM : FAILURE: opcode 197: Failure("WA2SHIEL.ITM : Opcode 197 : R\195\169flection du Type de projectile '320' \195\160 g\195\169rer")
+WAAXE.ITM : Opcode 319 à gérer.
+WANINJA.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : WANINJA
+WANINJA.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : WANINJA
+
+Total : 2867
+
+Sans description : 1206
+
+Ignores : 2145
+
+Reussis : 714
+
+Echoues : 8
+
+Potions (TODO): 371
+
+Munitions (TODO) : 51
+
+Opcodes a coder : 58

@@ -1,0 +1,254 @@
+	
+bdsw1h02.spl : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+bdsw1h02.itm : FAILURE: opcode 146: Failure("bdsw1h02.itm : opcode_target_probability_146 nom du sort introuvable pour BDSW1H02")
+bdsw1h02.spl : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+dtkswd1b.itm : FAILURE: opcode 146: Failure("dtkswd1b.itm : opcode_target_probability_146 nom du sort introuvable pour BDSW1H02")
+bdsw1h02.spl : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+dtkswd1c.itm : FAILURE: opcode 146: Failure("dtkswd1c.itm : opcode_target_probability_146 nom du sort introuvable pour BDSW1H02")
+bddagg05.spl : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+bddagg05.itm : FAILURE: opcode 146: Failure("bddagg05.itm : opcode_target_probability_146 nom du sort introuvable pour BDDAGG05")
+bddagg05.spl : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+dtkdag1.itm : FAILURE: opcode 146: Failure("dtkdag1.itm : opcode_target_probability_146 nom du sort introuvable pour BDDAGG05")
+bddagg05.spl : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+dtkdag2.itm : FAILURE: opcode 146: Failure("dtkdag2.itm : opcode_target_probability_146 nom du sort introuvable pour BDDAGG05")
+dtkamul1.itm : opcode 177: Traduction 225391 manquante
+dtkamul1.itm : FAILURE: opcode 177: Not_found
+bdxbow01.itm : La ressource BDXBOW01.eff n'existe pas.
+dtkxbow1.itm : La ressource DTKXBOW1.eff n'existe pas.
+bdblun07.itm : Opcode 340 à gérer.
+dtkclub1.itm : Opcode 340 à gérer.
+dtkclub1.itm : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN17
+dtkclub1.itm : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN17
+bdbow04.itm : Opcode 326 à gérer.
+dtkshout.spl : Opcode 146 : Nom du sort introuvable pour dtkshout.spl.
+dtkbow01.itm : FAILURE: opcode 146: Failure("dtkbow01.itm : opcode_target_probability_146 nom du sort introuvable pour DTKSHOUT")
+dtkblt01.itm : opcode 177: Traduction 225396 manquante
+dtkblt01.itm : FAILURE: opcode 177: Not_found
+dtkbdrgp.itm : Opcode 232 à gérer.
+dtkbdrgp.itm : Opcode 319 à gérer.
+dtkbdrgc.itm : Opcode 232 à gérer.
+dtkbdrgl.itm : Opcode 232 à gérer.
+dtkbdrgs.itm : Opcode 319 à gérer.
+dtkbldsh.itm : Opcode 319 à gérer.
+bdplat03.itm : Opcode 319 à gérer.
+dtkshld1.itm : FAILURE: opcode 197: Failure("dtkshld1.itm : Opcode 197 : R\195\169flection du Type de projectile '366' \195\160 g\195\169rer")
+bdclck03.itm : Opcode 232 à gérer.
+dtklea3d.itm : Opcode 232 à gérer.
+dtkplt1b.itm : Opcode 319 à gérer.
+dtkplt1f.itm : Opcode 319 à gérer.
+dtkplt1e.itm : Opcode 319 à gérer.
+dtkplt1a.itm : Opcode 319 à gérer.
+dtkplt1g.itm : Opcode 319 à gérer.
+dtkplt1d.itm : Opcode 232 à gérer.
+dtkplt1d.itm : Opcode 319 à gérer.
+dtkplt1c.itm : Opcode 319 à gérer.
+bdax1h03.itm : Opcode 319 à gérer.
+dtkax1ha.itm : Opcode 319 à gérer.
+dtkax1hb.itm : Opcode 319 à gérer.
+bdclck06.itm : Opcode 122 : La ressource BDALNT01.itm n'existe pas.
+bdclck06.itm : Opcode 122 : La ressource BDALNT02.itm n'existe pas.
+bdclck06.itm : Opcode 122 : La ressource BDALNT03.itm n'existe pas.
+bdclck06.itm : Opcode 122 : La ressource BDALNT04.itm n'existe pas.
+bdclck06.itm : Opcode 122 : La ressource BDALNT05.itm n'existe pas.
+bdclck06.itm : Opcode 122 : La ressource BDALNT06.itm n'existe pas.
+bdclck06.itm : Opcode 122 : La ressource BDALNT07.itm n'existe pas.
+bdsw1h01.itm : Opcode 232 à gérer.
+dtkswd8.itm : Opcode 232 à gérer.
+dtkswd8a.itm : Opcode 232 à gérer.
+dtklea1d.itm : Opcode 232 à gérer.
+dtkplt3f.itm : Opcode 319 à gérer.
+dtkplt3b.itm : Opcode 319 à gérer.
+dtkplt3e.itm : Opcode 319 à gérer.
+dtkplt3a.itm : Opcode 319 à gérer.
+dtkplt3g.itm : Opcode 319 à gérer.
+dtkplt3d.itm : Opcode 232 à gérer.
+dtkplt3d.itm : Opcode 319 à gérer.
+dtkplt3c.itm : Opcode 319 à gérer.
+bdsw1h08.itm : Opcode 319 à gérer.
+bdsw1h08.itm : Opcode 232 à gérer.
+dtkswd06.itm : Opcode 319 à gérer.
+dtkswd06.itm : Opcode 232 à gérer.
+dtkswd6a.itm : Opcode 319 à gérer.
+dtkswd6a.itm : Opcode 232 à gérer.
+dtkswd05.itm : Opcode 232 à gérer.
+dtkswd05.itm : La ressource BDSW2H01.eff n'existe pas.
+dtkswd5a.itm : Opcode 232 à gérer.
+dtkswd5a.itm : La ressource DTKICEL.eff n'existe pas.
+bdhamm06.itm : Opcode 361 à gérer.
+bdhamm06.itm : Opcode 326 à gérer.
+dtkham3.itm : Opcode 361 à gérer.
+bdsw1h03.itm : Opcode 319 à gérer.
+bdsw1h03.itm : La ressource BDSW1H3H.eff n'existe pas.
+bdsw1h03.itm : La ressource BDSW1H03.eff n'existe pas.
+bdsw1h03.itm : La ressource BDSW1H3D.eff n'existe pas.
+bdsw1h03.itm : La ressource BDSW1H3D.eff n'existe pas.
+bdshld03.itm : opcode 177: Traduction 225405 manquante
+bdshld03.itm : FAILURE: opcode 177: Not_found
+dtksnow.spl : Opcode 146 : Nom du sort introuvable pour dtksnow.spl.
+dtktdag2.itm : FAILURE: opcode 146: Failure("dtktdag2.itm : opcode_target_probability_146 nom du sort introuvable pour DTKSNOW")
+bdhalb02.itm : La ressource BDFESTER.eff n'existe pas.
+bdhalb02.itm : Opcode 146 : La ressource BDHALB02.eff n'existe pas.
+dtkshrd.spl : Opcode 146 : Nom du sort introuvable pour dtkshrd.spl.
+dtkswd03.itm : FAILURE: opcode 146: Failure("dtkswd03.itm : opcode_target_probability_146 nom du sort introuvable pour DTKSHRD")
+dtkshrd.spl : Opcode 146 : Nom du sort introuvable pour dtkshrd.spl.
+dtkswd3a.itm : FAILURE: opcode 146: Failure("dtkswd3a.itm : opcode_target_probability_146 nom du sort introuvable pour DTKSHRD")
+bdsw1h14.itm : Opcode 232 à gérer.
+bdsw1h14.itm : Opcode 146 : La ressource BDSW1H14.eff n'existe pas.
+bdsw1h14.itm : FAILURE: opcode 146: Failure("bdsw1h14.itm : opcode_target_probability_146 nom du sort introuvable pour BDSW1H14")
+dtkgdrgp.itm : Opcode 319 à gérer.
+dtkshld5.itm : Opcode 319 à gérer.
+bddoom.spl : Opcode 146 : Nom du sort introuvable pour bddoom.spl.
+bdxbow02.itm : FAILURE: opcode 146: Failure("bdxbow02.itm : opcode_target_probability_146 nom du sort introuvable pour BDDOOM")
+bdbrac02.itm : opcode 177: Traduction 225398 manquante
+bdbrac02.itm : FAILURE: opcode 177: Not_found
+dtkbrac2.itm : opcode 177: Traduction 225398 manquante
+dtkbrac2.itm : FAILURE: opcode 177: Not_found
+bdbelt01.itm : Opcode 321 à gérer.
+dtkblt02.itm : Opcode 321 à gérer.
+dtkaxe01.itm : Opcode 319 à gérer.
+dtkaxe02.itm : Opcode 319 à gérer.
+dtkwave.spl : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+dtkaxe02.itm : FAILURE: opcode 146: Failure("dtkaxe02.itm : opcode_target_probability_146 nom du sort introuvable pour DTKWAVE")
+dtkaxe2a.itm : Opcode 319 à gérer.
+dtkwave.spl : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+dtkaxe2a.itm : FAILURE: opcode 146: Failure("dtkaxe2a.itm : opcode_target_probability_146 nom du sort introuvable pour DTKWAVE")
+dtkwave.spl : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+dtkhalb2.itm : FAILURE: opcode 146: Failure("dtkhalb2.itm : opcode_target_probability_146 nom du sort introuvable pour DTKWAVE")
+dtkwave.spl : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+dtkhalb3.itm : FAILURE: opcode 146: Failure("dtkhalb3.itm : opcode_target_probability_146 nom du sort introuvable pour DTKWAVE")
+dtkhmail.itm : Opcode 206 : La ressource BDBELDIS.eff n'existe pas.
+dtkhplt.itm : Opcode 232 à gérer.
+dtkhplt.itm : Opcode 206 : La ressource BDBELDIS.eff n'existe pas.
+bdblun04.itm : La ressource BDBLUN04.eff n'existe pas.
+dtkbln1.itm : Unknown macro: opcode_self_probability_341
+dtkbln1a.itm : La ressource DTKBLN1A.eff n'existe pas.
+dtkbln1a.itm : La ressource BDBLUN04.eff n'existe pas.
+dtknecro.itm : Opcode 232 à gérer.
+dtknecr2.itm : Opcode 232 à gérer.
+bdleat07.itm : Opcode 232 à gérer.
+dtklea02.itm : Opcode 232 à gérer.
+dtklea02.itm : Opcode 232 à gérer.
+dtkleat3.itm : Opcode 232 à gérer.
+dtkleat3.itm : Opcode 232 à gérer.
+bdbrac15.itm : Opcode 361 à gérer.
+bdmisc05.itm : Opcode 206 : La ressource BDBELDIS.eff n'existe pas.
+dtkrdrgs.itm : Opcode 319 à gérer.
+sppr203d.spl : Opcode 206 : Nom du sort introuvable pour sppr203d.spl.
+sppr203e.spl : Opcode 206 : Nom du sort introuvable pour sppr203e.spl.
+sppr203d.spl : Opcode 206 : Nom du sort introuvable pour sppr203d.spl.
+sppr203e.spl : Opcode 206 : Nom du sort introuvable pour sppr203e.spl.
+bdbow05.itm : Opcode 319 à gérer.
+bdbow05.itm : Opcode 326 à gérer.
+bdbow05.itm : Opcode 326 à gérer.
+bdbow05.itm : Opcode 326 à gérer.
+dtkplt4.itm : Opcode 319 à gérer.
+dtksdrgs.itm : Opcode 319 à gérer.
+bdsper1a.spl : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+bdsper01.itm : FAILURE: opcode 146: Failure("bdsper01.itm : opcode_target_probability_146 nom du sort introuvable pour BDSPER1A")
+bdsper1a.spl : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+dtksper1.itm : FAILURE: opcode 146: Failure("dtksper1.itm : opcode_target_probability_146 nom du sort introuvable pour BDSPER1A")
+dtkspr1a.itm : La ressource DTKWHIRL.eff n'existe pas.
+bdsper1a.spl : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+dtkspr1a.itm : FAILURE: opcode 146: Failure("dtkspr1a.itm : opcode_target_probability_146 nom du sort introuvable pour BDSPER1A")
+bdbrac01.itm : Opcode 206 : La ressource SPWI228.eff n'existe pas.
+bdbrac01.itm : La ressource BDBRAC01.eff n'existe pas.
+dtklea5.itm : Opcode 232 à gérer.
+dtklea5a.itm : Opcode 232 à gérer.
+dtksishd.itm : Opcode 319 à gérer.
+dtksilk.itm : Opcode 319 à gérer.
+bdboot01.itm : Opcode 206 : La ressource BDBOW06.eff n'existe pas.
+bdboot01.itm : Opcode 206 : La ressource BDSHAMB.eff n'existe pas.
+bdboot01.itm : Opcode 206 : La ressource bdspidga.eff n'existe pas.
+dtkboot1.itm : Opcode 206 : La ressource CDSW1H58.eff n'existe pas.
+dtkboot1.itm : Opcode 206 : La ressource CDMOUND.eff n'existe pas.
+dtkboot1.itm : Opcode 206 : La ressource CDHGNYA1.eff n'existe pas.
+dtksolem.itm : opcode 344: Traduction 204169 manquante
+dtksolem.itm : FAILURE: opcode 344: Not_found
+bdsw1h25.itm : opcode 177: Traduction 225386 manquante
+bdsw1h25.itm : FAILURE: opcode 177: Not_found
+bdbrac05.itm : opcode 177: Traduction 225392 manquante
+bdbrac05.itm : FAILURE: opcode 177: Not_found
+dtkbrac1.itm : opcode 177: Traduction 225392 manquante
+dtkbrac1.itm : FAILURE: opcode 177: Not_found
+bdboot03.itm : opcode 177: Traduction 225386 manquante
+bdboot03.itm : FAILURE: opcode 177: Not_found
+dtkboot2.itm : opcode 177: Traduction 225386 manquante
+dtkboot2.itm : FAILURE: opcode 177: Not_found
+dtkaxe03.itm : Opcode 319 à gérer.
+bdhalb01.itm : Opcode 361 à gérer.
+bdshld02.itm : Opcode 232 à gérer.
+dtkshld4.itm : Opcode 232 à gérer.
+bdsw2h03.itm : La ressource BDSW2H03.eff n'existe pas.
+bdsw2h02.itm : La ressource BDSW2H02.eff n'existe pas.
+bdsw2h02.itm : La ressource BDSW2H2D.eff n'existe pas.
+dtkswd07.itm : Opcode 232 à gérer.
+dtkswd07.itm : Opcode 324 self à gérer
+dtkswd7a.itm : Opcode 232 à gérer.
+dtkswd7a.itm : Opcode 324 self à gérer
+dtkswd7b.itm : Opcode 232 à gérer.
+dtkswd7b.itm : Opcode 324 self à gérer
+dtkplat1.itm : Opcode 319 à gérer.
+bdsw1h21.itm : Opcode 340 à gérer.
+bdsw1h21.spl : Opcode 146 : Nom du sort introuvable pour bdsw1h21.spl.
+dtkswd04.itm : Opcode 340 à gérer.
+dtkbldvx.spl : Opcode 146 : Nom du sort introuvable pour dtkbldvx.spl.
+dtkskald.spl : Opcode 146 : Nom du sort introuvable pour dtkskald.spl.
+dtkham01.itm : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : DTKHAM01
+dtkdrain.spl : Opcode 146 : Nom du sort introuvable pour dtkdrain.spl.
+dtkham01.itm : FAILURE: opcode 146: Failure("dtkham01.itm : opcode_target_probability_146 nom du sort introuvable pour DTKDRAIN")
+dtkswd02.itm : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : DTKSWD02
+dtkdrain.spl : Opcode 146 : Nom du sort introuvable pour dtkdrain.spl.
+dtkswd02.itm : FAILURE: opcode 146: Failure("dtkswd02.itm : opcode_target_probability_146 nom du sort introuvable pour DTKDRAIN")
+dtkplt3.itm : Opcode 319 à gérer.
+dtkswd00.itm : Opcode 319 à gérer.
+dtkwave.spl : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+dtkswd00.itm : FAILURE: opcode 146: Failure("dtkswd00.itm : opcode_target_probability_146 nom du sort introuvable pour DTKWAVE")
+dtkplt2.itm : Opcode 319 à gérer.
+dtkwdshd.itm : Opcode 319 à gérer.
+bdsumst.itm : FAILURE: opcode 214: Failure("bdsumst.itm : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da dtksumst")
+bess.itm : Unknown macro: opcode_target_probability_22
+cdwuff.itm : Opcode 206 : La ressource SPIN169.eff n'existe pas.
+helmdef.itm : Opcode 318 self à gérer
+helmdef.itm : Opcode 318 self à gérer
+ohbrac02.itm : La ressource OHBRAC02.eff n'existe pas.
+ringed.itm : Opcode 180 à gérer.
+ringed.itm : Opcode 180 à gérer.
+ringed.itm : Opcode 180 à gérer.
+ringed.itm : Opcode 180 à gérer.
+ringed.itm : Opcode 180 à gérer.
+ringed.itm : Opcode 180 à gérer.
+ringkon.itm : Opcode 180 à gérer.
+ringkon.itm : Opcode 180 à gérer.
+ringkon.itm : Opcode 180 à gérer.
+ringkon.itm : Opcode 180 à gérer.
+ringkon.itm : Opcode 180 à gérer.
+ringkon.itm : Opcode 180 à gérer.
+sash.itm : Opcode 318 self à gérer
+u1hax2a.itm : Opcode 319 à gérer.
+u1hax3a.itm : Opcode 319 à gérer.
+u2ham5a.itm : Unknown macro: opcode_target_probability_148
+ubswd4b.itm : Opcode 272 à gérer.
+zzd5woh.itm : Opcode 319 à gérer.
+zzd5woh.itm : Opcode 318 self à gérer
+zzd5woh.itm : Opcode 318 self à gérer
+zzd5woh.itm : Opcode 318 self à gérer
+zzd5woh.itm : Opcode 318 self à gérer
+zzd5woh.itm : Opcode 318 self à gérer
+zzm5mh.itm : Opcode 324 target probability à gérer
+
+Total : 402
+
+Sans description : 12
+
+Ignores : 113
+
+Reussis : 251
+
+Echoues : 38
+
+Potions (TODO): 5
+
+Munitions (TODO) : 12
+
+Opcodes a coder : 58
+
