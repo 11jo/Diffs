@@ -1,0 +1,66 @@
+	
+pxpaaele.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaafau.itm : FAILURE: opcode 249: Failure("Failure(\"Unknown macro: opcode_target_93\")")
+pxpaanui.spl : Opcode 146 : Nom du sort introuvable pour pxpaanui.spl.
+pxpaapyr.itm : FAILURE: opcode 249: Failure("Failure(\"Unknown macro: %method%\")")
+pxpaater.spl : Opcode 146 : Nom du sort introuvable pour pxpaater.spl.
+pxpabele.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpabron.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpabtes.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpachap.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaclan.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpacuin.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpadfin.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpadisr.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpadmec.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+PXPAEEAU.eff : Opcode 127 à gérer.
+pxpaeele.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaeequ.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaelec.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaelit.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaeroc.itm : FAILURE: opcode 1: Not_found
+pxpaeven.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaforc.itm : Opcode 232 à gérer.
+pxpagmys.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpagouv.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpahcha.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaheau.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpahpui.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpahpyr.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpahult.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpahven.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpamcla.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpaouvr.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_22\")")
+pxpmhirc.itm : Opcode 180 à gérer.
+pxpmhirc.itm : Opcode 180 à gérer.
+pxpmmol1.spl : Opcode 146 : Nom du sort introuvable pour pxpmmol1.spl.
+pxpmmol2.spl : Opcode 146 : Nom du sort introuvable pour pxpmmol2.spl.
+pxpmmola.itm : FAILURE: opcode 177: Failure("Failure(\"PXPMMOL2.eff : opcode_target_probability_146 nom du sort introuvable pour PXPMMOL2\")")
+pxpmroya.itm : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+pxpmroya.itm : Opcode 206 : La ressource cdmound.eff n'existe pas.
+pxpmroya.itm : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+pxpmroya.itm : Opcode 202 à gérer.
+pxpmroya.itm : Opcode 202 à gérer.
+pxpmroya.itm : Opcode 202 à gérer.
+pxpmroya.itm : Opcode 202 à gérer.
+pxpmroya.itm : Opcode 202 à gérer.
+pxpmroya.itm : Opcode 202 à gérer.
+pxpmroya.itm : Opcode 202 à gérer.
+pxpmroya.itm : Opcode 202 à gérer.
+pxpmson1.spl : Opcode 146 : Nom du sort introuvable pour pxpmson1.spl.
+
+Total : 230
+
+Sans description : 3
+
+Ignores : 29
+
+Reussis : 172
+
+Echoues : 29
+
+Potions (TODO): 12
+
+Munitions (TODO) : 2
+
+Opcodes a coder : 58
