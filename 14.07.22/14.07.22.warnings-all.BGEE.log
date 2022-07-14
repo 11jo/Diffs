@@ -1,0 +1,615 @@
+	
+AMUL17.ITM : Opcode 321 à gérer.
+AMUL17.ITM : Opcode 321 à gérer.
+spin775.spl : AMUL17.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+AX1H02.ITM : Opcode 319 à gérer.
+AX1H03.ITM : Opcode 319 à gérer.
+AX1H05.ITM : Opcode 319 à gérer.
+AX1H06.ITM : Opcode 319 à gérer.
+AX1H06.ITM : La ressource BDRHYTE.eff n'existe pas.
+AX1H07.ITM : Opcode 319 à gérer.
+AX1H11.ITM : Opcode 319 à gérer.
+AX1H16.ITM : Opcode 319 à gérer.
+AX1H17.ITM : Opcode 319 à gérer.
+AX1H18.ITM : Opcode 319 à gérer.
+AX1H19.ITM : Opcode 319 à gérer.
+BDAMUL02.ITM : Opcode 177 : File = 9 : entry = 16391
+BDAMUL02.ITM : 0x00004001 : Berserker
+BDAMUL02.ITM : 0x00004002 : Tueur de Magiciens
+BDAMUL02.ITM : 0x00004003 : Kensai
+BDAMUL02.ITM : 0x00004004 : Cavalier
+BDAMUL02.ITM : 0x00004005 : Inquisiteur
+BDAMUL02.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDAMUL02.ITM : 0x00004007 : Archer
+BDAMUL02.ITM : 0x00004008 : Traqueur
+BDAMUL02.ITM : 0x00004009 : Belluaire
+BDAMUL02.ITM : 0x0000400A : Assassin
+BDAMUL02.ITM : 0x0000400B : Chasseur de Primes
+BDAMUL02.ITM : 0x0000400C : Bretteur
+BDAMUL02.ITM : 0x0000400D : Maître-Lames
+BDAMUL02.ITM : 0x0000400E : Bouffon
+BDAMUL02.ITM : 0x0000400F : Scalde
+BDAMUL02.ITM : 0x00004010 : Druide totémique
+BDAMUL02.ITM : 0x00004011 : Métamorphe
+BDAMUL02.ITM : 0x00004012 : Justicier
+BDAMUL02.ITM : 0x00004013 : Prêtre de Talos
+BDAMUL02.ITM : 0x00004014 : Prêtre de Heaum
+BDAMUL02.ITM : 0x00004015 : Prêtre de Lathandre
+BDAMUL02.ITM : 0x00000040 : Abjurateur
+BDAMUL02.ITM : 0x00000080 : Conjurateur
+BDAMUL02.ITM : 0x00000100 : Devin
+BDAMUL02.ITM : 0x00000200 : Enchanteur
+BDAMUL02.ITM : 0x00000400 : Illusionniste
+BDAMUL02.ITM : 0x00000800 : Invocateur
+BDAMUL02.ITM : 0x00001000 : Nécromancien
+BDAMUL02.ITM : 0x00002000 : Transmutateur
+BDAMUL02.ITM : 0x80000000 : Entropiste
+BDAMUL02.ITM : 0x40000000 : Barbare
+BDAMUL02.ITM : 0x00004020 : Chevalier Noir
+BDAMUL02.ITM : 0x00004021 : Maître des Ombres
+BDAMUL02.ITM : 0x00004022 : Protecteur Nain
+BDAMUL02.ITM : 0x00004023 : Disciple du Dragon
+BDAMUL02.ITM : 0x00004024 : Moine de la Lune Noire
+BDAMUL02.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDAMUL02.ITM : 0x00004026 : Prêtre de Tyr
+BDAMUL02.ITM : 0x00004028 : Prêtre de Tyr
+BDAMUL02.ITM : 0x00004029 : Prêtre de Tempus
+BDAMUL02.ITM : opcode 177: Traduction 225391 manquante
+BDAMUL02.ITM : FAILURE: opcode 177: Not_found
+BDAMUL06.ITM : Opcode 177 : File = 9 : entry = 16404
+BDAMUL06.ITM : 0x00004001 : Berserker
+BDAMUL06.ITM : 0x00004002 : Tueur de Magiciens
+BDAMUL06.ITM : 0x00004003 : Kensai
+BDAMUL06.ITM : 0x00004004 : Cavalier
+BDAMUL06.ITM : 0x00004005 : Inquisiteur
+BDAMUL06.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDAMUL06.ITM : 0x00004007 : Archer
+BDAMUL06.ITM : 0x00004008 : Traqueur
+BDAMUL06.ITM : 0x00004009 : Belluaire
+BDAMUL06.ITM : 0x0000400A : Assassin
+BDAMUL06.ITM : 0x0000400B : Chasseur de Primes
+BDAMUL06.ITM : 0x0000400C : Bretteur
+BDAMUL06.ITM : 0x0000400D : Maître-Lames
+BDAMUL06.ITM : 0x0000400E : Bouffon
+BDAMUL06.ITM : 0x0000400F : Scalde
+BDAMUL06.ITM : 0x00004010 : Druide totémique
+BDAMUL06.ITM : 0x00004011 : Métamorphe
+BDAMUL06.ITM : 0x00004012 : Justicier
+BDAMUL06.ITM : 0x00004013 : Prêtre de Talos
+BDAMUL06.ITM : 0x00004014 : Prêtre de Heaum
+BDAMUL06.ITM : 0x00004015 : Prêtre de Lathandre
+BDAMUL06.ITM : 0x00000040 : Abjurateur
+BDAMUL06.ITM : 0x00000080 : Conjurateur
+BDAMUL06.ITM : 0x00000100 : Devin
+BDAMUL06.ITM : 0x00000200 : Enchanteur
+BDAMUL06.ITM : 0x00000400 : Illusionniste
+BDAMUL06.ITM : 0x00000800 : Invocateur
+BDAMUL06.ITM : 0x00001000 : Nécromancien
+BDAMUL06.ITM : 0x00002000 : Transmutateur
+BDAMUL06.ITM : 0x80000000 : Entropiste
+BDAMUL06.ITM : 0x40000000 : Barbare
+BDAMUL06.ITM : 0x00004020 : Chevalier Noir
+BDAMUL06.ITM : 0x00004021 : Maître des Ombres
+BDAMUL06.ITM : 0x00004022 : Protecteur Nain
+BDAMUL06.ITM : 0x00004023 : Disciple du Dragon
+BDAMUL06.ITM : 0x00004024 : Moine de la Lune Noire
+BDAMUL06.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDAMUL06.ITM : 0x00004026 : Prêtre de Tyr
+BDAMUL06.ITM : 0x00004028 : Prêtre de Tyr
+BDAMUL06.ITM : 0x00004029 : Prêtre de Tempus
+BDAMUL06.ITM : opcode 177: Traduction 225404 manquante
+BDAMUL06.ITM : FAILURE: opcode 177: Not_found
+BDAMUL11.ITM : Opcode 177 : File = 9 : entry = 16401
+BDAMUL11.ITM : 0x00004001 : Berserker
+BDAMUL11.ITM : 0x00004002 : Tueur de Magiciens
+BDAMUL11.ITM : 0x00004003 : Kensai
+BDAMUL11.ITM : 0x00004004 : Cavalier
+BDAMUL11.ITM : 0x00004005 : Inquisiteur
+BDAMUL11.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDAMUL11.ITM : 0x00004007 : Archer
+BDAMUL11.ITM : 0x00004008 : Traqueur
+BDAMUL11.ITM : 0x00004009 : Belluaire
+BDAMUL11.ITM : 0x0000400A : Assassin
+BDAMUL11.ITM : 0x0000400B : Chasseur de Primes
+BDAMUL11.ITM : 0x0000400C : Bretteur
+BDAMUL11.ITM : 0x0000400D : Maître-Lames
+BDAMUL11.ITM : 0x0000400E : Bouffon
+BDAMUL11.ITM : 0x0000400F : Scalde
+BDAMUL11.ITM : 0x00004010 : Druide totémique
+BDAMUL11.ITM : 0x00004011 : Métamorphe
+BDAMUL11.ITM : 0x00004012 : Justicier
+BDAMUL11.ITM : 0x00004013 : Prêtre de Talos
+BDAMUL11.ITM : 0x00004014 : Prêtre de Heaum
+BDAMUL11.ITM : 0x00004015 : Prêtre de Lathandre
+BDAMUL11.ITM : 0x00000040 : Abjurateur
+BDAMUL11.ITM : 0x00000080 : Conjurateur
+BDAMUL11.ITM : 0x00000100 : Devin
+BDAMUL11.ITM : 0x00000200 : Enchanteur
+BDAMUL11.ITM : 0x00000400 : Illusionniste
+BDAMUL11.ITM : 0x00000800 : Invocateur
+BDAMUL11.ITM : 0x00001000 : Nécromancien
+BDAMUL11.ITM : 0x00002000 : Transmutateur
+BDAMUL11.ITM : 0x80000000 : Entropiste
+BDAMUL11.ITM : 0x40000000 : Barbare
+BDAMUL11.ITM : 0x00004020 : Chevalier Noir
+BDAMUL11.ITM : 0x00004021 : Maître des Ombres
+BDAMUL11.ITM : 0x00004022 : Protecteur Nain
+BDAMUL11.ITM : 0x00004023 : Disciple du Dragon
+BDAMUL11.ITM : 0x00004024 : Moine de la Lune Noire
+BDAMUL11.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDAMUL11.ITM : 0x00004026 : Prêtre de Tyr
+BDAMUL11.ITM : 0x00004028 : Prêtre de Tyr
+BDAMUL11.ITM : 0x00004029 : Prêtre de Tempus
+BDAMUL11.ITM : opcode 177: Traduction 225401 manquante
+BDAMUL11.ITM : FAILURE: opcode 177: Not_found
+BDAMUL12.ITM : Opcode 319 à gérer.
+BDAMUL26.ITM : Opcode 319 à gérer.
+BDAX1H02.ITM : Opcode 319 à gérer.
+BDAX1H02.ITM : Opcode 318 self à gérer
+bdax1h02.spl : BDAX1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h02.spl.
+bdax1h02.spl : BDAX1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h02.spl.
+BDAX1H03.ITM : Opcode 319 à gérer.
+BDAX1H04.ITM : Opcode 319 à gérer.
+BDAX1H05.ITM : Opcode 319 à gérer.
+BDAX1H05.ITM : Opcode 318 self à gérer
+bdax1h05.spl : BDAX1H05.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h05.spl.
+bdax1h05.spl : BDAX1H05.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h05.spl.
+BDBELT01.ITM : Opcode 321 à gérer.
+BDBELT02.ITM : Opcode 177 : File = 9 : entry = 16396
+BDBELT02.ITM : 0x00004001 : Berserker
+BDBELT02.ITM : 0x00004002 : Tueur de Magiciens
+BDBELT02.ITM : 0x00004003 : Kensai
+BDBELT02.ITM : 0x00004004 : Cavalier
+BDBELT02.ITM : 0x00004005 : Inquisiteur
+BDBELT02.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDBELT02.ITM : 0x00004007 : Archer
+BDBELT02.ITM : 0x00004008 : Traqueur
+BDBELT02.ITM : 0x00004009 : Belluaire
+BDBELT02.ITM : 0x0000400A : Assassin
+BDBELT02.ITM : 0x0000400B : Chasseur de Primes
+BDBELT02.ITM : 0x0000400C : Bretteur
+BDBELT02.ITM : 0x0000400D : Maître-Lames
+BDBELT02.ITM : 0x0000400E : Bouffon
+BDBELT02.ITM : 0x0000400F : Scalde
+BDBELT02.ITM : 0x00004010 : Druide totémique
+BDBELT02.ITM : 0x00004011 : Métamorphe
+BDBELT02.ITM : 0x00004012 : Justicier
+BDBELT02.ITM : 0x00004013 : Prêtre de Talos
+BDBELT02.ITM : 0x00004014 : Prêtre de Heaum
+BDBELT02.ITM : 0x00004015 : Prêtre de Lathandre
+BDBELT02.ITM : 0x00000040 : Abjurateur
+BDBELT02.ITM : 0x00000080 : Conjurateur
+BDBELT02.ITM : 0x00000100 : Devin
+BDBELT02.ITM : 0x00000200 : Enchanteur
+BDBELT02.ITM : 0x00000400 : Illusionniste
+BDBELT02.ITM : 0x00000800 : Invocateur
+BDBELT02.ITM : 0x00001000 : Nécromancien
+BDBELT02.ITM : 0x00002000 : Transmutateur
+BDBELT02.ITM : 0x80000000 : Entropiste
+BDBELT02.ITM : 0x40000000 : Barbare
+BDBELT02.ITM : 0x00004020 : Chevalier Noir
+BDBELT02.ITM : 0x00004021 : Maître des Ombres
+BDBELT02.ITM : 0x00004022 : Protecteur Nain
+BDBELT02.ITM : 0x00004023 : Disciple du Dragon
+BDBELT02.ITM : 0x00004024 : Moine de la Lune Noire
+BDBELT02.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDBELT02.ITM : 0x00004026 : Prêtre de Tyr
+BDBELT02.ITM : 0x00004028 : Prêtre de Tyr
+BDBELT02.ITM : 0x00004029 : Prêtre de Tempus
+BDBELT02.ITM : opcode 177: Traduction 225396 manquante
+BDBELT02.ITM : FAILURE: opcode 177: Not_found
+BDBLUN04.ITM : La ressource BDBLUN04.eff n'existe pas.
+BDBLUN07.ITM : Opcode 340 à gérer.
+bdbow06.spl : BDBOOT01.ITM : Opcode 206 : Nom du sort introuvable pour bdbow06.spl.
+bdshamb.spl : BDBOOT01.ITM : Opcode 206 : Nom du sort introuvable pour bdshamb.spl.
+BDBOOT03.ITM : Opcode 177 : File = 9 : entry = 16386
+BDBOOT03.ITM : 0x00004001 : Berserker
+BDBOOT03.ITM : 0x00004002 : Tueur de Magiciens
+BDBOOT03.ITM : 0x00004003 : Kensai
+BDBOOT03.ITM : 0x00004004 : Cavalier
+BDBOOT03.ITM : 0x00004005 : Inquisiteur
+BDBOOT03.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDBOOT03.ITM : 0x00004007 : Archer
+BDBOOT03.ITM : 0x00004008 : Traqueur
+BDBOOT03.ITM : 0x00004009 : Belluaire
+BDBOOT03.ITM : 0x0000400A : Assassin
+BDBOOT03.ITM : 0x0000400B : Chasseur de Primes
+BDBOOT03.ITM : 0x0000400C : Bretteur
+BDBOOT03.ITM : 0x0000400D : Maître-Lames
+BDBOOT03.ITM : 0x0000400E : Bouffon
+BDBOOT03.ITM : 0x0000400F : Scalde
+BDBOOT03.ITM : 0x00004010 : Druide totémique
+BDBOOT03.ITM : 0x00004011 : Métamorphe
+BDBOOT03.ITM : 0x00004012 : Justicier
+BDBOOT03.ITM : 0x00004013 : Prêtre de Talos
+BDBOOT03.ITM : 0x00004014 : Prêtre de Heaum
+BDBOOT03.ITM : 0x00004015 : Prêtre de Lathandre
+BDBOOT03.ITM : 0x00000040 : Abjurateur
+BDBOOT03.ITM : 0x00000080 : Conjurateur
+BDBOOT03.ITM : 0x00000100 : Devin
+BDBOOT03.ITM : 0x00000200 : Enchanteur
+BDBOOT03.ITM : 0x00000400 : Illusionniste
+BDBOOT03.ITM : 0x00000800 : Invocateur
+BDBOOT03.ITM : 0x00001000 : Nécromancien
+BDBOOT03.ITM : 0x00002000 : Transmutateur
+BDBOOT03.ITM : 0x80000000 : Entropiste
+BDBOOT03.ITM : 0x40000000 : Barbare
+BDBOOT03.ITM : 0x00004020 : Chevalier Noir
+BDBOOT03.ITM : 0x00004021 : Maître des Ombres
+BDBOOT03.ITM : 0x00004022 : Protecteur Nain
+BDBOOT03.ITM : 0x00004023 : Disciple du Dragon
+BDBOOT03.ITM : 0x00004024 : Moine de la Lune Noire
+BDBOOT03.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDBOOT03.ITM : 0x00004026 : Prêtre de Tyr
+BDBOOT03.ITM : 0x00004028 : Prêtre de Tyr
+BDBOOT03.ITM : 0x00004029 : Prêtre de Tempus
+BDBOOT03.ITM : opcode 177: Traduction 225386 manquante
+BDBOOT03.ITM : FAILURE: opcode 177: Not_found
+BDBOW01.ITM : Opcode 319 à gérer.
+BDBOW01.ITM : Opcode 318 self à gérer
+bdbow01.spl : BDBOW01.ITM : Opcode 146 : Nom du sort introuvable pour bdbow01.spl.
+BDBOW02.ITM : La ressource BDBOW02.eff n'existe pas.
+BDBOW03.ITM : Opcode 319 à gérer.
+bdfleshr.spl : BDBOW03.ITM : Opcode 146 : Nom du sort introuvable pour bdfleshr.spl.
+BDBOW04.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 319 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW06.ITM : Opcode 319 à gérer.
+bdbow06.spl : BDBOW06.ITM : Opcode 146 : Nom du sort introuvable pour bdbow06.spl.
+BDBRAC01.ITM : La ressource BDBRAC01.eff n'existe pas.
+BDBRAC02.ITM : Opcode 177 : File = 9 : entry = 16398
+BDBRAC02.ITM : 0x00004001 : Berserker
+BDBRAC02.ITM : 0x00004002 : Tueur de Magiciens
+BDBRAC02.ITM : 0x00004003 : Kensai
+BDBRAC02.ITM : 0x00004004 : Cavalier
+BDBRAC02.ITM : 0x00004005 : Inquisiteur
+BDBRAC02.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDBRAC02.ITM : 0x00004007 : Archer
+BDBRAC02.ITM : 0x00004008 : Traqueur
+BDBRAC02.ITM : 0x00004009 : Belluaire
+BDBRAC02.ITM : 0x0000400A : Assassin
+BDBRAC02.ITM : 0x0000400B : Chasseur de Primes
+BDBRAC02.ITM : 0x0000400C : Bretteur
+BDBRAC02.ITM : 0x0000400D : Maître-Lames
+BDBRAC02.ITM : 0x0000400E : Bouffon
+BDBRAC02.ITM : 0x0000400F : Scalde
+BDBRAC02.ITM : 0x00004010 : Druide totémique
+BDBRAC02.ITM : 0x00004011 : Métamorphe
+BDBRAC02.ITM : 0x00004012 : Justicier
+BDBRAC02.ITM : 0x00004013 : Prêtre de Talos
+BDBRAC02.ITM : 0x00004014 : Prêtre de Heaum
+BDBRAC02.ITM : 0x00004015 : Prêtre de Lathandre
+BDBRAC02.ITM : 0x00000040 : Abjurateur
+BDBRAC02.ITM : 0x00000080 : Conjurateur
+BDBRAC02.ITM : 0x00000100 : Devin
+BDBRAC02.ITM : 0x00000200 : Enchanteur
+BDBRAC02.ITM : 0x00000400 : Illusionniste
+BDBRAC02.ITM : 0x00000800 : Invocateur
+BDBRAC02.ITM : 0x00001000 : Nécromancien
+BDBRAC02.ITM : 0x00002000 : Transmutateur
+BDBRAC02.ITM : 0x80000000 : Entropiste
+BDBRAC02.ITM : 0x40000000 : Barbare
+BDBRAC02.ITM : 0x00004020 : Chevalier Noir
+BDBRAC02.ITM : 0x00004021 : Maître des Ombres
+BDBRAC02.ITM : 0x00004022 : Protecteur Nain
+BDBRAC02.ITM : 0x00004023 : Disciple du Dragon
+BDBRAC02.ITM : 0x00004024 : Moine de la Lune Noire
+BDBRAC02.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDBRAC02.ITM : 0x00004026 : Prêtre de Tyr
+BDBRAC02.ITM : 0x00004028 : Prêtre de Tyr
+BDBRAC02.ITM : 0x00004029 : Prêtre de Tempus
+BDBRAC02.ITM : opcode 177: Traduction 225398 manquante
+BDBRAC02.ITM : FAILURE: opcode 177: Not_found
+BDBRAC05.ITM : Opcode 177 : File = 9 : entry = 16392
+BDBRAC05.ITM : 0x00004001 : Berserker
+BDBRAC05.ITM : 0x00004002 : Tueur de Magiciens
+BDBRAC05.ITM : 0x00004003 : Kensai
+BDBRAC05.ITM : 0x00004004 : Cavalier
+BDBRAC05.ITM : 0x00004005 : Inquisiteur
+BDBRAC05.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDBRAC05.ITM : 0x00004007 : Archer
+BDBRAC05.ITM : 0x00004008 : Traqueur
+BDBRAC05.ITM : 0x00004009 : Belluaire
+BDBRAC05.ITM : 0x0000400A : Assassin
+BDBRAC05.ITM : 0x0000400B : Chasseur de Primes
+BDBRAC05.ITM : 0x0000400C : Bretteur
+BDBRAC05.ITM : 0x0000400D : Maître-Lames
+BDBRAC05.ITM : 0x0000400E : Bouffon
+BDBRAC05.ITM : 0x0000400F : Scalde
+BDBRAC05.ITM : 0x00004010 : Druide totémique
+BDBRAC05.ITM : 0x00004011 : Métamorphe
+BDBRAC05.ITM : 0x00004012 : Justicier
+BDBRAC05.ITM : 0x00004013 : Prêtre de Talos
+BDBRAC05.ITM : 0x00004014 : Prêtre de Heaum
+BDBRAC05.ITM : 0x00004015 : Prêtre de Lathandre
+BDBRAC05.ITM : 0x00000040 : Abjurateur
+BDBRAC05.ITM : 0x00000080 : Conjurateur
+BDBRAC05.ITM : 0x00000100 : Devin
+BDBRAC05.ITM : 0x00000200 : Enchanteur
+BDBRAC05.ITM : 0x00000400 : Illusionniste
+BDBRAC05.ITM : 0x00000800 : Invocateur
+BDBRAC05.ITM : 0x00001000 : Nécromancien
+BDBRAC05.ITM : 0x00002000 : Transmutateur
+BDBRAC05.ITM : 0x80000000 : Entropiste
+BDBRAC05.ITM : 0x40000000 : Barbare
+BDBRAC05.ITM : 0x00004020 : Chevalier Noir
+BDBRAC05.ITM : 0x00004021 : Maître des Ombres
+BDBRAC05.ITM : 0x00004022 : Protecteur Nain
+BDBRAC05.ITM : 0x00004023 : Disciple du Dragon
+BDBRAC05.ITM : 0x00004024 : Moine de la Lune Noire
+BDBRAC05.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDBRAC05.ITM : 0x00004026 : Prêtre de Tyr
+BDBRAC05.ITM : 0x00004028 : Prêtre de Tyr
+BDBRAC05.ITM : 0x00004029 : Prêtre de Tempus
+BDBRAC05.ITM : opcode 177: Traduction 225392 manquante
+BDBRAC05.ITM : FAILURE: opcode 177: Not_found
+BDBRAC15.ITM : Opcode 361 à gérer.
+BDCHAN01.ITM : Opcode 319 à gérer.
+BDCHAN02.ITM : Opcode 319 à gérer.
+BDCHAN04.ITM : Opcode 272 à gérer.
+BDCHAN05.ITM : Opcode 319 à gérer.
+bdbeldis.spl : BDCHANCA.ITM : Opcode 206 : Nom du sort introuvable pour bdbeldis.spl.
+BDCHANCA.ITM : Opcode 319 à gérer.
+BDCLCK03.ITM : Opcode 232 à gérer.
+RNDGEM01.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM01.itm.
+RNDGEM02.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM02.itm.
+RNDGEM03.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM03.itm.
+RNDGEM04.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM04.itm.
+bddagg05.spl : BDDAGG05.ITM : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+BDHALB01.ITM : Opcode 361 à gérer.
+BDHALB02.ITM : La ressource BDFESTER.eff n'existe pas.
+bdhalb02.spl : BDHALB02.ITM : Opcode 146 : Nom du sort introuvable pour bdhalb02.spl.
+BDHALB03.ITM : Opcode 326 à gérer.
+bdvoid.spl : BDHAMM02.ITM : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+BDHAMM06.ITM : Opcode 361 à gérer.
+BDHAMM06.ITM : Opcode 326 à gérer.
+BDHELM16.ITM : Opcode 319 à gérer.
+bdhelm17.spl : BDHELM17.eff : Opcode 146 : Nom du sort introuvable pour bdhelm17.spl.
+BDHELM17.ITM : Opcode 319 à gérer.
+BDLEAT02.ITM : Opcode 232 à gérer.
+BDLEAT02.ITM : Opcode 319 à gérer.
+BDLEAT04.ITM : Opcode 318 self à gérer
+bdbow06.spl : BDLEAT06.ITM : Opcode 206 : Nom du sort introuvable pour bdbow06.spl.
+bdshamb.spl : BDLEAT06.ITM : Opcode 206 : Nom du sort introuvable pour bdshamb.spl.
+BDLEAT06.ITM : Opcode 319 à gérer.
+BDLEAT07.ITM : Opcode 232 à gérer.
+bdbeldis.spl : BDMISC05.ITM : Opcode 206 : Nom du sort introuvable pour bdbeldis.spl.
+BDPLAT03.ITM : Opcode 319 à gérer.
+BDPLAT04.ITM : Opcode 319 à gérer.
+BDRING09.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+sppr203d.spl : BDRING10.ITM : Opcode 206 : Nom du sort introuvable pour sppr203d.spl.
+sppr203e.spl : BDRING10.ITM : Opcode 206 : Nom du sort introuvable pour sppr203e.spl.
+BDROBE03.ITM : Opcode 319 à gérer.
+BDSHLD02.ITM : Opcode 232 à gérer.
+BDSHLD03.ITM : Opcode 177 : File = 9 : entry = 16405
+BDSHLD03.ITM : 0x00004001 : Berserker
+BDSHLD03.ITM : 0x00004002 : Tueur de Magiciens
+BDSHLD03.ITM : 0x00004003 : Kensai
+BDSHLD03.ITM : 0x00004004 : Cavalier
+BDSHLD03.ITM : 0x00004005 : Inquisiteur
+BDSHLD03.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDSHLD03.ITM : 0x00004007 : Archer
+BDSHLD03.ITM : 0x00004008 : Traqueur
+BDSHLD03.ITM : 0x00004009 : Belluaire
+BDSHLD03.ITM : 0x0000400A : Assassin
+BDSHLD03.ITM : 0x0000400B : Chasseur de Primes
+BDSHLD03.ITM : 0x0000400C : Bretteur
+BDSHLD03.ITM : 0x0000400D : Maître-Lames
+BDSHLD03.ITM : 0x0000400E : Bouffon
+BDSHLD03.ITM : 0x0000400F : Scalde
+BDSHLD03.ITM : 0x00004010 : Druide totémique
+BDSHLD03.ITM : 0x00004011 : Métamorphe
+BDSHLD03.ITM : 0x00004012 : Justicier
+BDSHLD03.ITM : 0x00004013 : Prêtre de Talos
+BDSHLD03.ITM : 0x00004014 : Prêtre de Heaum
+BDSHLD03.ITM : 0x00004015 : Prêtre de Lathandre
+BDSHLD03.ITM : 0x00000040 : Abjurateur
+BDSHLD03.ITM : 0x00000080 : Conjurateur
+BDSHLD03.ITM : 0x00000100 : Devin
+BDSHLD03.ITM : 0x00000200 : Enchanteur
+BDSHLD03.ITM : 0x00000400 : Illusionniste
+BDSHLD03.ITM : 0x00000800 : Invocateur
+BDSHLD03.ITM : 0x00001000 : Nécromancien
+BDSHLD03.ITM : 0x00002000 : Transmutateur
+BDSHLD03.ITM : 0x80000000 : Entropiste
+BDSHLD03.ITM : 0x40000000 : Barbare
+BDSHLD03.ITM : 0x00004020 : Chevalier Noir
+BDSHLD03.ITM : 0x00004021 : Maître des Ombres
+BDSHLD03.ITM : 0x00004022 : Protecteur Nain
+BDSHLD03.ITM : 0x00004023 : Disciple du Dragon
+BDSHLD03.ITM : 0x00004024 : Moine de la Lune Noire
+BDSHLD03.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDSHLD03.ITM : 0x00004026 : Prêtre de Tyr
+BDSHLD03.ITM : 0x00004028 : Prêtre de Tyr
+BDSHLD03.ITM : 0x00004029 : Prêtre de Tempus
+BDSHLD03.ITM : opcode 177: Traduction 225405 manquante
+BDSHLD03.ITM : FAILURE: opcode 177: Not_found
+BDSHLD04.ITM : Opcode 319 à gérer.
+BDSHLD05.ITM : Opcode 319 à gérer.
+BDSHLD07.ITM : Opcode 319 à gérer.
+BDSHLD08.ITM : Opcode 232 à gérer.
+BDSHLDCA.ITM : Opcode 319 à gérer.
+bdsper1a.spl : BDSPER01.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+BDSTAF02.ITM : Opcode 319 à gérer.
+BDSW1H01.ITM : Opcode 232 à gérer.
+bdsw1h02.spl : BDSW1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+BDSW1H03.ITM : Opcode 319 à gérer.
+BDSW1H03.ITM : La ressource BDSW1H03.eff n'existe pas.
+BDSW1H04.ITM : Opcode 177 : File = 9 : entry = 16387
+BDSW1H04.ITM : 0x00004001 : Berserker
+BDSW1H04.ITM : 0x00004002 : Tueur de Magiciens
+BDSW1H04.ITM : 0x00004003 : Kensai
+BDSW1H04.ITM : 0x00004004 : Cavalier
+BDSW1H04.ITM : 0x00004005 : Inquisiteur
+BDSW1H04.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDSW1H04.ITM : 0x00004007 : Archer
+BDSW1H04.ITM : 0x00004008 : Traqueur
+BDSW1H04.ITM : 0x00004009 : Belluaire
+BDSW1H04.ITM : 0x0000400A : Assassin
+BDSW1H04.ITM : 0x0000400B : Chasseur de Primes
+BDSW1H04.ITM : 0x0000400C : Bretteur
+BDSW1H04.ITM : 0x0000400D : Maître-Lames
+BDSW1H04.ITM : 0x0000400E : Bouffon
+BDSW1H04.ITM : 0x0000400F : Scalde
+BDSW1H04.ITM : 0x00004010 : Druide totémique
+BDSW1H04.ITM : 0x00004011 : Métamorphe
+BDSW1H04.ITM : 0x00004012 : Justicier
+BDSW1H04.ITM : 0x00004013 : Prêtre de Talos
+BDSW1H04.ITM : 0x00004014 : Prêtre de Heaum
+BDSW1H04.ITM : 0x00004015 : Prêtre de Lathandre
+BDSW1H04.ITM : 0x00000040 : Abjurateur
+BDSW1H04.ITM : 0x00000080 : Conjurateur
+BDSW1H04.ITM : 0x00000100 : Devin
+BDSW1H04.ITM : 0x00000200 : Enchanteur
+BDSW1H04.ITM : 0x00000400 : Illusionniste
+BDSW1H04.ITM : 0x00000800 : Invocateur
+BDSW1H04.ITM : 0x00001000 : Nécromancien
+BDSW1H04.ITM : 0x00002000 : Transmutateur
+BDSW1H04.ITM : 0x80000000 : Entropiste
+BDSW1H04.ITM : 0x40000000 : Barbare
+BDSW1H04.ITM : 0x00004020 : Chevalier Noir
+BDSW1H04.ITM : 0x00004021 : Maître des Ombres
+BDSW1H04.ITM : 0x00004022 : Protecteur Nain
+BDSW1H04.ITM : 0x00004023 : Disciple du Dragon
+BDSW1H04.ITM : 0x00004024 : Moine de la Lune Noire
+BDSW1H04.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDSW1H04.ITM : 0x00004026 : Prêtre de Tyr
+BDSW1H04.ITM : 0x00004028 : Prêtre de Tyr
+BDSW1H04.ITM : 0x00004029 : Prêtre de Tempus
+BDSW1H04.ITM : opcode 177: Traduction 225387 manquante
+BDSW1H04.ITM : FAILURE: opcode 177: Not_found
+bdvoid.spl : BDSW1H06.ITM : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+BDSW1H08.ITM : Opcode 319 à gérer.
+BDSW1H08.ITM : Opcode 232 à gérer.
+BDSW1H14.ITM : Opcode 232 à gérer.
+bdsw1h14.spl : BDSW1H14.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h14.spl.
+BDSW1H21.ITM : Opcode 340 à gérer.
+bdsw1h21.spl : BDSW1H21.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h21.spl.
+BDSW1H23.ITM : Opcode 319 à gérer.
+BDSW1H25.ITM : Opcode 177 : File = 9 : entry = 16386
+BDSW1H25.ITM : 0x00004001 : Berserker
+BDSW1H25.ITM : 0x00004002 : Tueur de Magiciens
+BDSW1H25.ITM : 0x00004003 : Kensai
+BDSW1H25.ITM : 0x00004004 : Cavalier
+BDSW1H25.ITM : 0x00004005 : Inquisiteur
+BDSW1H25.ITM : 0x00004006 : Chasseur de Morts-Vivants
+BDSW1H25.ITM : 0x00004007 : Archer
+BDSW1H25.ITM : 0x00004008 : Traqueur
+BDSW1H25.ITM : 0x00004009 : Belluaire
+BDSW1H25.ITM : 0x0000400A : Assassin
+BDSW1H25.ITM : 0x0000400B : Chasseur de Primes
+BDSW1H25.ITM : 0x0000400C : Bretteur
+BDSW1H25.ITM : 0x0000400D : Maître-Lames
+BDSW1H25.ITM : 0x0000400E : Bouffon
+BDSW1H25.ITM : 0x0000400F : Scalde
+BDSW1H25.ITM : 0x00004010 : Druide totémique
+BDSW1H25.ITM : 0x00004011 : Métamorphe
+BDSW1H25.ITM : 0x00004012 : Justicier
+BDSW1H25.ITM : 0x00004013 : Prêtre de Talos
+BDSW1H25.ITM : 0x00004014 : Prêtre de Heaum
+BDSW1H25.ITM : 0x00004015 : Prêtre de Lathandre
+BDSW1H25.ITM : 0x00000040 : Abjurateur
+BDSW1H25.ITM : 0x00000080 : Conjurateur
+BDSW1H25.ITM : 0x00000100 : Devin
+BDSW1H25.ITM : 0x00000200 : Enchanteur
+BDSW1H25.ITM : 0x00000400 : Illusionniste
+BDSW1H25.ITM : 0x00000800 : Invocateur
+BDSW1H25.ITM : 0x00001000 : Nécromancien
+BDSW1H25.ITM : 0x00002000 : Transmutateur
+BDSW1H25.ITM : 0x80000000 : Entropiste
+BDSW1H25.ITM : 0x40000000 : Barbare
+BDSW1H25.ITM : 0x00004020 : Chevalier Noir
+BDSW1H25.ITM : 0x00004021 : Maître des Ombres
+BDSW1H25.ITM : 0x00004022 : Protecteur Nain
+BDSW1H25.ITM : 0x00004023 : Disciple du Dragon
+BDSW1H25.ITM : 0x00004024 : Moine de la Lune Noire
+BDSW1H25.ITM : 0x00004025 : Moine de la Conscience Solaire
+BDSW1H25.ITM : 0x00004026 : Prêtre de Tyr
+BDSW1H25.ITM : 0x00004028 : Prêtre de Tyr
+BDSW1H25.ITM : 0x00004029 : Prêtre de Tempus
+BDSW1H25.ITM : opcode 177: Traduction 225386 manquante
+BDSW1H25.ITM : FAILURE: opcode 177: Not_found
+BDSW1HCA.ITM : Opcode 319 à gérer.
+BDSW2H01.ITM : Opcode 232 à gérer.
+BDSW2H01.ITM : La ressource BDSW2H01.eff n'existe pas.
+BDSW2H02.ITM : La ressource BDSW2H02.eff n'existe pas.
+BDSW2H03.ITM : La ressource BDSW2H03.eff n'existe pas.
+BDXBOW01.ITM : La ressource BDXBOW01.eff n'existe pas.
+bddoom.spl : BDXBOW02.ITM : Opcode 146 : Nom du sort introuvable pour bddoom.spl.
+BLUN38.ITM : Opcode 232 à gérer.
+BOOT08.ITM : Opcode 272 à gérer.
+BOW06.ITM : Opcode 319 à gérer.
+BOW08.ITM : Opcode 319 à gérer.
+BOW18.ITM : Opcode 319 à gérer.
+spin775.spl : CHALCY3.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+CHALCY3.ITM : Opcode 321 à gérer.
+CHALCY3.ITM : Opcode 321 à gérer.
+spin775.spl : CHALCY3.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+CLCK22.ITM : Opcode 319 à gérer.
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '212'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '206'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '205'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '84'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '83'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '82'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '81'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '80'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '320'
+DWSW1H01.ITM : Opcode 319 à gérer.
+ENSW2H.ITM : Opcode 319 à gérer.
+hamm01.spl : HAMM01.ITM : Opcode 146 : Nom du sort introuvable pour hamm01.spl.
+HELM35.ITM : Unknown macro: opcode_self_probability_83
+JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+OHSW1H55.ITM : Opcode 319 à gérer.
+PLAT06.ITM : Opcode 319 à gérer.
+ohsmode3.spl : PRINCES2.ITM : Opcode 146 : Nom du sort introuvable pour ohsmode3.spl.
+PRINCESS.ITM : Unknown macro: opcode_self_238
+RING09.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+RSBOOT.ITM : Opcode 319 à gérer.
+RSBRAC.ITM : Opcode 319 à gérer.
+SHLD06P.ITM : FAILURE: opcode 178: Failure("SHLD06P.ITM: opcode 178: Fichier ids numero '255' n'existe pas. Objet corrompu ?")
+SHLD08P.ITM : Opcode 232 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+SHLD08P.ITM : Opcode 232 à gérer.
+STAFN1.ITM : Opcode 319 à gérer.
+SW1H15.ITM : Opcode 319 à gérer.
+SW1H16.ITM : Opcode 319 à gérer.
+SW1H22.ITM : Opcode 319 à gérer.
+SW1H23.ITM : Opcode 319 à gérer.
+SW1H52.ITM : Opcode 319 à gérer.
+SW1P01.ITM : Opcode 232 à gérer.
+SW1P01.ITM : Opcode 318 self probability à gérer
+SW1P01.ITM : Opcode 318 self probability à gérer
+SW1P01.ITM : Unknown macro: opcode_self_probability_280
+SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.eff n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdmound.eff n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.eff n'existe pas.
+SW2HD1.ITM : Opcode 232 à gérer.
+SW2HD1.ITM : Opcode 232 à gérer.
+WA2SHIEL.ITM : Opcode 197 : Réflection du type de projectile '320'
+
+Total : 2153
+
+Sans description : 937
+
+Ignores : 1630
+
+Reussis : 505
+
+Echoues : 18
+
+Potions (TODO): 290
+
+Munitions (TODO) : 47
+
+Opcodes a coder : 55
