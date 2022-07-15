@@ -1,0 +1,32 @@
+	
+l0amul.itm : Opcode 319 à gérer.
+l0bodd.itm : Opcode 319 à gérer.
+l0buc2.itm : Opcode 232 à gérer.
+l0buc2.itm : Opcode 319 à gérer.
+l0drum.itm : Opcode 319 à gérer.
+l0ioun2.itm : Opcode 319 à gérer.
+l0ioun2.itm : Opcode 341 : La ressource SPPR505.eff n'existe pas.
+l0ioun3.itm : Opcode 319 à gérer.
+l0ioun3.itm : Opcode 341 : La ressource SPIN106.eff n'existe pas.
+l0rida.itm : Opcode 319 à gérer.
+l0shri.itm : Opcode 319 à gérer.
+l0shst.itm : Opcode 319 à gérer.
+l0skin2.itm : Opcode 232 à gérer.
+l0unarm.itm : Opcode 319 à gérer.
+l0unboo.itm : Opcode 319 à gérer.
+
+Total : 49
+
+Sans description : 11
+
+Ignores : 30
+
+Reussis : 19
+
+Echoues : 0
+
+Potions (TODO): 2
+
+Munitions (TODO) : 0
+
+Opcodes a coder : 55
