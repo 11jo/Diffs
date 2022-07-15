@@ -1,0 +1,24 @@
+	
+L#2SDAG3.eff : Opcode 361 à gérer.
+l#2sdbrc.itm : opcode 177: Traduction 206200 manquante
+l#2sdbrc.itm : FAILURE: opcode 177: Not_found
+l#2sde2.itm : Opcode 319 à gérer.
+l#2sds06.itm : Opcode 319 à gérer.
+l#2sdsja.itm : Opcode 319 à gérer.
+l#2sdsja.itm : Opcode 232 à gérer.
+
+Total : 25
+
+Sans description : 0
+
+Ignores : 6
+
+Reussis : 18
+
+Echoues : 1
+
+Potions (TODO): 0
+
+Munitions (TODO) : 0
+
+Opcodes a coder : 55
