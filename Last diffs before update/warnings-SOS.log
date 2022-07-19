@@ -1,0 +1,38 @@
+	
+CBBRACRV.itm : FAILURE: opcode 214: Failure("CBBRACRV.itm : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBBRACRV")
+CBCL004.itm : Unknown macro: opcode_self_78
+CBCL008.itm : Unknown macro: opcode_target_probability_133
+spin994.spl : CBCL013.itm : Opcode 206 : Nom du sort introuvable pour spin994.spl.
+CBHBLFET.itm : FAILURE: opcode 177: Failure("CBHBLFET.itm: opcode 177: Fichier ids numero '0' n'existe pas. Objet corrompu ?")
+CBHBSLDR.itm : FAILURE: opcode 177: Failure("CBHBSLDR.itm: opcode 177: Fichier ids numero '0' n'existe pas. Objet corrompu ?")
+CBHBSLDV.itm : FAILURE: opcode 177: Failure("CBHBSLDV.itm: opcode 177: Fichier ids numero '0' n'existe pas. Objet corrompu ?")
+CBHBSLSK.itm : FAILURE: opcode 177: Failure("CBHBSLSK.itm: opcode 177: Fichier ids numero '0' n'existe pas. Objet corrompu ?")
+CBHBSLSN.itm : FAILURE: opcode 177: Failure("CBHBSLSN.itm: opcode 177: Fichier ids numero '0' n'existe pas. Objet corrompu ?")
+CBHBSLZP.itm : FAILURE: opcode 177: Failure("CBHBSLZP.itm: opcode 177: Fichier ids numero '0' n'existe pas. Objet corrompu ?")
+CBRJR014.ITM : opcode 55: Traduction 205170 manquante
+CBRJR014.ITM : FAILURE: opcode 55: Not_found
+CBRJR03B.ITM : FAILURE: opcode 214: Failure("CBRJR03B.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBRJR03B")
+CBRJR03C.ITM : FAILURE: opcode 214: Failure("CBRJR03C.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBRJR03C")
+CBRJR03D.ITM : FAILURE: opcode 214: Failure("CBRJR03D.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBRJR03D")
+CBRJR03E.ITM : FAILURE: opcode 214: Failure("CBRJR03E.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBRJR03E")
+CBRJR03F.ITM : FAILURE: opcode 214: Failure("CBRJR03F.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBRJR03F")
+CBRJR03G.ITM : FAILURE: opcode 214: Failure("CBRJR03G.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBRJR03G")
+CBRJR03H.ITM : FAILURE: opcode 214: Failure("CBRJR03H.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBRJR03H")
+CBRJR03I.ITM : FAILURE: opcode 214: Failure("CBRJR03I.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da CBRJR03I")
+
+Total : 415
+
+Sans description : 263
+
+Ignores : 294
+
+Reussis : 103
+
+Echoues : 18
+
+Potions (TODO): 8
+
+Munitions (TODO) : 6
+
+Opcodes a coder : 55
+
