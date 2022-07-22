@@ -1,0 +1,38 @@
+	
+pxl2chau.itm : Opcode 206 : La ressource SPWI305D.spl n'existe pas.
+spcl321d.spl : pxl2chau.itm : Opcode 206 : Nom du sort introuvable pour spcl321d.spl.
+pxl2dis1.spl : pxl2diss.itm : Opcode 146 : Nom du sort introuvable pour pxl2dis1.spl.
+pxl2dual.itm : Opcode 272 à gérer.
+pxl2dua3.spl : pxl2dual.itm : Opcode 146 : Nom du sort introuvable pour pxl2dua3.spl.
+pxl2dua1.spl : pxl2dual.itm : Opcode 146 : Nom du sort introuvable pour pxl2dua1.spl.
+pxl2dua2.spl : pxl2dual.itm : Opcode 146 : Nom du sort introuvable pour pxl2dua2.spl.
+pxl2fier.itm : FAILURE: opcode 214: Failure("pxl2fier.itm : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da PXL2DRAG")
+pxl2mait.itm : Opcode 232 à gérer.
+pxl2pala.itm : Opcode 232 à gérer.
+pxl2perc.itm : Opcode 272 à gérer.
+pxl2sauv.itm : FAILURE: opcode 214: Failure("pxl2sauv.itm : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da PXL2SAUV")
+spcl321d.spl : pxl2stru.itm : Opcode 206 : Nom du sort introuvable pour spcl321d.spl.
+pxl2stru.itm : Opcode 232 à gérer.
+pxl2tach.itm : Opcode 232 à gérer.
+pxl2wolf.itm : Opcode 180 : La ressource WWWERE.itm n'existe pas.
+pxl2wolf.itm : Opcode 180 : La ressource WWWEREGR.itm n'existe pas.
+pxl2ardr.itm : Opcode 232 à gérer.
+pxl2sili.itm : Opcode 232 à gérer.
+pxl2hasu.itm : Opcode 272 à gérer.
+pxl2omb1.spl : pxl2ombr.itm : Opcode 146 : Nom du sort introuvable pour pxl2omb1.spl.
+
+Total : 180
+
+Sans description : 18
+
+Ignores : 101
+
+Reussis : 76
+
+Echoues : 3
+
+Potions (TODO): 59
+
+Munitions (TODO) : 2
+
+Opcodes a coder : 40

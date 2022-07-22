@@ -1,0 +1,108 @@
+	
+s#ax1h01.itm : Opcode 319 à gérer.
+s#bow01.itm : Opcode 341 : La ressource MOSPR03.eff n'existe pas.
+s#bow01.itm : Opcode 319 à gérer.
+s#brac02.itm : Opcode 321 à gérer.
+s#brac02.itm : Opcode 321 à gérer.
+s#brac02.itm : Opcode 321 à gérer.
+s#clck03.itm : Opcode 321 à gérer.
+s#clck03.itm : Opcode 321 à gérer.
+s#clck03.itm : Opcode 321 à gérer.
+s#hamm01.itm : Opcode 341 : La ressource MOSPR06.eff n'existe pas.
+s#hamm02.itm : Opcode 341 : La ressource MOSPR06.eff n'existe pas.
+s#helm01.itm : Opcode 232 à gérer.
+s#ring01.itm : Opcode 206 : La ressource CDSW1H58.spl n'existe pas.
+s#ring01.itm : Opcode 206 : La ressource CDMOUND.spl n'existe pas.
+s#ring01.itm : Opcode 206 : La ressource CDHGNYA1.spl n'existe pas.
+s#ring02.itm : Opcode 206 : La ressource CDSW1H58.spl n'existe pas.
+s#ring02.itm : Opcode 206 : La ressource CDMOUND.spl n'existe pas.
+s#ring02.itm : Opcode 206 : La ressource CDHGNYA1.spl n'existe pas.
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '318'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '317'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '316'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '315'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '314'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '313'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '311'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '310'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '309'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '308'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '307'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '306'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '305'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '304'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '303'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '302'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '301'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '300'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '299'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '298'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '297'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '296'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '295'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '294'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '293'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '292'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '291'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '290'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '289'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '288'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '287'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '286'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '285'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '284'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '283'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '274'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '1'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '4'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '2'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '5'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '3'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '11'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '12'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '13'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '14'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '15'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '26'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '27'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '28'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '29'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '30'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '31'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '32'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '33'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '34'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '35'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '6'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '8'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '7'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '9'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '10'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '55'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '56'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '57'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '58'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '59'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '18'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '19'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '16'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '17'
+s#shld01.itm : Opcode 197 : Réflection du type de projectile '102'
+s#staf02.itm : Opcode 233: Proficiency not found : 117
+
+
+Total : 35
+
+Sans description : 2
+
+Ignores : 4
+
+Reussis : 31
+
+Echoues : 0
+
+Potions (TODO): 0
+
+Munitions (TODO) : 0
+
+Opcodes a coder : 40
