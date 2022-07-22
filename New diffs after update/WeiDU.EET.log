@@ -1,0 +1,44 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~EET/EET.TP2~ #3 #0 // EET core (importation de ressource): V13.4
+~BP_IN_BG/BP_IN_BG.TP2~ #0 #100 // add access to the Black Pits in BGEE/EET: 0.2
+~C#BRAGE/C#BRAGE.TP2~ #0 #0 // Brage's Redemption - Brage Joinable NPC for Baldur's Gate: 7.2
+~C#BRAGE/C#BRAGE.TP2~ #0 #1 // Assign the mod's portrait and soundset to the original Brage in game.: 7.2
+~C#BRAGE/C#BRAGE.TP2~ #0 #10 // Brage's Redemption: Crossmod Content: 7.2
+~C#BRANDOCK/C#BRANDOCK.TP2~ #0 #0 // Brandock the Mage: Beta_16
+~C#BRANDOCK/C#BRANDOCK.TP2~ #0 #10 // Brandock the Mage: Crossmod Content: Beta_16
+~C#BRANDOCK/C#BRANDOCK.TP2~ #0 #30 // Use Dialogue Style for Brandock's Banter in SoD: Beta_16
+~C#BRANDOCK/C#BRANDOCK.TP2~ #0 #50 // Use Short Cutscene in Thalantyr's Abode: Beta_16
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #0 // Imoen 4 Ever in BGII: Imoen Returns after Talking to Gaelan in Chapter 2: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #1 // Imoen 4 Ever in BGII: Give Imoen Dialogue Content in SoA: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #2 // Imoen 4 Ever in BGII: Yoshimo Comes to Brynnlaw: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #3 // Imoen 4 Ever in BGII: Give Imoen Protection Spell in Chapters 2 & 3: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #9 // Imoen 4 Ever in BGII: Compatibility with Alternatives and Saerileth: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #10 // Imoen 4 Ever in SoD: Imoen Remains in Group in Korlasz' Dungeon: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #11 // Imoen 4 Ever in SoD: Imoen Returns to PC in First Coalition Camp (bd1000): v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #12 // Imoen 4 Ever in SoD: Imoen Gives Better Reason to Stay Behind in Palace: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #13 // Imoen 4 Ever in SoD: Play Cutscene With Imoen and Duke Jannath: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #14 // Imoen 4 Ever in SoD: Give Imoen Dialogue Content in Chapters 8-12: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #16 // Imoen 4 Ever in SoD: Unify Imoen's Portrait -> Use Imoen's SoD Portrait after Korlasz' Crypt: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #20 // Imoen's chest moves with the campaign, too: v10
+~IMOEN_FOREVER/IMOEN_FOREVER.TP2~ #0 #30 // Imoen's Alternate Portrait from Acifer: v10
+~ACBRE/ACBRE.TP2~ #1 #0 // Breagar: Contents: 12.0.0
+~ACBRE/ACBRE.TP2~ #1 #2 // Breagar: Crossmods and PID: 12.0.0
+~C#GREYTHEDOG/SETUP-C#GREYTHEDOG.TP2~ #0 #0 // Grey The Dog NPC: 8
+~A4AUROR/SETUP-A4AUROR.TP2~ #1 #0 // Auror Ranger Class Kit for BGII-TOB & BGII-EE: v4.04
+~A7-CUSTOMKITS/SETUP-A7-CUSTOMKITS.TP2~ #2 #1 // Kit de Magelame -> Version originale: v1.5
+~CHANTERKIT/SETUP-CHANTERKIT.TP2~ #1 #0 // Kit de Chantre
+~CHANTERKIT/SETUP-CHANTERKIT.TP2~ #1 #1 // le Chantre gagne la forteresse du Pretre a la place de celle du Barde
+~FR_OMBRE/FR_OMBRE.TP2~ #0 #0 // Profil de Rodeur de l'ombre: v1.2
+~JL#ZULU/SETUP-JL#ZULU.TP2~ #1 #0 // Kit de rôdeur "Guerrier Lion" 
+~MORITURI/SETUP-MORITURI.TP2~ #1 #2 // Morituri -> Installer les deux
+~P!BHAAL/SETUP-P!BHAAL.TP2~ #1 #0 // Installation du Kit : Prêtre de Bhaal - crée par Esprit
+~PIRATE/SETUP-PIRATE.TP2~ #0 #0 // Pirate Kit v1.1: v2
+~PIRATE/SETUP-PIRATE.TP2~ #0 #2 // Race du perroquet Coco -> Ara ararauna (vert-bleu-jaune) : v2
+~PIRATE/SETUP-PIRATE.TP2~ #0 #3 // Dons innés régionaux ->  Pirate des îles Nélanthères : Attaque massive : Lorsqu'il appelle des mercenaires pirates, ceux-ci arrivent avec une recrue supplémentaire. : v2
+~PX_CHANTELAME/SETUP-PX_CHANTELAME.TP2~ #1 #0 // Chantelame version 6, par Misdrha'al Hymmet, Deratiseur et Isaya: 7
+// Recently Uninstalled: ~SEMI_MULTI_CLERICS/SETUP-SEMI_MULTI_CLERICS.TP2~ #2 #0 // Semi-multi-clerics
+~SEMI_MULTI_CLERICS/SETUP-SEMI_MULTI_CLERICS.TP2~ #2 #0 // Semi-multi-clerics
+~WARSLINGSNIPERKIT/SETUP-WARSLINGSNIPERKIT.TP2~ #1 #0 // Warsling Sniper Kit for Fighters
+~EET_END/EET_END.TP2~ #3 #0 // EET end (dernier mod dans l'ordre d'installation) -> Installation standard
