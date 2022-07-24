@@ -11,8 +11,6 @@ BLUN30.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 BOOT08.ITM : Opcode 272 à gérer.
 CHALCY3.ITM : Opcode 321 à gérer.
 CHALCY3.ITM : Opcode 321 à gérer.
-CLCK07.ITM : opcode 324: Traduction 105169 manquante
-CLCK07.ITM : FAILURE: opcode 324: Not_found
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '219'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '212'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '206'
@@ -23,8 +21,6 @@ CLCK24.ITM : Opcode 197 : Réflection du type de projectile '82'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '81'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '80'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '320'
-DAGG13.ITM : opcode 324: Traduction 105169 manquante
-DAGG13.ITM : FAILURE: opcode 324: Not_found
 cftroll.eff : Opcode 123 à gérer.
 JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
@@ -44,22 +40,12 @@ OHRBOOT1.ITM : Opcode 83 : Type de projectile '319'
 OHRBOOT1.ITM : Opcode 83 : Type de projectile '319'
 OHRBOOT1.ITM : Opcode 83 : Type de projectile '319'
 OHRCLCK4.ITM : Opcode 232 à gérer.
-OHRSLNG1.ITM : opcode 318: Traduction 105205 manquante
-OHRSLNG1.ITM : FAILURE: opcode 318: Not_found
-REGISAMU.ITM : opcode 324: Traduction 105169 manquante
-REGISAMU.ITM : FAILURE: opcode 324: Not_found
-RING03.ITM : opcode 324: Traduction 105169 manquante
-RING03.ITM : FAILURE: opcode 324: Not_found
 RING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 RING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 RING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-RING30.ITM : opcode 324: Traduction 105169 manquante
-RING30.ITM : FAILURE: opcode 324: Not_found
 ROSSRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 ROSSRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 ROSSRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SENDAI.ITM : opcode 324: Traduction 105227 manquante
-SENDAI.ITM : FAILURE: opcode 324: Not_found
 SHLD24.ITM : Opcode 197 : Réflection du type de projectile '318'
 SHLD24.ITM : Opcode 197 : Réflection du type de projectile '317'
 SHLD24.ITM : Opcode 197 : Réflection du type de projectile '316'
@@ -174,8 +160,6 @@ SPER12.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 SPER12.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 SPER12.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 STAF11.ITM : Opcode 58: TODO EE : Dissipation des armes magiques à gerer : 131074
-STAF23.ITM : opcode 324: Traduction 105205 manquante
-STAF23.ITM : FAILURE: opcode 324: Not_found
 spin104a.spl : SW1H63.ITM : Opcode 146 : Nom du sort introuvable pour spin104a.spl.
 SW1H68C.ITM : Opcode 112 à gérer.
 SW1H69C.ITM : Opcode 112 à gérer.
@@ -186,10 +170,6 @@ SW2H10.ITM : Opcode 58: TODO EE : Dissipation des armes magiques à gerer : 1310
 SW2H13.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 SW2H13.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 SW2H13.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SW2H17.ITM : opcode 324: Traduction 105205 manquante
-SW2H17.ITM : FAILURE: opcode 324: Not_found
-SW2H18.ITM : opcode 324: Traduction 105227 manquante
-SW2H18.ITM : FAILURE: opcode 324: Not_found
 SW2H19.ITM : Opcode 58: TODO EE : Dissipation des armes magiques à gerer : 131074
 SW2HD1.ITM : Opcode 232 à gérer.
 SW2HD1.ITM : Opcode 232 à gérer.

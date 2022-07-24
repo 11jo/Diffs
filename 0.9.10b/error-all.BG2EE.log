@@ -2,3 +2,20 @@
 STAF11.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 SW2H10.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 SW2H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+
+
+Total : 2867
+
+Sans description : 1206
+
+Ignores : 2145
+
+Reussis : 722
+
+Echoues : 0
+
+Potions (TODO): 371
+
+Munitions (TODO) : 51
+
+Opcodes a coder : 39
