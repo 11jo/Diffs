@@ -1,0 +1,49 @@
+	
+SHLD06P.ITM : Opcode 178: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219000: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219001: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219000: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219001: Wrong ids file : 255
+BDXBOW01.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+BDXBOW02.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+DWXBOW01.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+SW1P01.ITM : Opcode 134: Les 2 parametres doivent avoir la valeur 0
+SW1P01.ITM : Opcode 134: Les 2 parametres doivent avoir la valeur 0
+XBOW01.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+XBOW02.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+XBOW03.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+XBOW04.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+XBOW05.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+XBOW06.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+XBOW07.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+XBOW09.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+shld06p.itm : Opcode 178: Wrong ids file : 255
+shld06p.itm : Opcode 219000: Wrong ids file : 255
+shld06p.itm : Opcode 219001: Wrong ids file : 255
+shld06p.itm : Opcode 219000: Wrong ids file : 255
+shld06p.itm : Opcode 219001: Wrong ids file : 255
+dwxbow01.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+xbow01.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+xbow02.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+xbow03.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+xbow04.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+xbow05.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+xbow06.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+xbow07.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+xbow09.itm : Opcode 165: Les 2 parametres doivent avoir la valeur 0
+
+Total : 1163
+
+Sans description : 203
+
+Ignores : 388
+
+Reussis : 770
+
+Echoues : 5
+
+Potions (TODO): 74
+
+Munitions (TODO) : 72
+
+Opcodes a coder : 40
