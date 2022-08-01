@@ -1,0 +1,25 @@
+	
+DEVA.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+DEVAEVIL.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+FINSOL01.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+FINSOL01.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+PLANETAR.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+STAF11.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+SW2H10.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+SW2H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+
+Total : 2867
+
+Sans description : 0
+
+Ignores : 1525
+
+Reussis : 1320
+
+Echoues : 22
+
+Potions (TODO): 444
+
+Munitions (TODO) : 64
+
+Opcodes a coder : 38

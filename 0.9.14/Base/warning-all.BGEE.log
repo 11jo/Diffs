@@ -5,10 +5,10 @@ spin775.spl : AMUL17.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl
 AX1H06.ITM : Opcode 341 : La ressource BDRHYTE.eff n'existe pas.
 AX1H19.ITM : Opcode 112 à gérer.
 AX1H19.ITM : Opcode 58: TODO EE : Dissipation des armes magiques à gerer : 131074
-BDAX1H02.ITM : Opcode 318 self à gérer
+BDAX1H02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 bdax1h02.spl : BDAX1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h02.spl.
 bdax1h02.spl : BDAX1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h02.spl.
-BDAX1H05.ITM : Opcode 318 self à gérer
+BDAX1H05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 bdax1h05.spl : BDAX1H05.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h05.spl.
 bdax1h05.spl : BDAX1H05.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h05.spl.
 BDBELT01.ITM : Opcode 321 à gérer.
@@ -16,7 +16,7 @@ BDBLUN04.ITM : Opcode 341 : La ressource BDBLUN04.eff n'existe pas.
 BDBLUN07.ITM : Opcode 340 à gérer.
 bdbow06.spl : BDBOOT01.ITM : Opcode 206 : Nom du sort introuvable pour bdbow06.spl.
 bdshamb.spl : BDBOOT01.ITM : Opcode 206 : Nom du sort introuvable pour bdshamb.spl.
-BDBOW01.ITM : Opcode 318 self à gérer
+BDBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 bdbow01.spl : BDBOW01.ITM : Opcode 146 : Nom du sort introuvable pour bdbow01.spl.
 BDBOW02.ITM : Opcode 341 : La ressource BDBOW02.eff n'existe pas.
 bdfleshr.spl : BDBOW03.ITM : Opcode 146 : Nom du sort introuvable pour bdfleshr.spl.
@@ -27,7 +27,7 @@ BDBOW05.ITM : Opcode 326 à gérer.
 bdbow06.spl : BDBOW06.ITM : Opcode 146 : Nom du sort introuvable pour bdbow06.spl.
 BDBRAC01.ITM : Opcode 341 : La ressource BDBRAC01.eff n'existe pas.
 BDBRAC15.ITM : Opcode 361 à gérer.
-BDCHAN04.ITM : Opcode 272 à gérer.
+bdchan04.spl : BDCHAN04.eff : Opcode 146 : Nom du sort introuvable pour bdchan04.spl.
 bdbeldis.spl : BDCHANCA.ITM : Opcode 206 : Nom du sort introuvable pour bdbeldis.spl.
 BDCLCK03.ITM : Opcode 232 à gérer.
 RNDGEM01.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM01.itm.
@@ -44,7 +44,6 @@ BDHAMM06.ITM : Opcode 361 à gérer.
 BDHAMM06.ITM : Opcode 326 à gérer.
 bdhelm17.spl : BDHELM17.eff : Opcode 146 : Nom du sort introuvable pour bdhelm17.spl.
 BDLEAT02.ITM : Opcode 232 à gérer.
-BDLEAT04.ITM : Opcode 318 self à gérer
 bdbow06.spl : BDLEAT06.ITM : Opcode 206 : Nom du sort introuvable pour bdbow06.spl.
 bdshamb.spl : BDLEAT06.ITM : Opcode 206 : Nom du sort introuvable pour bdshamb.spl.
 BDLEAT07.ITM : Opcode 232 à gérer.
@@ -52,8 +51,6 @@ bdbeldis.spl : BDMISC05.ITM : Opcode 206 : Nom du sort introuvable pour bdbeldis
 BDRING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 BDRING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 BDRING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-sppr203d.spl : BDRING10.ITM : Opcode 206 : Nom du sort introuvable pour sppr203d.spl.
-sppr203e.spl : BDRING10.ITM : Opcode 206 : Nom du sort introuvable pour sppr203e.spl.
 BDSHLD02.ITM : Opcode 232 à gérer.
 BDSHLD08.ITM : Opcode 232 à gérer.
 bdsper1a.spl : BDSPER01.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
@@ -73,48 +70,18 @@ BDSW2H03.ITM : Opcode 341 : La ressource BDSW2H03.eff n'existe pas.
 BDXBOW01.ITM : Opcode 341 : La ressource BDXBOW01.eff n'existe pas.
 bddoom.spl : BDXBOW02.ITM : Opcode 146 : Nom du sort introuvable pour bddoom.spl.
 BLUN38.ITM : Opcode 232 à gérer.
-BOOT08.ITM : Opcode 272 à gérer.
 spin775.spl : CHALCY3.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl.
 CHALCY3.ITM : Opcode 321 à gérer.
 CHALCY3.ITM : Opcode 321 à gérer.
 spin775.spl : CHALCY3.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl.
 CLCK04.ITM : Opcode 172 : La ressource spinhum.spl n'existe pas.
-CLCK24.ITM : Opcode 197 : Réflection du type de projectile '212'
-CLCK24.ITM : Opcode 197 : Réflection du type de projectile '206'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '205'
-CLCK24.ITM : Opcode 197 : Réflection du type de projectile '84'
-CLCK24.ITM : Opcode 197 : Réflection du type de projectile '83'
-CLCK24.ITM : Opcode 197 : Réflection du type de projectile '82'
-CLCK24.ITM : Opcode 197 : Réflection du type de projectile '81'
-CLCK24.ITM : Opcode 197 : Réflection du type de projectile '80'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '320'
 hamm01.spl : HAMM01.ITM : Opcode 146 : Nom du sort introuvable pour hamm01.spl.
 HELM35.ITM : Unknown macro: opcode_self_probability_83
 JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-L#BHASY.ITM : Opcode 232 à gérer.
-l#bhasy2.spl : L#BHASY.ITM : Opcode 146 : Nom du sort introuvable pour l#bhasy2.spl.
-L#CHISY.ITM : opcode 177: Traduction 204185 manquante
-L#CHISY.ITM : FAILURE: opcode 177: Not_found
-L#CIREN.ITM : Opcode 232 à gérer.
-L#FRGM0.ITM : Opcode 232 à gérer.
-L#HARHA.ITM : Opcode 232 à gérer.
-L#HAUR2.ITM : Opcode 232 à gérer.
-L#KOBI1.ITM : Opcode 232 à gérer.
-L#ORMSTA.ITM : Opcode 232 à gérer.
-L#PERRIN.ITM : Opcode 232 à gérer.
-L#RNI3.eff : Opcode 232 à gérer.
-L#SHADM1.ITM : Opcode 232 à gérer.
-L#ULCDA.ITM : Opcode 341 : La ressource SPPR319.eff n'existe pas.
-L#ZSOD4.ITM : Opcode 341 : La ressource L#ZSOD4.eff n'existe pas.
-L#ZSOD4.ITM : Opcode 362 à gérer.
-L#ZSOD7.ITM : Opcode 272 à gérer.
-L#ZSOD7.ITM : Opcode 318 self à gérer
-L#ZSOD8.ITM : Opcode 272 à gérer.
-L#ZSOD8.ITM : Opcode 318 self à gérer
-l#zsod9d.spl : L#ZSOD9.ITM : Opcode 146 : Nom du sort introuvable pour l#zsod9d.spl.
-L#ZSOD9.ITM : FAILURE: opcode 214: Failure("L#ZSOD9.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da L#ZSOD9")
 ohsmode3.spl : PRINCES2.ITM : Opcode 146 : Nom du sort introuvable pour ohsmode3.spl.
 RING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 RING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
@@ -125,8 +92,8 @@ SHLD08P.ITM : Opcode 232 à gérer.
 SHLD08P.ITM : Opcode 232 à gérer.
 SHLD08P.ITM : Opcode 232 à gérer.
 SW1P01.ITM : Opcode 232 à gérer.
-SW1P01.ITM : Opcode 318 self probability à gérer
-SW1P01.ITM : Opcode 318 self probability à gérer
+SW1P01.ITM : Opcode 318 : self_probability avec parameter1 et parameter2 différent de 0
+SW1P01.ITM : Opcode 318 : self_probability avec parameter1 et parameter2 différent de 0
 SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 SW2H06.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
