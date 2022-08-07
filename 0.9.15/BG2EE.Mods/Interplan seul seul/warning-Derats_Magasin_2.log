@@ -1,0 +1,16 @@
+	
+pxl2chau.itm : Opcode 206 : La ressource spwi305d.spl n'existe pas.
+spcl321d.spl : pxl2chau.itm : Opcode 206 : Nom du sort introuvable pour spcl321d.spl.
+pxl2dis1.spl : pxl2diss.itm : Opcode 146 : Nom du sort introuvable pour pxl2dis1.spl.
+pxl2dua0.spl : PXL2DUA0.eff : Opcode 146 : Nom du sort introuvable pour pxl2dua0.spl.
+pxl2dua3.spl : pxl2dual.itm : Opcode 146 : Nom du sort introuvable pour pxl2dua3.spl.
+pxl2dua1.spl : pxl2dual.itm : Opcode 146 : Nom du sort introuvable pour pxl2dua1.spl.
+pxl2dua2.spl : pxl2dual.itm : Opcode 146 : Nom du sort introuvable pour pxl2dua2.spl.
+pxl2fier.itm : FAILURE: opcode 214: Failure("pxl2fier.itm : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da PXL2DRAG")
+pxl2mai1.spl : pxl2mait.itm : Opcode 232 : Nom du sort introuvable pour pxl2mai1.spl.
+pxl2pal1.spl : pxl2pala.itm : Opcode 232 : Nom du sort introuvable pour pxl2pal1.spl.
+pxl2pala.itm : Opcode 222 à gérer.
+pxl2sauv.itm : FAILURE: opcode 214: Failure("pxl2sauv.itm : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da PXL2SAUV")
+pxl2tac1.spl : pxl2tach.itm : Opcode 232 : Nom du sort introuvable pour pxl2tac1.spl.
+sppr952d.spl : pxl2ardr.itm : Opcode 232 : Nom du sort introuvable pour sppr952d.spl.
+pxl2omb1.spl : pxl2ombr.itm : Opcode 146 : Nom du sort introuvable pour pxl2omb1.spl.

@@ -1,0 +1,26 @@
+	
+AX1H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+PRINCESS.ITM : Opcode 238: Wrong ids file : 24
+SHLD06P.ITM : Opcode 178: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219000: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219001: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219000: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219001: Wrong ids file : 255
+SW2HD1.ITM : Opcode 221: Wrong parameter2 : 14
+SW2HD1.ITM : Opcode 221: Wrong parameter2 : 14
+
+Total : 2154
+
+Sans description : 938
+
+Ignores : 1631
+
+Reussis : 521
+
+Echoues : 2
+
+Potions (TODO): 290
+
+Munitions (TODO) : 47
+
+Opcodes a coder : 37

@@ -1,0 +1,2683 @@
+	
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDBLUN06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDHALB01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDHALB01.ITM : Opcode 361 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDHALB02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDHALB02.ITM : Opcode 341 : La ressource BDFESTER.eff n'existe pas.
+BDHALB02.ITM : Opcode 146 : La ressource bdhalb02.spl n'existe pas.
+BDMISC10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDMISC10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDMISC10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDMISC10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+bdshld02.spl : BDSHLD02.ITM : Opcode 232 : Nom du sort introuvable pour bdshld02.spl.
+BDSHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDSPER01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+bdsper1a.spl : BDSPER01.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+bdsper1b.spl : BDSPER01.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1b.spl.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDSTAF03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDSUMST.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSUMST.ITM : FAILURE: opcode 214: Failure("BDSUMST.ITM : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da dtksumst")
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDSUMSTX.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDSW2H01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSW2H01.ITM : Opcode 232: TODO parameter2 : 21 : 0 : 104
+bddragbl.spl : BDSW2H01.ITM : Opcode 232 : Nom du sort introuvable pour bddragbl.spl.
+BDSW2H01.ITM : Unknown macro: opcode_party_206
+BDSW2H01.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_party_206")
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDSW2H02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSW2H02.ITM : Opcode 341 : La ressource BDSW2H02.eff n'existe pas.
+BDSW2H02.ITM : Opcode 177 : La ressource BDSW2H2D.eff n'existe pas.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+BDSW2H03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSW2H03.ITM : Opcode 341 : La ressource BDSW2H03.eff n'existe pas.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+CDSW2H07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DEMOSUM4.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBLDSH.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBLDSH.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBLDSH.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBLDSH.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DTKHALB1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DTKHALB2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+dtkwave.spl : DTKHALB2.ITM : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DTKHALB3.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+dtkwave.spl : DTKHALB3.ITM : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+DTKRDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKRDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKRDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKRDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSDRGS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHD2A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHD2A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHD2A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHD2A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD1.ITM : Opcode 197 : Réflection du type de projectile '366'
+DTKSHLD1.ITM : Opcode 197 : Réflection du type de projectile '352'
+DTKSHLD1.ITM : Opcode 197 : Réflection du type de projectile '349'
+DTKSHLD2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD4.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD4.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD4.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD4.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD4.ITM : Opcode 326 à gérer.
+DTKSHLD5.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD5.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD5.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSHLD5.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSISHD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSISHD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSISHD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSISHD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSKLS3.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSKLS3.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSKLS3.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSKLS3.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSOLA1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSOLA1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSOLA1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSOLA1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSOLAG.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSOLAG.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSOLAG.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSOLAG.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DTKSPER1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+bdsper1a.spl : DTKSPER1.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+bdsper1b.spl : DTKSPER1.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1b.spl.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DTKSPR1A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSPR1A.ITM : Opcode 341 : La ressource DTKWHIRL.eff n'existe pas.
+bdsper1a.spl : DTKSPR1A.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+bdsper1b.spl : DTKSPR1A.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1b.spl.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DTKSTAF1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DTKSWD05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSWD05.ITM : Opcode 232: TODO parameter2 : 21 : 0 : 104
+bddragbl.spl : DTKSWD05.ITM : Opcode 232 : Nom du sort introuvable pour bddragbl.spl.
+DTKSWD05.ITM : Unknown macro: opcode_party_206
+DTKSWD05.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_party_206")
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DTKSWD5A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKSWD5A.ITM : Opcode 232: TODO parameter2 : 21 : 0 : 104
+bddragbl.spl : DTKSWD5A.ITM : Opcode 232 : Nom du sort introuvable pour bddragbl.spl.
+DTKSWD5A.ITM : Unknown macro: opcode_party_206
+DTKSWD5A.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_party_206")
+DTKWDSHD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKWDSHD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKWDSHD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKWDSHD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DWHALB01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+DWSPER01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+GIAFIR2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+GITH.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+GORCAMB.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB11.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALB12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HALBSHA.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HGBER01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HGSALF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+KUOSPER.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+LYRE.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+LYRE.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+LYRE.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+LYRE.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHBREW02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+OHBREW02.ITM : Opcode 177 : La ressource .eff n'existe pas.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHBWING.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHBWING2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHDSW2HA.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHDSW2HB.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHDSW2HC.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHDSW2HD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+RODSPEAR.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SAHSPEAR.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SALACOLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SALASPER.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SALGRFIR.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+spwi418d.spl : SALGRFIR.ITM : Opcode 232 : Nom du sort introuvable pour spwi418d.spl.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SALGRICE.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+spwi403d.spl : SALGRICE.ITM : Opcode 232 : Nom du sort introuvable pour spwi403d.spl.
+SHLD24.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SHLD24.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SHLD24.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SHLD24.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SHLD24.ITM : Opcode 197 : Réflection du type de projectile '366'
+SHLD24.ITM : Opcode 197 : Réflection du type de projectile '352'
+SHLD24.ITM : Opcode 197 : Réflection du type de projectile '349'
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SKELWASU.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER11.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPER12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SPER12.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPER12.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPER12.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SPERMEL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H11.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H13.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SW2H13.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H15.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H16.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H17.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H18.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H20.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H21.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H99.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2HD1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+ohdsw2.spl : SW2HD1.ITM : Opcode 232 : Nom du sort introuvable pour ohdsw2.spl.
+ohdsw1.spl : SW2HD1.ITM : Opcode 206 : Nom du sort introuvable pour ohdsw1.spl.
+ohdsw2.spl : SW2HD1.ITM : Opcode 206 : Nom du sort introuvable pour ohdsw2.spl.
+ohdsw1.spl : SW2HD1.ITM : Opcode 232 : Nom du sort introuvable pour ohdsw1.spl.
+SW2HD1.ITM : Opcode 321 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2HDEAT.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+TTSWORD2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+UHALB4A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+WA2HALB.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+WAS2H.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+WASPEAR.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+WAUKEEN.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+WAUKEEN.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+WAUKEEN.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+WAUKEEN.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+WHTASH.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+AURSTAF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+AURSTAF.ITM : Opcode 83 : Type de projectile '297'
+AURSTAF.ITM : Opcode 83 : Type de projectile '283'
+spauru.spl : AURSTAF.ITM : Opcode 232 : Nom du sort introuvable pour spauru.spl.
+BDBLUN04.ITM : Opcode 341 : La ressource BDBLUN04.eff n'existe pas.
+BDBLUN07.ITM : Opcode 340 à gérer.
+BDBOW04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDBOW04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDBOW04.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDBOW05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+bddagg05.spl : BDDAGG05.ITM : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+bdvoid.spl : BDHAMM02.ITM : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+BDHAMM06.ITM : Opcode 361 à gérer.
+BDHAMM06.ITM : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+BDSLNG01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDSLNG01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+bdcrimsn.spl : BDSW1H01.ITM : Opcode 232 : Nom du sort introuvable pour bdcrimsn.spl.
+BDSW1H01.ITM : Opcode 321 à gérer.
+BDSW1H01.ITM : Opcode 321 à gérer.
+bdsw1h02.spl : BDSW1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+BDSW1H03.ITM : Opcode 177 : La ressource BDSW1H3H.eff n'existe pas.
+BDSW1H03.ITM : Opcode 341 : La ressource BDSW1H03.eff n'existe pas.
+BDSW1H03.ITM : Opcode 177 : La ressource BDSW1H3D.eff n'existe pas.
+BDSW1H03.ITM : Opcode 177 : La ressource BDSW1H3D.eff n'existe pas.
+bdvoid.spl : BDSW1H06.ITM : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+bdsw1h08.spl : BDSW1H08.ITM : Opcode 232 : Nom du sort introuvable pour bdsw1h08.spl.
+BDSW1H08.ITM : Opcode 321 à gérer.
+bdfractl.spl : BDSW1H14.ITM : Opcode 232 : Nom du sort introuvable pour bdfractl.spl.
+BDSW1H14.ITM : Opcode 321 à gérer.
+BDSW1H14.ITM : Opcode 146 : La ressource bdsw1h14.spl n'existe pas.
+BDSW1H21.ITM : Opcode 340 à gérer.
+bdsw1h21.spl : BDSW1H21.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h21.spl.
+BDXBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDXBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDXBOW01.ITM : Opcode 341 : La ressource BDXBOW01.eff n'existe pas.
+BDXBOW02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDXBOW02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+bddoom.spl : BDXBOW02.ITM : Opcode 146 : Nom du sort introuvable pour bddoom.spl.
+BLUN30.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+BLUN30.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+BLUN30.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+BOWMESS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BOWMESS.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+COMPS34.ITM : opcode 318: Traduction 13240138 manquante
+COMPS34.ITM : FAILURE: opcode 318: Not_found
+spin104a.spl : COMPS63.ITM : Opcode 146 : Nom du sort introuvable pour spin104a.spl.
+dtkwave.spl : DTKAXE02.ITM : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+dtkwave.spl : DTKAXE2A.ITM : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+DTKBLN1.ITM : Opcode 341 : La ressource DTKBLN1A.eff n'existe pas.
+DTKBLN1.ITM : Opcode 341 : La ressource BDBLUN04.eff n'existe pas.
+DTKBLN1A.ITM : Opcode 341 : La ressource DTKBLN1A.eff n'existe pas.
+DTKBLN1A.ITM : Opcode 341 : La ressource BDBLUN04.eff n'existe pas.
+DTKBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKCLUB1.ITM : Opcode 340 à gérer.
+DTKCLUB1.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN17
+DTKCLUB1.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : BLUN17
+bddagg05.spl : DTKDAG1.ITM : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+bddagg05.spl : DTKDAG1.ITM : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+bddagg05.spl : DTKDAG2.ITM : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+bddagg05.spl : DTKDAG2.ITM : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+DTKDART1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKDART1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKDGLOR.ITM : Opcode 341 : La ressource dtkdglor.eff n'existe pas.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+dtkdrain.spl : DTKHAM01.ITM : Opcode 146 : Nom du sort introuvable pour dtkdrain.spl.
+bdvoid.spl : DTKHAM01.ITM : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+DTKHAM3.ITM : Opcode 361 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 321 à gérer.
+DTKHPLT.ITM : Opcode 233: Proficiency not found : 110
+DTKHPLT.ITM : Opcode 206 : La ressource bdbeldis.spl n'existe pas.
+DTKLUCKY.ITM : Opcode 206 : La ressource chance.spl n'existe pas.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+ohdheal2.spl : DTKPLT1D.ITM : Opcode 232 : Nom du sort introuvable pour ohdheal2.spl.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+ohdheal2.spl : DTKPLT3D.ITM : Opcode 232 : Nom du sort introuvable pour ohdheal2.spl.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 177 : La ressource SW1H51A.eff n'existe pas.
+DTKSOLEM.ITM : Opcode 146 : La ressource vorpal.spl n'existe pas.
+dtkwave.spl : DTKSWD00.ITM : Opcode 146 : Nom du sort introuvable pour dtkwave.spl.
+dtkdrain.spl : DTKSWD02.ITM : Opcode 146 : Nom du sort introuvable pour dtkdrain.spl.
+bdvoid.spl : DTKSWD02.ITM : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+dtkshrd.spl : DTKSWD03.ITM : Opcode 146 : Nom du sort introuvable pour dtkshrd.spl.
+DTKSWD04.ITM : Opcode 340 à gérer.
+dtkbldvx.spl : DTKSWD04.ITM : Opcode 146 : Nom du sort introuvable pour dtkbldvx.spl.
+dtkderv1.spl : DTKSWD06.ITM : Opcode 232 : Nom du sort introuvable pour dtkderv1.spl.
+DTKSWD06.ITM : Opcode 321 à gérer.
+dtkdvis.spl : DTKSWD07.ITM : Opcode 232 : Nom du sort introuvable pour dtkdvis.spl.
+DTKSWD07.ITM : Opcode 324 : La ressource dtkvthrn.spl n'existe pas.
+bdsw1h02.spl : DTKSWD1B.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+bdsw1h02.spl : DTKSWD1C.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+dtkshrd.spl : DTKSWD3A.ITM : Opcode 146 : Nom du sort introuvable pour dtkshrd.spl.
+dtkderv1.spl : DTKSWD6A.ITM : Opcode 232 : Nom du sort introuvable pour dtkderv1.spl.
+DTKSWD6A.ITM : Opcode 321 à gérer.
+dtkdvis2.spl : DTKSWD7A.ITM : Opcode 232 : Nom du sort introuvable pour dtkdvis2.spl.
+DTKSWD7A.ITM : Opcode 324 : La ressource dtkvthrn.spl n'existe pas.
+dtkdvis3.spl : DTKSWD7B.ITM : Opcode 232 : Nom du sort introuvable pour dtkdvis3.spl.
+DTKSWD7B.ITM : Opcode 324 : La ressource dtkvthrn.spl n'existe pas.
+bdcrimsn.spl : DTKSWD8.ITM : Opcode 232 : Nom du sort introuvable pour bdcrimsn.spl.
+DTKSWD8.ITM : Opcode 321 à gérer.
+DTKSWD8.ITM : Opcode 321 à gérer.
+dtkswd8a.spl : DTKSWD8A.ITM : Opcode 232 : Nom du sort introuvable pour dtkswd8a.spl.
+DTKSWD8A.ITM : Opcode 321 à gérer.
+DTKSWD8A.ITM : Opcode 321 à gérer.
+dtksnow.spl : DTKTDAG2.ITM : Opcode 146 : Nom du sort introuvable pour dtksnow.spl.
+dtksnow.spl : DTKTDAG2.ITM : Opcode 146 : Nom du sort introuvable pour dtksnow.spl.
+DTKXBOW1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKXBOW1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+DTKXBOW1.ITM : Opcode 341 : La ressource DTKXBOW1.eff n'existe pas.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+ENSTAFF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+cftroll.eff : Opcode 123 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HGNYA01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+HGWRA01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+MISC5T.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+MISC9O.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+NPPLAT.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+NPPLAT.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+NPPLAT.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+NPSTAF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+NPSW03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+keldorn.spl : NPSW03.ITM : Opcode 232 : Nom du sort introuvable pour keldorn.spl.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHBDEVA1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHBSTAF1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+ohdheal2.spl : OHDARMOR.ITM : Opcode 232 : Nom du sort introuvable pour ohdheal2.spl.
+ohnhammx.spl : OHNHAMM1.eff : Opcode 146 : Nom du sort introuvable pour ohnhammx.spl.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+OHREAVER.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+REAVER.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+RODS04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+RODS05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SAHSTAFF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF11.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+STAF11.ITM : Opcode 58: TODO EE : Dissipation des armes magiques à gerer : 131074
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF13.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF15.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF16.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF17.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF18.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF19.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF20.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF21.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF22.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF23.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAF24.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+STAFN1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+spin104a.spl : SW1H63.ITM : Opcode 146 : Nom du sort introuvable pour spin104a.spl.
+SW1H68C.ITM : Opcode 112 à gérer.
+SW1H69C.ITM : Opcode 112 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SW2H10.ITM : Opcode 58: TODO EE : Dissipation des armes magiques à gerer : 131074
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+SW2H19.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+SW2H19.ITM : Opcode 58: TODO EE : Dissipation des armes magiques à gerer : 131074
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+moarm06.spl : moarm06.eff : Opcode 232 : Nom du sort introuvable pour moarm06.spl.
+moarm06.eff : Opcode 326 à gérer.
+moarm05.spl : moarm05.eff : Opcode 232 : Nom du sort introuvable pour moarm05.spl.
+moarm05.eff : Opcode 326 à gérer.
+moarm04.spl : moarm04.eff : Opcode 232 : Nom du sort introuvable pour moarm04.spl.
+moarm04.eff : Opcode 326 à gérer.
+moarm03.spl : moarm03.eff : Opcode 232 : Nom du sort introuvable pour moarm03.spl.
+moarm03.eff : Opcode 326 à gérer.
+moarm01.spl : moarm01.eff : Opcode 232 : Nom du sort introuvable pour moarm01.spl.
+moarm01.eff : Opcode 326 à gérer.
+mostr06.spl : mostr06.eff : Opcode 232 : Nom du sort introuvable pour mostr06.spl.
+mostr06.eff : Opcode 326 à gérer.
+mostr05.spl : mostr05.eff : Opcode 232 : Nom du sort introuvable pour mostr05.spl.
+mostr05.eff : Opcode 326 à gérer.
+mostr04.spl : mostr04.eff : Opcode 232 : Nom du sort introuvable pour mostr04.spl.
+mostr04.eff : Opcode 326 à gérer.
+mostr03.spl : mostr03.eff : Opcode 232 : Nom du sort introuvable pour mostr03.spl.
+mostr03.eff : Opcode 326 à gérer.
+mostr02.spl : mostr02.eff : Opcode 232 : Nom du sort introuvable pour mostr02.spl.
+mostr02.eff : Opcode 326 à gérer.
+mostr01.spl : mostr01.eff : Opcode 232 : Nom du sort introuvable pour mostr01.spl.
+mostr01.eff : Opcode 326 à gérer.
+WASTAFF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+ZZD5WOH.ITM : Opcode 318 : La ressource sppr423.spl n'existe pas.
+ZZD5WOH.ITM : Opcode 318 : La ressource spwi904.spl n'existe pas.
+BDMISC05.ITM : Opcode 206 : La ressource bdbeldis.spl n'existe pas.
+DTKHMAIL.ITM : Opcode 206 : La ressource bdbeldis.spl n'existe pas.
+ohdheal2.spl : DTKLEA1D.ITM : Opcode 232 : Nom du sort introuvable pour ohdheal2.spl.
+ohdheal2.spl : DTKLEA3D.ITM : Opcode 232 : Nom du sort introuvable pour ohdheal2.spl.
+ohdheal2.spl : DTKLEA5A.ITM : Opcode 232 : Nom du sort introuvable pour ohdheal2.spl.
+bdnighte.spl : DTKLEAT3.ITM : Opcode 232 : Nom du sort introuvable pour bdnighte.spl.
+bdnighte.spl : DTKLEAT3.ITM : Opcode 206 : Nom du sort introuvable pour bdnighte.spl.
+bdnighte.spl : DTKLEAT3.ITM : Opcode 206 : Nom du sort introuvable pour bdnighte.spl.
+dtkskald.spl : DTKSKALD.eff : Opcode 146 : Nom du sort introuvable pour dtkskald.spl.
+moprof.itm : Opcode 321 à gérer.
+moprof.itm : Opcode 146 : La ressource dagg01.spl n'existe pas.

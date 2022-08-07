@@ -1,0 +1,28 @@
+	
+l#bhasy1.spl : l#bhasy.itm : Opcode 232 : Nom du sort introuvable pour l#bhasy1.spl.
+l#bhasy2.spl : l#bhasy.itm : Opcode 146 : Nom du sort introuvable pour l#bhasy2.spl.
+l#frgm0m.spl : l#frgm0.itm : Opcode 232 : Nom du sort introuvable pour l#frgm0m.spl.
+l#frgm0.itm : Opcode 232: TODO: target
+l#haur2.itm : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : SPWI119
+l#haur2.itm : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SPWI119
+spwi119a.spl : l#haur2.itm : Opcode 146 : Nom du sort introuvable pour spwi119a.spl.
+l#kobi1.spl : l#kobi1.itm : Opcode 232 : Nom du sort introuvable pour l#kobi1.spl.
+l#ormsta.spl : l#ormsta.itm : Opcode 232 : Nom du sort introuvable pour l#ormsta.spl.
+l#perrin.spl : l#perrin.itm : Opcode 232 : Nom du sort introuvable pour l#perrin.spl.
+l#rni3.spl : L#RNI3.eff : Opcode 232 : Nom du sort introuvable pour l#rni3.spl.
+L#RNI3.eff : Unknown macro: opcode_target_1
+l#rni3.itm : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_1\")")
+l#shadm1.itm : Unknown macro: opcode_self_24
+l#shadm1.itm : FAILURE: opcode 232: Failure("Unknown macro: opcode_self_24")
+l#ulcda.itm : Opcode 341 : La ressource SPPR319.eff n'existe pas.
+L#ZSOD4.ITM : Opcode 341 : La ressource L#ZSOD4.eff n'existe pas.
+L#ZSOD4.ITM : Opcode 362 à gérer.
+l#zsod7a.spl : L#ZSOD7A.eff : Opcode 146 : Nom du sort introuvable pour l#zsod7a.spl.
+l#zsod7b.spl : l#zsod7.itm : Opcode 318 : Nom du sort introuvable pour l#zsod7b.spl.
+l#zsod7b.spl : L#ZSOD7B.eff : Opcode 146 : Nom du sort introuvable pour l#zsod7b.spl.
+l#zsod7a.spl : l#zsod8.itm : Opcode 318 : Nom du sort introuvable pour l#zsod7a.spl.
+l#zsod9d.spl : l#zsod9.itm : Opcode 146 : Nom du sort introuvable pour l#zsod9d.spl.
+l#zsod9.itm : FAILURE: opcode 214: Failure("l#zsod9.itm : Opcode 214 : Lire les sorts utilisables depuis le fichier 2da L#ZSOD9")
+BEHOLDER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+BEHOLDER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+BEHOLDER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.

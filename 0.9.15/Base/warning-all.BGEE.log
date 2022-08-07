@@ -1,0 +1,129 @@
+	
+AMUL17.ITM : Opcode 321 à gérer.
+AMUL17.ITM : Opcode 321 à gérer.
+spin775.spl : AMUL17.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+AX1H06.ITM : Opcode 341 : La ressource BDRHYTE.eff n'existe pas.
+AX1H19.ITM : Opcode 112 à gérer.
+AX1H19.ITM : Opcode 58: TODO EE : Dissipation des armes magiques à gerer : 131074
+BDAX1H02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+bdax1h02.spl : BDAX1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h02.spl.
+bdax1h02.spl : BDAX1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h02.spl.
+BDAX1H05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+bdax1h05.spl : BDAX1H05.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h05.spl.
+bdax1h05.spl : BDAX1H05.ITM : Opcode 146 : Nom du sort introuvable pour bdax1h05.spl.
+BDBELT01.ITM : Opcode 321 à gérer.
+BDBLUN04.ITM : Opcode 341 : La ressource BDBLUN04.eff n'existe pas.
+BDBLUN07.ITM : Opcode 340 à gérer.
+bdbow06.spl : BDBOOT01.ITM : Opcode 206 : Nom du sort introuvable pour bdbow06.spl.
+bdshamb.spl : BDBOOT01.ITM : Opcode 206 : Nom du sort introuvable pour bdshamb.spl.
+BDBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+bdbow01.spl : BDBOW01.ITM : Opcode 146 : Nom du sort introuvable pour bdbow01.spl.
+BDBOW02.ITM : Opcode 341 : La ressource BDBOW02.eff n'existe pas.
+bdfleshr.spl : BDBOW03.ITM : Opcode 146 : Nom du sort introuvable pour bdfleshr.spl.
+BDBOW04.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+BDBOW05.ITM : Opcode 326 à gérer.
+bdbow06.spl : BDBOW06.ITM : Opcode 146 : Nom du sort introuvable pour bdbow06.spl.
+BDBRAC01.ITM : Opcode 341 : La ressource BDBRAC01.eff n'existe pas.
+BDBRAC15.ITM : Opcode 361 à gérer.
+bdchan04.spl : BDCHAN04.eff : Opcode 146 : Nom du sort introuvable pour bdchan04.spl.
+bdbeldis.spl : BDCHANCA.ITM : Opcode 206 : Nom du sort introuvable pour bdbeldis.spl.
+bdclck03.spl : BDCLCK03.ITM : Opcode 232 : Nom du sort introuvable pour bdclck03.spl.
+RNDGEM01.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM01.itm.
+RNDGEM02.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM02.itm.
+RNDGEM03.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM03.itm.
+RNDGEM04.itm : BDDAGG03.ITM : Opcode 122 : Nom de l'objet introuvable pour RNDGEM04.itm.
+bddagg05.spl : BDDAGG05.ITM : Opcode 146 : Nom du sort introuvable pour bddagg05.spl.
+BDHALB01.ITM : Opcode 361 à gérer.
+BDHALB02.ITM : Opcode 341 : La ressource BDFESTER.eff n'existe pas.
+bdhalb02.spl : BDHALB02.ITM : Opcode 146 : Nom du sort introuvable pour bdhalb02.spl.
+BDHALB03.ITM : Opcode 326 à gérer.
+bdvoid.spl : BDHAMM02.ITM : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+BDHAMM06.ITM : Opcode 361 à gérer.
+BDHAMM06.ITM : Opcode 326 à gérer.
+bdhelm17.spl : BDHELM17.eff : Opcode 146 : Nom du sort introuvable pour bdhelm17.spl.
+bdbow06.spl : BDLEAT06.ITM : Opcode 206 : Nom du sort introuvable pour bdbow06.spl.
+bdshamb.spl : BDLEAT06.ITM : Opcode 206 : Nom du sort introuvable pour bdshamb.spl.
+bdnighte.spl : BDLEAT07.ITM : Opcode 232 : Nom du sort introuvable pour bdnighte.spl.
+bdnighte.spl : BDLEAT07.ITM : Opcode 206 : Nom du sort introuvable pour bdnighte.spl.
+bdnighte.spl : BDLEAT07.ITM : Opcode 206 : Nom du sort introuvable pour bdnighte.spl.
+bdbeldis.spl : BDMISC05.ITM : Opcode 206 : Nom du sort introuvable pour bdbeldis.spl.
+BDRING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+bdshld02.spl : BDSHLD02.ITM : Opcode 232 : Nom du sort introuvable pour bdshld02.spl.
+bdshblod.spl : BDSHLD08.ITM : Opcode 232 : Nom du sort introuvable pour bdshblod.spl.
+bdshblod.spl : BDSHLD08.ITM : Opcode 206 : Nom du sort introuvable pour bdshblod.spl.
+bdshblod.spl : BDSHLD08.ITM : Opcode 206 : Nom du sort introuvable pour bdshblod.spl.
+bdsper1a.spl : BDSPER01.ITM : Opcode 146 : Nom du sort introuvable pour bdsper1a.spl.
+bdcrimsn.spl : BDSW1H01.ITM : Opcode 232 : Nom du sort introuvable pour bdcrimsn.spl.
+BDSW1H01.ITM : Opcode 321 à gérer.
+BDSW1H01.ITM : Opcode 321 à gérer.
+bdsw1h02.spl : BDSW1H02.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h02.spl.
+BDSW1H03.ITM : Opcode 341 : La ressource BDSW1H03.eff n'existe pas.
+bdvoid.spl : BDSW1H06.ITM : Opcode 146 : Nom du sort introuvable pour bdvoid.spl.
+bdsw1h08.spl : BDSW1H08.ITM : Opcode 232 : Nom du sort introuvable pour bdsw1h08.spl.
+BDSW1H08.ITM : Opcode 321 à gérer.
+bdfractl.spl : BDSW1H14.ITM : Opcode 232 : Nom du sort introuvable pour bdfractl.spl.
+BDSW1H14.ITM : Opcode 321 à gérer.
+bdsw1h14.spl : BDSW1H14.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h14.spl.
+BDSW1H21.ITM : Opcode 340 à gérer.
+bdsw1h21.spl : BDSW1H21.ITM : Opcode 146 : Nom du sort introuvable pour bdsw1h21.spl.
+BDSW2H01.ITM : Opcode 232: TODO parameter2 : 21 : 0 : 104
+bddragbl.spl : BDSW2H01.ITM : Opcode 232 : Nom du sort introuvable pour bddragbl.spl.
+BDSW2H01.ITM : Unknown macro: opcode_party_206
+BDSW2H01.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_party_206")
+BDSW2H02.ITM : Opcode 341 : La ressource BDSW2H02.eff n'existe pas.
+BDSW2H03.ITM : Opcode 341 : La ressource BDSW2H03.eff n'existe pas.
+BDXBOW01.ITM : Opcode 341 : La ressource BDXBOW01.eff n'existe pas.
+bddoom.spl : BDXBOW02.ITM : Opcode 146 : Nom du sort introuvable pour bddoom.spl.
+blun38.spl : BLUN38.ITM : Opcode 232 : Nom du sort introuvable pour blun38.spl.
+spin775.spl : CHALCY3.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+CHALCY3.ITM : Opcode 321 à gérer.
+CHALCY3.ITM : Opcode 321 à gérer.
+spin775.spl : CHALCY3.ITM : Opcode 206 : Nom du sort introuvable pour spin775.spl.
+CLCK04.ITM : Opcode 172 : La ressource spinhum.spl n'existe pas.
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '205'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '320'
+hamm01.spl : HAMM01.ITM : Opcode 146 : Nom du sort introuvable pour hamm01.spl.
+HELM35.ITM : Opcode 83: TODO: self_probability
+JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+ohsmode3.spl : PRINCES2.ITM : Opcode 146 : Nom du sort introuvable pour ohsmode3.spl.
+RING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SHLD08P.ITM : Opcode 326 à gérer.
+SHLD08P.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : SPWI413
+spwi413a.spl : SHLD08P.ITM : Opcode 146 : Nom du sort introuvable pour spwi413a.spl.
+SHLD08P.ITM : Opcode 326 à gérer.
+SHLD08P.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : SPWI413
+spwi413a.spl : SHLD08P.ITM : Opcode 146 : Nom du sort introuvable pour spwi413a.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+sppr951d.spl : SHLD08P.ITM : Opcode 232 : Nom du sort introuvable pour sppr951d.spl.
+SW1P01.ITM : Unknown macro: opcode_target_233
+SW1P01.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_target_233")
+SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+ohdsw2.spl : SW2HD1.ITM : Opcode 232 : Nom du sort introuvable pour ohdsw2.spl.
+ohdsw1.spl : SW2HD1.ITM : Opcode 206 : Nom du sort introuvable pour ohdsw1.spl.
+ohdsw2.spl : SW2HD1.ITM : Opcode 206 : Nom du sort introuvable pour ohdsw2.spl.
+ohdsw1.spl : SW2HD1.ITM : Opcode 232 : Nom du sort introuvable pour ohdsw1.spl.
+SW2HD1.ITM : opcode 221: Traduction 100214 manquante
+SW2HD1.ITM : opcode 221: Traduction 100214 manquante
+WA2SHIEL.ITM : Opcode 197 : Réflection du type de projectile '320'
