@@ -1,0 +1,39 @@
+	
+AX1H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+BDSW1H25.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+DEVA.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+DEVAEVIL.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+DWCHAN02.ITM : Opcode 0: parameter1 equal to 0 for a bonus/malus to the armor class.
+FINSOL01.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+FINSOL01.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+PLANETAR.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+PRINCESS.ITM : Opcode 238: Wrong ids file : 24
+SHLD06P.ITM : Opcode 178: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219000: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219001: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219000: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219001: Wrong ids file : 255
+SW2HD1.ITM : Opcode 221: Wrong parameter2 : 14
+SW2HD1.ITM : Opcode 221: Wrong parameter2 : 14
+TROLLREG.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
+
+
+Total : 2153
+
+Sans description : 0
+
+Ignores : 1075
+
+Reussis : 1036
+
+Echoues : 42
+
+Potions (TODO): 347
+
+Munitions (TODO) : 61
+
+Opcodes a coder : 28
