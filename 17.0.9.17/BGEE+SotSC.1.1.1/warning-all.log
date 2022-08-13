@@ -1,0 +1,276 @@
+	
+ABAZRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+ABAZRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+ABAZRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+ALDETH.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+ALDETH.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+ALDETH.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+AMUL17.ITM : Opcode 321 à gérer.
+AMUL17.ITM : Opcode 321 à gérer.
+AX1H06.ITM : Opcode 321 à gérer.
+AX1H06.ITM : Opcode 54: Unknow target : 9 
+AX1H19.ITM : Opcode 112 à gérer.
+BAZPATRG.ITM : Opcode 206 : La ressource spwish27.spl n'existe pas.
+BAZPATRG.ITM : Opcode 206 : La ressource spwish32.spl n'existe pas.
+BAZPATRG.ITM : Opcode 206 : La ressource spwish35.spl n'existe pas.
+BAZPATRG.ITM : Opcode 206 : La ressource sppr725d.spl n'existe pas.
+BAZPATRG.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+BAZPATRG.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+BAZPATRG.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+BDAX1H02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDAX1H05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDBELT01.ITM : Opcode 321 à gérer.
+BDBLUN04.ITM : FAILURE: opcode 12: Failure("BDBLUN04.ITM : Type de degat '3' pour le opcode 12 pas encore gere")
+BDBLUN04.ITM : FAILURE: opcode 341: Failure("Opcode 12: Failure(\"BDBLUN04.ITM : Type de degat '3' pour le opcode 12 pas encore gere\")")
+BDBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDBOW04.ITM : Unknown macro: opcode_target_326
+BDBOW05.ITM : Unknown macro: opcode_target_326
+BDCONSTR.ITM : Opcode 206 : La ressource sppr422.spl n'existe pas.
+BDDTRAI.ITM : Opcode 206 : La ressource spin642.spl n'existe pas.
+BDDTRAI.ITM : Opcode 206 : La ressource bhaal1a.spl n'existe pas.
+BDDTRAI.ITM : Opcode 206 : La ressource spin551.spl n'existe pas.
+BDDTRAI.ITM : Opcode 206 : La ressource sppr215.spl n'existe pas.
+BDFF1000.ITM : opcode 101: Traduction 11010007 manquante
+BDFF1000.ITM : FAILURE: opcode 101: Not_found
+BDFF1002.ITM : opcode 101: Traduction 11010007 manquante
+BDFF1002.ITM : FAILURE: opcode 101: Not_found
+BDGASIM.ITM : Opcode 206 : La ressource spin642.spl n'existe pas.
+BDGOGH01.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BDSHA06A
+BDGOGH01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDHALB02.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BDFESTER
+BDHALB02.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BDFESTER
+BDHALB02.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BDFESTER
+BDHALB02.ITM : Opcode 321 à gérer.
+BDHALB03.ITM : Unknown macro: opcode_target_326
+BDHAMM06.ITM : Unknown macro: opcode_target_326
+BDIMMGAS.ITM : Opcode 206 : La ressource spin642.spl n'existe pas.
+BDMEPSUT.ITM : Opcode 206 : La ressource sppr215.spl n'existe pas.
+BDMISC1B.ITM : opcode 101: Traduction 11010177 manquante
+BDMISC1B.ITM : FAILURE: opcode 101: Not_found
+BDMISC1C.ITM : opcode 101: Traduction 11010177 manquante
+BDMISC1C.ITM : FAILURE: opcode 101: Not_found
+BDRING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+BDSW1H01.ITM : Opcode 321 à gérer.
+BDSW1H01.ITM : Opcode 321 à gérer.
+BDSW1H03.ITM : Unknown macro: opcode_target_326
+BDSW1H03.ITM : FAILURE: opcode 341: Failure("Unknown macro: opcode_target_326")
+BDSW1H08.ITM : Opcode 321 à gérer.
+BDSW1H14.ITM : Opcode 321 à gérer.
+BDSW1H21.ITM : Opcode 321 à gérer.
+BDSW1H21.ITM : Opcode 321 à gérer.
+BDSW1H21.ITM : Opcode 44: Unknow target : 9 
+BDSW2H01.ITM : Opcode 321 à gérer.
+BDSW2H02.ITM : Unknown macro: opcode_target_326
+BDSW2H02.ITM : FAILURE: opcode 341: Failure("Unknown macro: opcode_target_326")
+BEHOLDER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+BEHOLDER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+BEHOLDER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+BHAALHP1.ITM : Opcode 206 : La ressource sareveff.spl n'existe pas.
+BHAALIMM.ITM : Opcode 206 : La ressource sareveff.spl n'existe pas.
+CATRING.ITM : FAILURE: opcode 1: Not_found
+CHALCY3.ITM : Opcode 321 à gérer.
+CHALCY3.ITM : Opcode 321 à gérer.
+CLCK04.ITM : Opcode 172 : La ressource spinhum.spl n'existe pas.
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '205'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '320'
+DRAGRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+DRAGRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+DRAGRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+ETTERC.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+ETTERC.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+FINMEL01.ITM : Opcode 206 : La ressource sareveff.spl n'existe pas.
+FREERING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+FREERING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+FREERING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+FSSPIR.ITM : Opcode 206 : La ressource spwish27.spl n'existe pas.
+FSSPIR.ITM : Opcode 206 : La ressource spwish32.spl n'existe pas.
+FSSPIR.ITM : Opcode 206 : La ressource spwish35.spl n'existe pas.
+FSSPIR.ITM : Opcode 206 : La ressource sppr725d.spl n'existe pas.
+FSSPIR.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+FSSPIR.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+FSSPIR.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+GBASIL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+GBASIL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+GISPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+GISPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+GORAIR.ITM : Opcode 206 : La ressource spwi025.spl n'existe pas.
+GORAIR.ITM : Opcode 206 : La ressource spwi026.spl n'existe pas.
+GORAIR.ITM : Opcode 206 : La ressource spwi027.spl n'existe pas.
+GORAIR.ITM : Opcode 206 : La ressource spin643.spl n'existe pas.
+GORCHR.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+GORCHR.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+GORCHR.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+GORCHR.ITM : Opcode 206 : La ressource sppr730.spl n'existe pas.
+GORCHR.ITM : Opcode 206 : La ressource sppr730d.spl n'existe pas.
+GORMISTI.ITM : Opcode 206 : La ressource spin628.spl n'existe pas.
+GORMISTI.ITM : Opcode 206 : La ressource spin616.spl n'existe pas.
+GORMISTP.ITM : Opcode 206 : La ressource spin642.spl n'existe pas.
+HARM.ITM : FAILURE: opcode 12: Failure("HARM.ITM : Type de degat '4194305' pour le opcode 12 pas encore gere")
+HELM35.ITM : Opcode 83: TODO: self_probability
+HOLDRING.ITM : Opcode 206 : La ressource spwish27.spl n'existe pas.
+HOLDRING.ITM : Opcode 206 : La ressource spwish32.spl n'existe pas.
+HOLDRING.ITM : Opcode 206 : La ressource spwish35.spl n'existe pas.
+HOLDRING.ITM : Opcode 206 : La ressource sppr725d.spl n'existe pas.
+HOLDRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+HOLDRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+HOLDRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+HUSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+HUSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+IMMCLOUD.ITM : Opcode 83 : Type de projectile '94'
+IMMUNE3.ITM : Opcode 233: Proficiency not found : 128
+INVULNER.ITM : Opcode 206 : La ressource spwish27.spl n'existe pas.
+INVULNER.ITM : Opcode 206 : La ressource spwish32.spl n'existe pas.
+INVULNER.ITM : Opcode 206 : La ressource spwish35.spl n'existe pas.
+INVULNER.ITM : Opcode 206 : La ressource sppr725d.spl n'existe pas.
+INVULNER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+INVULNER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+INVULNER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+IPSION.ITM : Opcode 321 à gérer.
+IPSION.ITM : Opcode 321 à gérer.
+JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+L#FRGM0.ITM : Opcode 232: TODO: target
+L#HAUR2.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : SPWI119
+L#HAUR2.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SPWI119
+L#RNI3.ITM : Unknown macro: opcode_target_1
+L#RNI3.ITM : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_1\")")
+L#SHADM1.ITM : Unknown macro: opcode_self_24
+L#SHADM1.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_self_24")
+L#ULCDA.ITM : Unknown macro: opcode_target_233
+L#ULCDA.ITM : FAILURE: opcode 341: Failure("Unknown macro: opcode_target_233")
+L#ZSOD9.ITM : Opcode 321 à gérer.
+L#ZSOD9.ITM : Opcode 321 à gérer.
+L#ZSOD9.ITM : Opcode 321 à gérer.
+L#ZSOD9.ITM : Opcode 321 à gérer.
+L#ZSOD9.ITM : Opcode 321 à gérer.
+MAGE05.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+MAGE05.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+MAGE05.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+MAGEAMUL.ITM : Opcode 112 à gérer.
+PHSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+PHSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+PLYJELLY.ITM : Opcode 318 : La ressource wand13.spl n'existe pas.
+PLYWYVRN.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+PLYWYVRN.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+PLYWYVRN.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+RAKRING.ITM : Opcode 206 : La ressource sppr725d.spl n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+RING97.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+RING97.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+RING97.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+RINGWOLF.ITM : opcode 120: Traduction 11200014 manquante
+RINGWOLF.ITM : FAILURE: opcode 120: Not_found
+SAREVIMM.ITM : Opcode 206 : La ressource sareveff.spl n'existe pas.
+SHLD08P.ITM : Unknown macro: opcode_target_326
+SHLD08P.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_target_326")
+SPRNGB01.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGB01.ITM : FAILURE: opcode 101: Not_found
+SPRNGB02.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGB02.ITM : FAILURE: opcode 101: Not_found
+SPRNGB03.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGB03.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGB03.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGB03.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGB03.ITM : FAILURE: opcode 101: Not_found
+SPRNGB04.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGB04.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGB04.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGB04.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGB04.ITM : FAILURE: opcode 101: Not_found
+SPRNGL01.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGL01.ITM : FAILURE: opcode 101: Not_found
+SPRNGL02.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGL02.ITM : FAILURE: opcode 101: Not_found
+SPRNGL03.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGL03.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGL03.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGL03.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGL03.ITM : FAILURE: opcode 101: Not_found
+SPRNGL04.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGL04.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGL04.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGL04.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGL04.ITM : FAILURE: opcode 101: Not_found
+SPRNGS01.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGS01.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGS01.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGS01.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGS01.ITM : FAILURE: opcode 101: Not_found
+SPRNGS02.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGS02.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGS02.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGS02.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGS02.ITM : FAILURE: opcode 101: Not_found
+SPRNGS03.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGS03.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGS03.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGS03.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGS03.ITM : FAILURE: opcode 101: Not_found
+SPRNGS04.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGS04.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGS04.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGS04.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGS04.ITM : FAILURE: opcode 101: Not_found
+SPRNGW01.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGW01.ITM : FAILURE: opcode 101: Not_found
+SPRNGW02.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGW02.ITM : FAILURE: opcode 101: Not_found
+SPRNGW03.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGW03.ITM : FAILURE: opcode 101: Not_found
+SPRNGW04.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGW04.ITM : FAILURE: opcode 101: Not_found
+SPRNGZ05.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SPRNGZ05.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SPRNGZ05.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SPRNGZ05.ITM : opcode 101: Traduction 11010151 manquante
+SPRNGZ05.ITM : FAILURE: opcode 101: Not_found
+SUREHP1.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SUREHP1.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SUREHP1.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SW1P01.ITM : Unknown macro: opcode_target_233
+SW1P01.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_target_233")
+SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SW2HD1.ITM : opcode 221: Traduction 100214 manquante
+SW2HD1.ITM : opcode 221: Traduction 100214 manquante
+TROLLREG.ITM : Opcode 112 à gérer.
+TROLLREG.ITM : Opcode 112 à gérer.
+UNIAMN.ITM : opcode 101: Traduction 11010007 manquante
+UNIAMN.ITM : FAILURE: opcode 101: Not_found
+UNIBAND.ITM : opcode 101: Traduction 11010007 manquante
+UNIBAND.ITM : FAILURE: opcode 101: Not_found
+UNIBBEG.ITM : opcode 101: Traduction 11010007 manquante
+UNIBBEG.ITM : FAILURE: opcode 101: Not_found
+UNICAEL.ITM : opcode 101: Traduction 11010007 manquante
+UNICAEL.ITM : FAILURE: opcode 101: Not_found
+UNICAND.ITM : opcode 101: Traduction 11010007 manquante
+UNICAND.ITM : FAILURE: opcode 101: Not_found
+UNICHILL.ITM : opcode 101: Traduction 11010007 manquante
+UNICHILL.ITM : FAILURE: opcode 101: Not_found
+UNIDAGG.ITM : opcode 101: Traduction 11010007 manquante
+UNIDAGG.ITM : FAILURE: opcode 101: Not_found
+UNIDRSH.ITM : opcode 101: Traduction 11010007 manquante
+UNIDRSH.ITM : FAILURE: opcode 101: Not_found
+UNIDRUID.ITM : opcode 101: Traduction 11010007 manquante
+UNIDRUID.ITM : FAILURE: opcode 101: Not_found
+UNIFAI.ITM : opcode 101: Traduction 11010007 manquante
+UNIFAI.ITM : FAILURE: opcode 101: Not_found
+UNIFLAM.ITM : opcode 101: Traduction 11010007 manquante
+UNIFLAM.ITM : FAILURE: opcode 101: Not_found
+UNILATH1.ITM : opcode 101: Traduction 11010007 manquante
+UNILATH1.ITM : FAILURE: opcode 101: Not_found
+UNITALON.ITM : opcode 101: Traduction 11010007 manquante
+UNITALON.ITM : FAILURE: opcode 101: Not_found
+UNITHAY.ITM : opcode 101: Traduction 11010007 manquante
+UNITHAY.ITM : FAILURE: opcode 101: Not_found
+UNITHRON.ITM : opcode 101: Traduction 11010007 manquante
+UNITHRON.ITM : FAILURE: opcode 101: Not_found
+UNIWATER.ITM : opcode 101: Traduction 11010007 manquante
+UNIWATER.ITM : FAILURE: opcode 101: Not_found
+WA2SHIEL.ITM : Opcode 197 : Réflection du type de projectile '320'
