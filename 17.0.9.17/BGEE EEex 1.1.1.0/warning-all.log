@@ -132,20 +132,6 @@ IPSION.ITM : Opcode 321 à gérer.
 JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-L#FRGM0.ITM : Opcode 232: TODO: target
-L#HAUR2.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : SPWI119
-L#HAUR2.ITM : Opcode 324 : Immunité à une ressource (spl ou itm) différente de l'objet : SPWI119
-L#RNI3.ITM : Unknown macro: opcode_target_1
-L#RNI3.ITM : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_1\")")
-L#SHADM1.ITM : Unknown macro: opcode_self_24
-L#SHADM1.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_self_24")
-L#ULCDA.ITM : Unknown macro: opcode_target_233
-L#ULCDA.ITM : FAILURE: opcode 341: Failure("Unknown macro: opcode_target_233")
-L#ZSOD9.ITM : Opcode 321 à gérer.
-L#ZSOD9.ITM : Opcode 321 à gérer.
-L#ZSOD9.ITM : Opcode 321 à gérer.
-L#ZSOD9.ITM : Opcode 321 à gérer.
-L#ZSOD9.ITM : Opcode 321 à gérer.
 MAGE05.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 MAGE05.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 MAGE05.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.

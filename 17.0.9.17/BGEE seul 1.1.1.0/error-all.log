@@ -21,17 +21,17 @@ TROLLREG.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
 TROLLREG.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 TROLLREG.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
 
-Total : 2312
+Total : 2153
 
 Sans description : 0
 
-Ignores : 1148
+Ignores : 1075
 
-Reussis : 1092
+Reussis : 1029
 
-Echoues : 72
+Echoues : 49
 
-Potions (TODO): 367
+Potions (TODO): 347
 
 Munitions (TODO) : 61
 

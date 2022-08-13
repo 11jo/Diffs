@@ -1,0 +1,23 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~EEEX/EEEX.TP2~ #0 #0 // EEex: 0.9.7
+~EEEX/EEEX.TP2~ #0 #1 // Enable effect menu module - (LShift-on-hover to view spells affecting creature): 0.9.7
+~EEEX/EEEX.TP2~ #0 #2 // Enable timer module - (visual indicators for modal actions, contingency spells, and spell/item cooldowns): 0.9.7
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #601 // Installer le kit de rodeur Rashemaar Berserker -> Assigner le kit à Minsc: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #610 // Installer le kit Esprit Guerrier qui comme son nom l'indique est un kit de guerrier: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #620 // Installer le kit d'ensorceleur Eldritch Scion: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #12 // Mise a jour des Capacites des Bardes -> Ajouter Crochetage de serrures et Detection des pieges: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #130 // Permettre au Maitre-lames de se specialiser dans les armes de melee: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #150 // Add New Fighter Abilities: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #143 // Permettre au guerrier multi-classé de depasser la specialisation (2 points de compétence) pour les compétences d'armes -> Permettre au guerrier multi-classé de depasser la grande maitrise (5 points de compétence) pour les compétences d'armes: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #20 // Mise a jour des Capacites des Moines: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #70 // Ajouter des capacites speciales pour les moines: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #50 // Ajouter Detection des illusions pour les Tueurs de magiciens: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #80 // Ajouter des capacites speciales pour les Paladins: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #60 // Remplacer la Vision veritable de l'Inquisiteur par la capacite Detection des illusions: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #100 // Permettre a l'Inquisiteur de lancer des sorts divins: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #120 // Revision de la capacite repousser les morts-vivants: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #300 // Mises a Jour des styles de combat: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #313 // Revision du Systeme de Competence - Ajout de nouvelles competences et de nouveaux styles de combat -> Progression des competences similaire a NWN2: v0.9-alpha
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #1 #400 // Bonus de force supplementaire pour les armes a deux mains: v0.9-alpha

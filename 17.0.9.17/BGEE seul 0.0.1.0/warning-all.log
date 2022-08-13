@@ -1,0 +1,57 @@
+	
+AMUL17.ITM : Opcode 321 à gérer.
+AMUL17.ITM : Opcode 321 à gérer.
+AX1H06.ITM : Opcode 321 à gérer.
+AX1H06.ITM : Opcode 54: Unknow target : 9 
+AX1H19.ITM : Opcode 112 à gérer.
+BDAX1H02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDAX1H05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDBELT01.ITM : Opcode 321 à gérer.
+BDBLUN04.ITM : FAILURE: opcode 12: Failure("BDBLUN04.ITM : Type de degat '3' pour le opcode 12 pas encore gere")
+BDBLUN04.ITM : FAILURE: opcode 341: Failure("Opcode 12: Failure(\"BDBLUN04.ITM : Type de degat '3' pour le opcode 12 pas encore gere\")")
+BDBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+BDBOW04.ITM : Unknown macro: opcode_target_326
+BDBOW05.ITM : Unknown macro: opcode_target_326
+BDHALB02.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BDFESTER
+BDHALB02.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BDFESTER
+BDHALB02.ITM : Opcode 318 : Immunité à une ressource (spl ou itm) différente de l'objet : BDFESTER
+BDHALB02.ITM : Opcode 321 à gérer.
+BDHALB03.ITM : Unknown macro: opcode_target_326
+BDHAMM06.ITM : Unknown macro: opcode_target_326
+BDRING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+BDRING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+BDSW1H01.ITM : Opcode 321 à gérer.
+BDSW1H01.ITM : Opcode 321 à gérer.
+BDSW1H03.ITM : Unknown macro: opcode_target_326
+BDSW1H03.ITM : FAILURE: opcode 341: Failure("Unknown macro: opcode_target_326")
+BDSW1H08.ITM : Opcode 321 à gérer.
+BDSW1H14.ITM : Opcode 321 à gérer.
+BDSW1H21.ITM : Opcode 321 à gérer.
+BDSW1H21.ITM : Opcode 321 à gérer.
+BDSW1H21.ITM : Opcode 44: Unknow target : 9 
+BDSW2H01.ITM : Opcode 321 à gérer.
+BDSW2H02.ITM : Unknown macro: opcode_target_326
+BDSW2H02.ITM : FAILURE: opcode 341: Failure("Unknown macro: opcode_target_326")
+CHALCY3.ITM : Opcode 321 à gérer.
+CHALCY3.ITM : Opcode 321 à gérer.
+CLCK04.ITM : Opcode 172 : La ressource spinhum.spl n'existe pas.
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '205'
+CLCK24.ITM : Opcode 197 : Réflection du type de projectile '320'
+HELM35.ITM : Opcode 83: TODO: self_probability
+JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+RING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SHLD08P.ITM : Unknown macro: opcode_target_326
+SHLD08P.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_target_326")
+SW1P01.ITM : Unknown macro: opcode_target_233
+SW1P01.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_target_233")
+SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SW2HD1.ITM : opcode 221: Traduction 100214 manquante
+SW2HD1.ITM : opcode 221: Traduction 100214 manquante
+WA2SHIEL.ITM : Opcode 197 : Réflection du type de projectile '320'
