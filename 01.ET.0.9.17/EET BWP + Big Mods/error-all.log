@@ -1,0 +1,80 @@
+	
+AX1H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+BDSW1H25.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+CBHBLFET.ITM : Opcode 177: Wrong ids file : 0
+CBHBSLDR.ITM : Opcode 177: Wrong ids file : 0
+CBHBSLDV.ITM : Opcode 177: Wrong ids file : 0
+CBHBSLSK.ITM : Opcode 177: Wrong ids file : 0
+CBHBSLSN.ITM : Opcode 177: Wrong ids file : 0
+CBHBSLZP.ITM : Opcode 177: Wrong ids file : 0
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 106
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 102
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 104
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 105
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 0
+CBPLAYR1.ITM : Opcode 100: Invalid ids entry : class.ids (0)
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 113
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 107
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 1
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 108
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 255
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 109
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 110
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 111
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 112
+CBPLAYR1.ITM : Opcode 100: Invalid ids entry : race.ids (0)
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 101
+CDHGTRL.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+CDHGTRL.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+CDHGTRL.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+CDHGTRL.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+CDHGTRL.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
+DEVA.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+DEVAEVIL.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+DSFEAXE.ITM : Opcode 177: Wrong ids file : 0
+DSFEAXE.ITM : Opcode 177: Wrong ids file : 0
+DWCHAN02.ITM : Opcode 0: parameter1 equal to 0 for a bonus/malus to the armor class.
+FINSOL01.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+FINSOL01.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+PLANETAR.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+PRINCESS.ITM : Opcode 238: Wrong ids file : 24
+SHLD06P.ITM : Opcode 178: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219000: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219001: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219000: Wrong ids file : 255
+SHLD06P.ITM : Opcode 219001: Wrong ids file : 255
+STAF11.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+SW2H10.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+SW2H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
+
+
+Total : 5105
+
+Sans description : 0
+
+Ignores : 2534
+
+Reussis : 2404
+
+Echoues : 167
+
+Potions (TODO): 726
+
+Munitions (TODO) : 111
+
+Opcodes a coder : 19

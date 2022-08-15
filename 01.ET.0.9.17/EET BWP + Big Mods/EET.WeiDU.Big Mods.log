@@ -1,0 +1,42 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~SETUP-WEIDU.TP2~ #0 #0 // 24900
+~CORRECTFRBG2EE/CORRECTFRBG2EE.TP2~ #0 #10 // Correction de la traduction de Baldur's Gate II : Enhanced Edition: 0.14
+~CORRECTFRBG2EE/CORRECTFRBG2EE.TP2~ #0 #20 // Correction de la description des objets: 0.14
+~CORRECTFRBG2EE/CORRECTFRBG2EE.TP2~ #0 #30 // Patch audio et video francais: 0.14
+~CORRECTFRBG2EE/CORRECTFRBG2EE.TP2~ #0 #40 // Suppression des doublages en anglais: 0.14
+~EET/EET.TP2~ #3 #0 // EET core (importation de ressource): V13.4
+~EEEX/EEEX.TP2~ #0 #0 // EEex: 0.9.7
+~EEEX/EEEX.TP2~ #0 #1 // Enable effect menu module - (LShift-on-hover to view spells affecting creature): 0.9.7
+~EEEX/EEEX.TP2~ #0 #2 // Enable timer module - (visual indicators for modal actions, contingency spells, and spell/item cooldowns): 0.9.7
+~ROT/SETUP-ROT.TP2~ #0 #0 // Region Of Terror: v4.0
+~TOA/SETUP-TOA.TP2~ #1 #1 // Tales of Anegh (Weidu): v2.6
+~DSOTSC/DSOTSC.TP2~ #0 #0 // Dark Side of the Sword Coast (DSotSC): v4.1
+~DSOTSC/DSOTSC.TP2~ #0 #1 // DSotSC Wizard spells: v4.1
+~DSOTSC/DSOTSC.TP2~ #0 #2 // DSotSC Priest spells: v4.1
+~DSOTSC/DSOTSC.TP2~ #0 #3 // More common encounters in vanilla areas: v4.1
+~DSOTSC/DSOTSC.TP2~ #0 #4 // Distribute DSotSC items also in vanilla content: v4.1
+~NTOTSC/NTOTSC.TP2~ #0 #0 // Northern Tales of the Sword Coast (NTotSC) for BGT-Weidu, BG:EE, and EET: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #2 // Keelor the Dwarf: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #3 // Llindellyn's Lucky Arrow: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #4 // Nim Furlwing's Hunting Hounds: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #5 // Pilar and Gheldehar: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #6 // Svlast's Torment: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #7 // Will O'Hara NPC: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #8 // Will O'Hara: Install English Soundset: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #9 // Fighting Encounters: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #10 // Improved Lesser Fiends: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #11 // Improved Haeball: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #12 // Improved Ghotal: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #14 // Reduce Number of Shaman Cloaks -> Make Cloaks Undroppable: 5.0.0
+~SOS/SETUP-SOS.TP2~ #0 #0 // Shadows Over Soubar: 1.16
+~SOS/SETUP-SOS.TP2~ #0 #4 // Alternative Soubar area (by Cuttooth): 1.16
+~CTB/SETUP-CTB.TP2~ #2 #0 // Check The Bodies: 3.0
+~CTB/SETUP-CTB.TP2~ #2 #3 // Other Improvements: 3.0
+~EET_END/EET_END.TP2~ #3 #0 // EET end (dernier mod dans l'ordre d'installation) -> Installation standard
+~EET_GUI/EET_GUI.TP2~ #3 #0 // Interface graphique utilisateur alternatif de EET -> Siege of Dragonspear
+// Recently Uninstalled: ~AUTODESCRIPTION/AUTODESCRIPTION.TP2~ #0 #10 // Uniformisation des descriptions: 0.9.17
+// Recently Uninstalled: ~AUTODESCRIPTION/AUTODESCRIPTION.TP2~ #0 #20 // Uniformisation des descriptions d'un mod: 0.9.17
+~AUTODESCRIPTION/AUTODESCRIPTION.TP2~ #0 #10 // Uniformisation des descriptions: 0.9.17
+~AUTODESCRIPTION/AUTODESCRIPTION.TP2~ #0 #20 // Uniformisation des descriptions d'un mod: 0.9.17

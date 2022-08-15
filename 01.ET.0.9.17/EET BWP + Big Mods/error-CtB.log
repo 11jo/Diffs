@@ -1,0 +1,35 @@
+	
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 106
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 102
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 104
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 105
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 0
+CBPLAYR1.ITM : Opcode 100: Invalid ids entry : class.ids (0)
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 113
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 107
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 1
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 108
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 255
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 109
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 110
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 111
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 112
+CBPLAYR1.ITM : Opcode 100: Invalid ids entry : race.ids (0)
+CBPLAYR1.ITM : Opcode 100: Wrong ids file : 101
+
+
+Total : 415
+
+Sans description : 0
+
+Ignores : 236
+
+Reussis : 179
+
+Echoues : 0
+
+Potions (TODO): 60
+
+Munitions (TODO) : 7
+
+Opcodes a coder : 19
