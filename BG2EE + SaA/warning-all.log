@@ -1,38 +1,12 @@
 	
-ABAZRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-ABAZRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-ABAZRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-ALDETH.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-ALDETH.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-ALDETH.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 AMUL17.ITM : Opcode 321 à gérer.
 AMUL17.ITM : Opcode 321 à gérer.
-ARROPHEO.ITM : Opcode 67 : La ressource pheogurd.cre n'existe pas.
-ARROPHEO.ITM : Opcode 67 : La ressource pheogurd.cre n'existe pas.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 321 à gérer.
-AURSTAF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BAZPATRG.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-BAZPATRG.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-BAZPATRG.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 BDDART01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDDART01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BDSPIRIM.ITM : Opcode 206 : La ressource bdbeldis.spl n'existe pas.
-BDSPNAIM.ITM : Opcode 206 : La ressource bdbeldis.spl n'existe pas.
 BDSW2H01.ITM : Opcode 321 à gérer.
 BDSW2H01.ITM : Opcode 321 à gérer.
 BDSW2H01.ITM : Opcode 321 à gérer.
@@ -47,22 +21,13 @@ BDSW2H01.ITM : Opcode 321 à gérer.
 BDSW2H01.ITM : Opcode 321 à gérer.
 BDSW2H01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDSW2H01.ITM : Opcode 321 à gérer.
-BEHOLDER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-BEHOLDER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-BEHOLDER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 BLUN30.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 BLUN30.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 BLUN30.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-BOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BOW03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BOW03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BOW05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BOW05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -105,15 +70,11 @@ BOW25.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW25.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW26.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BOW26.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BOW99.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BOW99.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-BRUENPLA.ITM : opcode 326: Traduction 13260158 manquante
+BRUENPLA.ITM : opcode 326: Traduction 13260157 manquante
 BRUENPLA.ITM : FAILURE: opcode 326: Not_found
 BRUENPLA.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
 CATTIBOW.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 CATTIBOW.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-CDHGTRL.ITM : Opcode 112 à gérer.
-CDHGTRL.ITM : Opcode 112 à gérer.
 CDSW2H07.ITM : Opcode 321 à gérer.
 CDSW2H07.ITM : Opcode 321 à gérer.
 CDSW2H07.ITM : Opcode 321 à gérer.
@@ -127,13 +88,6 @@ CDSW2H07.ITM : Opcode 321 à gérer.
 CDSW2H07.ITM : Opcode 321 à gérer.
 CDSW2H07.ITM : Opcode 321 à gérer.
 CDSW2H07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-CDTORGAL.ITM : Opcode 112 à gérer.
-CDTORGAL.ITM : Opcode 112 à gérer.
-CDTRLBLZ.ITM : Opcode 112 à gérer.
-CDTRLBLZ.ITM : Opcode 112 à gérer.
-CHALARM.ITM : opcode 326: Traduction 13260158 manquante
-CHALARM.ITM : FAILURE: opcode 326: Not_found
-CHALARM.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
 CHALCY3.ITM : Opcode 321 à gérer.
 CHALCY3.ITM : Opcode 321 à gérer.
 CHALSHLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -143,28 +97,6 @@ CHALSHLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '219'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '205'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '320'
-COMPB05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB15.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB15.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB18.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB18.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB19.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB19.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB20.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB20.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB21.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB21.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB26.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-COMPB26.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DART01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DART01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DART02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DART02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DART03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -173,34 +105,8 @@ DART04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DART04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DART05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DART05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DART06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DART06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DART07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DART07.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DART08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DART08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DARTMEL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DARTMEL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 321 à gérer.
-DEMOSUM4.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DRAGRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-DRAGRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-DRAGRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-DSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 DWHALB01.ITM : Opcode 321 à gérer.
 DWHALB01.ITM : Opcode 321 à gérer.
 DWHALB01.ITM : Opcode 321 à gérer.
@@ -214,7 +120,7 @@ DWHALB01.ITM : Opcode 321 à gérer.
 DWHALB01.ITM : Opcode 321 à gérer.
 DWHALB01.ITM : Opcode 321 à gérer.
 DWHALB01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-DWPLAT01.ITM : opcode 326: Traduction 13260158 manquante
+DWPLAT01.ITM : opcode 326: Traduction 13260157 manquante
 DWPLAT01.ITM : FAILURE: opcode 326: Not_found
 DWPLAT01.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
 DWSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -249,79 +155,8 @@ ENSTAFF.ITM : Opcode 321 à gérer.
 ENSTAFF.ITM : Opcode 321 à gérer.
 ENSTAFF.ITM : Opcode 321 à gérer.
 ENSTAFF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-ETTERC.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-ETTERC.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-FINSOL01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-FINSOL01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-FREERING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-FREERING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-FREERING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-FSSPIR.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-FSSPIR.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-FSSPIR.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-GBASIL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-GBASIL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 321 à gérer.
-GIAFIR2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-GISPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-GISPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 321 à gérer.
-GITH.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 GODBOW.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 GODBOW.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 321 à gérer.
-GORCAMB.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-GORCHR.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-GORCHR.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-GORCHR.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-GORWOM2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-GORWOM2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 321 à gérer.
-HALB01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 HALB02.ITM : Opcode 321 à gérer.
 HALB02.ITM : Opcode 321 à gérer.
 HALB02.ITM : Opcode 321 à gérer.
@@ -465,153 +300,17 @@ HALB12.ITM : Opcode 321 à gérer.
 HALB12.ITM : Opcode 321 à gérer.
 HALB12.ITM : Opcode 321 à gérer.
 HALB12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 321 à gérer.
-HALBSHA.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 HAMM09.ITM : Opcode 123 à gérer.
-HARM.ITM : FAILURE: opcode 12: Failure("HARM.ITM : Type de degat '4194305' pour le opcode 12 pas encore gere")
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 321 à gérer.
-HGBER01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 321 à gérer.
-HGNYA01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 321 à gérer.
-HGSALF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 321 à gérer.
-HGWRA01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-HOLDRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-HOLDRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-HOLDRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-HUSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-HUSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-IMMCLOUD.ITM : Opcode 83 : Type de projectile '94'
-IMMUNE3.ITM : Opcode 233: Proficiency not found : 128
-IMMUNE4.ITM : Opcode 233: Proficiency not found : 128
-INVULNER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-INVULNER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-INVULNER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-IPLAT01.ITM : opcode 326: Traduction 13260158 manquante
-IPLAT01.ITM : FAILURE: opcode 326: Not_found
-IPLAT01.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-IPSION.ITM : Opcode 321 à gérer.
-IPSION.ITM : Opcode 321 à gérer.
 ISHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 ISHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 ISHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 ISHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-ISHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-ISHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-ISHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-ISHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-KUOBOW.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-KUOBOW.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 321 à gérer.
-KUOSPER.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-MAGE05.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-MAGE05.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-MAGE05.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-MDK2GUN.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-MDK2GUN.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-MDK2MTOV.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-MDK2MTOV.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 321 à gérer.
-MISC5T.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 321 à gérer.
-MISC9O.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-MOPROF.ITM : Opcode 321 à gérer.
-MOPROF.ITM : Opcode 146 : La ressource dagg01.spl n'existe pas.
 NPBOW.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 NPBOW.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-NPPLAT.ITM : opcode 326: Traduction 13260158 manquante
+NPPLAT.ITM : opcode 326: Traduction 13260157 manquante
 NPPLAT.ITM : FAILURE: opcode 326: Not_found
 NPPLAT.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
 NPSHLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -644,24 +343,6 @@ NPSW03.ITM : Opcode 321 à gérer.
 NPSW03.ITM : Opcode 321 à gérer.
 NPSW03.ITM : Opcode 321 à gérer.
 NPSW03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-OBJRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-OBJRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-OBJRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 321 à gérer.
-OHBDEVA1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-OHBDTRAI.ITM : Opcode 206 : La ressource sppr215.spl n'existe pas.
-OHBETRAI.ITM : Opcode 206 : La ressource sppr215.spl n'existe pas.
 OHBREW02.ITM : Opcode 321 à gérer.
 OHBREW02.ITM : Opcode 321 à gérer.
 OHBREW02.ITM : Opcode 321 à gérer.
@@ -719,7 +400,7 @@ OHBWING2.ITM : Opcode 321 à gérer.
 OHBWING2.ITM : Opcode 321 à gérer.
 OHBWING2.ITM : Opcode 321 à gérer.
 OHBWING2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-OHDARMOR.ITM : opcode 326: Traduction 13260158 manquante
+OHDARMOR.ITM : opcode 326: Traduction 13260157 manquante
 OHDARMOR.ITM : FAILURE: opcode 326: Not_found
 OHDARMOR.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
 OHDART50.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -784,7 +465,7 @@ OHNSHLD1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHNSHLD1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHNSLNG1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHNSLNG1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-OHPLAT50.ITM : opcode 326: Traduction 13260158 manquante
+OHPLAT50.ITM : opcode 326: Traduction 13260157 manquante
 OHPLAT50.ITM : FAILURE: opcode 326: Not_found
 OHPLAT50.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
 OHREAVER.ITM : Opcode 321 à gérer.
@@ -802,11 +483,6 @@ OHREAVER.ITM : Opcode 321 à gérer.
 OHREAVER.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHRSLNG1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHRSLNG1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-OHRWILC1.ITM : Opcode 233: Proficiency not found : 108
-OHRWILC2.ITM : Opcode 233: Proficiency not found : 108
-OHRWILC3.ITM : Opcode 233: Proficiency not found : 108
-OHRWILC4.ITM : Opcode 233: Proficiency not found : 108
-OHRWILC5.ITM : Opcode 233: Proficiency not found : 108
 OHSHLD50.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHSHLD50.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHSHLD50.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -815,109 +491,63 @@ OHSHLD51.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHSHLD51.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHSHLD51.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 OHSHLD51.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-PALPLAT.ITM : opcode 326: Traduction 13260158 manquante
+PALPLAT.ITM : opcode 326: Traduction 13260157 manquante
 PALPLAT.ITM : FAILURE: opcode 326: Not_found
 PALPLAT.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PALRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-PALRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-PALRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-PHSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-PHSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-PLAT01.ITM : opcode 326: Traduction 13260158 manquante
-PLAT01.ITM : FAILURE: opcode 326: Not_found
-PLAT01.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT02.ITM : opcode 326: Traduction 13260158 manquante
+PLAT02.ITM : opcode 326: Traduction 13260157 manquante
 PLAT02.ITM : FAILURE: opcode 326: Not_found
 PLAT02.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT04.ITM : opcode 326: Traduction 13260158 manquante
-PLAT04.ITM : FAILURE: opcode 326: Not_found
-PLAT04.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT05.ITM : opcode 326: Traduction 13260158 manquante
+PLAT05.ITM : opcode 326: Traduction 13260157 manquante
 PLAT05.ITM : FAILURE: opcode 326: Not_found
 PLAT05.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT06.ITM : opcode 326: Traduction 13260158 manquante
+PLAT06.ITM : opcode 326: Traduction 13260157 manquante
 PLAT06.ITM : FAILURE: opcode 326: Not_found
 PLAT06.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT07.ITM : opcode 326: Traduction 13260158 manquante
-PLAT07.ITM : FAILURE: opcode 326: Not_found
-PLAT07.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT08.ITM : opcode 326: Traduction 13260158 manquante
-PLAT08.ITM : FAILURE: opcode 326: Not_found
-PLAT08.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT09.ITM : opcode 326: Traduction 13260158 manquante
-PLAT09.ITM : FAILURE: opcode 326: Not_found
-PLAT09.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT10.ITM : opcode 326: Traduction 13260158 manquante
+PLAT10.ITM : opcode 326: Traduction 13260157 manquante
 PLAT10.ITM : FAILURE: opcode 326: Not_found
 PLAT10.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT11.ITM : opcode 326: Traduction 13260158 manquante
+PLAT11.ITM : opcode 326: Traduction 13260157 manquante
 PLAT11.ITM : FAILURE: opcode 326: Not_found
 PLAT11.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT12.ITM : opcode 326: Traduction 13260158 manquante
+PLAT12.ITM : opcode 326: Traduction 13260157 manquante
 PLAT12.ITM : FAILURE: opcode 326: Not_found
 PLAT12.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT13.ITM : opcode 326: Traduction 13260158 manquante
+PLAT13.ITM : opcode 326: Traduction 13260157 manquante
 PLAT13.ITM : FAILURE: opcode 326: Not_found
 PLAT13.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT14.ITM : opcode 326: Traduction 13260158 manquante
+PLAT14.ITM : opcode 326: Traduction 13260157 manquante
 PLAT14.ITM : FAILURE: opcode 326: Not_found
 PLAT14.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT15.ITM : opcode 326: Traduction 13260158 manquante
+PLAT15.ITM : opcode 326: Traduction 13260157 manquante
 PLAT15.ITM : FAILURE: opcode 326: Not_found
 PLAT15.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT16.ITM : opcode 326: Traduction 13260158 manquante
+PLAT16.ITM : opcode 326: Traduction 13260157 manquante
 PLAT16.ITM : FAILURE: opcode 326: Not_found
 PLAT16.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT17.ITM : opcode 326: Traduction 13260158 manquante
+PLAT17.ITM : opcode 326: Traduction 13260157 manquante
 PLAT17.ITM : FAILURE: opcode 326: Not_found
 PLAT17.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT18.ITM : opcode 326: Traduction 13260158 manquante
+PLAT18.ITM : opcode 326: Traduction 13260157 manquante
 PLAT18.ITM : FAILURE: opcode 326: Not_found
 PLAT18.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT19.ITM : opcode 326: Traduction 13260158 manquante
+PLAT19.ITM : opcode 326: Traduction 13260157 manquante
 PLAT19.ITM : FAILURE: opcode 326: Not_found
 PLAT19.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT20.ITM : opcode 326: Traduction 13260158 manquante
+PLAT20.ITM : opcode 326: Traduction 13260157 manquante
 PLAT20.ITM : FAILURE: opcode 326: Not_found
 PLAT20.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT21.ITM : opcode 326: Traduction 13260158 manquante
+PLAT21.ITM : opcode 326: Traduction 13260157 manquante
 PLAT21.ITM : FAILURE: opcode 326: Not_found
 PLAT21.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT22.ITM : opcode 326: Traduction 13260158 manquante
+PLAT22.ITM : opcode 326: Traduction 13260157 manquante
 PLAT22.ITM : FAILURE: opcode 326: Not_found
 PLAT22.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT23.ITM : opcode 326: Traduction 13260158 manquante
+PLAT23.ITM : opcode 326: Traduction 13260157 manquante
 PLAT23.ITM : FAILURE: opcode 326: Not_found
 PLAT23.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT98.ITM : opcode 326: Traduction 13260158 manquante
-PLAT98.ITM : FAILURE: opcode 326: Not_found
-PLAT98.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLAT99.ITM : opcode 326: Traduction 13260158 manquante
-PLAT99.ITM : FAILURE: opcode 326: Not_found
-PLAT99.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-PLYJELLY.ITM : Opcode 318 : La ressource wand13.spl n'existe pas.
-PLYWYVRN.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-PLYWYVRN.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-PLYWYVRN.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 321 à gérer.
-REAVER.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 RING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 RING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 RING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-RING97.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-RING97.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-RING97.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 RODS04.ITM : Opcode 321 à gérer.
 RODS04.ITM : Opcode 321 à gérer.
 RODS04.ITM : Opcode 321 à gérer.
@@ -960,100 +590,11 @@ RODSPEAR.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 ROSSRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 ROSSRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 ROSSRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 321 à gérer.
-SAHSPEAR.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 321 à gérer.
-SAHSTAFF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 321 à gérer.
-SALACOLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 321 à gérer.
-SALASPER.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 321 à gérer.
-SALGRFIR.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 321 à gérer.
-SALGRICE.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SECRET01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SECRET01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SECRET05.ITM : opcode 326: Traduction 13260158 manquante
+SECRET05.ITM : opcode 326: Traduction 13260157 manquante
 SECRET05.ITM : FAILURE: opcode 326: Not_found
 SECRET05.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-SHALT01.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SHALT01.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SHALT01.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD01A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD01A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD01A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD01A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -1062,14 +603,6 @@ SHLD02A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD02A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD02A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD02A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD03A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD03A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD03A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD03A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -1078,18 +611,6 @@ SHLD04A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD04A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD04A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD04A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD04P.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD04P.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD04P.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD04P.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD05A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD05A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD05A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD05A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -1106,78 +627,6 @@ SHLD07A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD07A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD07A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD07A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD08.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD08A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD08A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD08A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD08A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD09A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD09A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD09A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD09A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD10A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD10A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD10A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD10A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD11.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD11.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD11.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD11.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD11A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD11A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD11A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD11A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD12A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD12A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD12A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD12A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD13.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD13.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD13.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD13.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD13A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD13A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD13A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD13A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD14A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD14A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD14A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD14A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD15.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD15.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD15.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD15.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD15A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD15A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD15A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD15A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD16.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD16.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD16.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD16.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD16A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD16A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD16A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD16A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD17.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD17.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD17.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -1186,10 +635,6 @@ SHLD17A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD17A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD17A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD17A.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD18.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD18.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD18.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD18.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD19.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD19.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD19.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -1282,33 +727,8 @@ SHLD32.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD32.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD32.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SHLD32.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD99.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD99.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD99.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SHLD99.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SKELSHLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SKELSHLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SKELSHLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SKELSHLD.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 321 à gérer.
-SKELWASU.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SLNG01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SLNG01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SLNG02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SLNG02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SLNG03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SLNG03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SLNG04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SLNG04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SLNG05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -1323,19 +743,6 @@ SLNG09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SLNG09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SLNG10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SLNG10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 321 à gérer.
-SPER01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SPER02.ITM : Opcode 321 à gérer.
 SPER02.ITM : Opcode 321 à gérer.
 SPER02.ITM : Opcode 321 à gérer.
@@ -1362,19 +769,6 @@ SPER03.ITM : Opcode 321 à gérer.
 SPER03.ITM : Opcode 321 à gérer.
 SPER03.ITM : Opcode 321 à gérer.
 SPER03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 321 à gérer.
-SPER04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SPER05.ITM : Opcode 321 à gérer.
 SPER05.ITM : Opcode 321 à gérer.
 SPER05.ITM : Opcode 321 à gérer.
@@ -1482,93 +876,6 @@ SPER12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SPER12.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 SPER12.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 SPER12.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 321 à gérer.
-SPERMEL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SPRNGB01.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGB01.ITM : FAILURE: opcode 101: Not_found
-SPRNGB02.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGB02.ITM : FAILURE: opcode 101: Not_found
-SPRNGB03.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGB03.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGB03.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGB03.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGB03.ITM : FAILURE: opcode 101: Not_found
-SPRNGB04.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGB04.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGB04.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGB04.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGB04.ITM : FAILURE: opcode 101: Not_found
-SPRNGL01.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGL01.ITM : FAILURE: opcode 101: Not_found
-SPRNGL02.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGL02.ITM : FAILURE: opcode 101: Not_found
-SPRNGL03.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGL03.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGL03.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGL03.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGL03.ITM : FAILURE: opcode 101: Not_found
-SPRNGL04.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGL04.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGL04.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGL04.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGL04.ITM : FAILURE: opcode 101: Not_found
-SPRNGS01.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGS01.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGS01.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGS01.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGS01.ITM : FAILURE: opcode 101: Not_found
-SPRNGS02.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGS02.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGS02.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGS02.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGS02.ITM : FAILURE: opcode 101: Not_found
-SPRNGS03.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGS03.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGS03.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGS03.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGS03.ITM : FAILURE: opcode 101: Not_found
-SPRNGS04.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGS04.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGS04.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGS04.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGS04.ITM : FAILURE: opcode 101: Not_found
-SPRNGW01.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGW01.ITM : FAILURE: opcode 101: Not_found
-SPRNGW02.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGW02.ITM : FAILURE: opcode 101: Not_found
-SPRNGW03.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGW03.ITM : FAILURE: opcode 101: Not_found
-SPRNGW04.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGW04.ITM : FAILURE: opcode 101: Not_found
-SPRNGZ05.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SPRNGZ05.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SPRNGZ05.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SPRNGZ05.ITM : opcode 101: Traduction 11010151 manquante
-SPRNGZ05.ITM : FAILURE: opcode 101: Not_found
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 321 à gérer.
-STAF01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 STAF02.ITM : Opcode 321 à gérer.
 STAF02.ITM : Opcode 321 à gérer.
 STAF02.ITM : Opcode 321 à gérer.
@@ -1582,32 +889,6 @@ STAF02.ITM : Opcode 321 à gérer.
 STAF02.ITM : Opcode 321 à gérer.
 STAF02.ITM : Opcode 321 à gérer.
 STAF02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 321 à gérer.
-STAF03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 321 à gérer.
-STAF04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 STAF05.ITM : Opcode 321 à gérer.
 STAF05.ITM : Opcode 321 à gérer.
 STAF05.ITM : Opcode 321 à gérer.
@@ -1868,26 +1149,8 @@ STAFN1.ITM : Opcode 321 à gérer.
 STAFN1.ITM : Opcode 321 à gérer.
 STAFN1.ITM : Opcode 321 à gérer.
 STAFN1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-STARDART.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-STARDART.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SUREHP1.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-SUREHP1.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
-SUREHP1.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 SW1H68C.ITM : Opcode 112 à gérer.
 SW1H69C.ITM : Opcode 112 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 321 à gérer.
-SW2H01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SW2H02.ITM : Opcode 321 à gérer.
 SW2H02.ITM : Opcode 321 à gérer.
 SW2H02.ITM : Opcode 321 à gérer.
@@ -2128,19 +1391,6 @@ SW2H21.ITM : Opcode 321 à gérer.
 SW2H21.ITM : Opcode 321 à gérer.
 SW2H21.ITM : Opcode 321 à gérer.
 SW2H21.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 321 à gérer.
-SW2H99.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SW2HD1.ITM : Opcode 321 à gérer.
 SW2HD1.ITM : Opcode 321 à gérer.
 SW2HD1.ITM : Opcode 321 à gérer.
@@ -2155,44 +1405,10 @@ SW2HD1.ITM : Opcode 321 à gérer.
 SW2HD1.ITM : Opcode 321 à gérer.
 SW2HD1.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 SW2HD1.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 321 à gérer.
-SW2HDEAT.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-TROLLREG.ITM : Opcode 112 à gérer.
-TROLLREG.ITM : Opcode 112 à gérer.
 TTSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 TTSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 TTSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 TTSHLD01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 321 à gérer.
-TTSWORD2.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-VISPLAT1.ITM : opcode 326: Traduction 13260158 manquante
-VISPLAT1.ITM : FAILURE: opcode 326: Not_found
-VISPLAT1.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
-VISPLAT2.ITM : opcode 326: Traduction 13260158 manquante
-VISPLAT2.ITM : FAILURE: opcode 326: Not_found
-VISPLAT2.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
 WA2HALB.ITM : Opcode 321 à gérer.
 WA2HALB.ITM : Opcode 321 à gérer.
 WA2HALB.ITM : Opcode 321 à gérer.
@@ -2206,7 +1422,7 @@ WA2HALB.ITM : Opcode 321 à gérer.
 WA2HALB.ITM : Opcode 321 à gérer.
 WA2HALB.ITM : Opcode 321 à gérer.
 WA2HALB.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-WA2PLAT.ITM : opcode 326: Traduction 13260158 manquante
+WA2PLAT.ITM : opcode 326: Traduction 13260157 manquante
 WA2PLAT.ITM : FAILURE: opcode 326: Not_found
 WA2PLAT.ITM : FAILURE: opcode 177: Failure("Failure(\"Opcode 326: Not_found\")")
 WA2SHIEL.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -2255,14 +1471,10 @@ WASTAFF.ITM : Opcode 321 à gérer.
 WASTAFF.ITM : Opcode 321 à gérer.
 WASTAFF.ITM : Opcode 321 à gérer.
 WASTAFF.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-XBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-XBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW03.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-XBOW04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-XBOW04.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW06.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
@@ -2275,8 +1487,6 @@ XBOW09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW09.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW10.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-XBOW12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
-XBOW12.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW13.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW13.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 XBOW14.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
