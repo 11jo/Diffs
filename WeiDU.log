@@ -1,0 +1,19 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~SETUP-WEIDU.TP2~ #0 #0 // 24900
+~CORRECTFRBG2EE/CORRECTFRBG2EE.TP2~ #0 #10 // Correction de la traduction de Baldur's Gate II : Enhanced Edition: 0.14
+~CORRECTFRBG2EE/CORRECTFRBG2EE.TP2~ #0 #20 // Correction de la description des objets: 0.14
+~CORRECTFRBG2EE/CORRECTFRBG2EE.TP2~ #0 #30 // Patch audio et video francais: 0.14
+~CORRECTFRBG2EE/CORRECTFRBG2EE.TP2~ #0 #40 // Suppression des doublages en anglais: 0.14
+~EET/EET.TP2~ #3 #0 // EET core (importation de ressource): V13.4
+~EEEX/EEEX.TP2~ #0 #0 // EEex: 0.9.7
+~EEEX/EEEX.TP2~ #0 #1 // Enable effect menu module - (LShift-on-hover to view spells affecting creature): 0.9.7
+~EEEX/EEEX.TP2~ #0 #2 // Enable timer module - (visual indicators for modal actions, contingency spells, and spell/item cooldowns): 0.9.7
+~LEUI/LEUI.TP2~ #0 #0 // lefreut's Enhanced UI - Core component: 4.5
+~LEUI/LEUI.TP2~ #0 #1 // lefreut's Enhanced UI - BG2 vanilla bams for spells: 4.5
+~LEUI/LEUI.TP2~ #0 #2 // lefreut's Enhanced UI - BG2 vanilla fonts for descriptions: 4.5
+~BUBB_SPELL_MENU_EXTENDED/BUBB_SPELL_MENU_EXTENDED.TP2~ #0 #0 // Bubb's Spell Menu Extended: 4.5.1
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #1 #0 // Installer simultanement toutes les options de jeu cachees: 3.0
+~EET_END/EET_END.TP2~ #3 #0 // EET end (dernier mod dans l'ordre d'installation) -> Installation standard
+// Recently Uninstalled: ~SETUP-BWS_FINAL.TP2~ #0 #0 // Make quick-logged WeiDU-entries visible
