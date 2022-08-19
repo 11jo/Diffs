@@ -1,0 +1,23 @@
+	
+AX1H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+BDSW1H25.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+OHBREW02.ITM : Opcode 177: The resref parameter is empty
+SW2H10.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+SW2H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+PRINCESS.ITM : Opcode 238: Wrong ids file : 24
+
+Total : 670
+
+Sans description : 104
+
+Ignores : 167
+
+Reussis : 501
+
+Echoues : 2
+
+Potions (TODO): 15
+
+Munitions (TODO) : 0
+
+Opcodes a coder : 18
