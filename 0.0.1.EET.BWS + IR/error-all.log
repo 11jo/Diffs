@@ -51,17 +51,17 @@ XBOW16.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
 XBOW17.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
 XBOW18.ITM : Opcode 165: Les 2 parametres doivent avoir la valeur 0
 
-Total : 3658
+Total : 3912
 
-Sans description : 1386
+Sans description : 1419
 
-Ignores : 2537
+Ignores : 2743
 
-Reussis : 1116
+Reussis : 1164
 
 Echoues : 5
 
-Potions (TODO): 414
+Potions (TODO): 480
 
 Munitions (TODO) : 60
 

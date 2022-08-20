@@ -1,0 +1,305 @@
+	
+SHLD24.ITM : Opcode 83 : Type de projectile '357'
+SHLD24.ITM : Opcode 83 : Type de projectile '312'
+SHLD24.ITM : Opcode 83 : Type de projectile '11'
+SHLD24.ITM : Opcode 83 : Type de projectile '15'
+SHLD24.ITM : Opcode 83 : Type de projectile '20'
+SHLD24.ITM : Opcode 83 : Type de projectile '101'
+SHLD24.ITM : Opcode 83 : Type de projectile '257'
+SHLD24.ITM : Opcode 83 : Type de projectile '270'
+chan09.itm : Opcode 206 : La ressource dvstench.spl n'existe pas.
+chan10.itm : Opcode 206 : La ressource dvprism.spl n'existe pas.
+chan10.itm : Opcode 206 : La ressource spwi105d.spl n'existe pas.
+chan10.itm : Opcode 206 : La ressource spwi714d.spl n'existe pas.
+leat24.itm : Opcode 206 : La ressource spwi105e.spl n'existe pas.
+npchan.itm : Opcode 206 : La ressource sppr309d.spl n'existe pas.
+npchan.itm : Opcode 206 : La ressource spwi203d.spl n'existe pas.
+npchan.itm : Opcode 206 : La ressource dvdinvis.spl n'existe pas.
+plat08.itm : Opcode 233: Proficiency not found : 117
+plat17.itm : Opcode 206 : La ressource sppr215.spl n'existe pas.
+BRAC18.itm : Opcode 83 : Type de projectile '357'
+BRAC18.itm : Opcode 83 : Type de projectile '312'
+BRAC18.itm : Opcode 83 : Type de projectile '11'
+BRAC18.itm : Opcode 83 : Type de projectile '15'
+BRAC18.itm : Opcode 83 : Type de projectile '20'
+BRAC18.itm : Opcode 83 : Type de projectile '101'
+BRAC18.itm : Opcode 83 : Type de projectile '257'
+BRAC18.itm : Opcode 83 : Type de projectile '270'
+AEGIS2.ITM : Opcode 123 à gérer.
+AEGIS2A.ITM : Opcode 123 à gérer.
+AEGIS2B.ITM : Opcode 123 à gérer.
+AX1H05.ITM : Opcode 123 à gérer.
+AX1H05A.ITM : Opcode 123 à gérer.
+AX1H05B.ITM : Opcode 123 à gérer.
+AX1H06.ITM : Opcode 123 à gérer.
+AX1H06A.ITM : Opcode 123 à gérer.
+AX1H06B.ITM : Opcode 123 à gérer.
+AX1H08.ITM : Opcode 123 à gérer.
+AX1H08A.ITM : Opcode 123 à gérer.
+AX1H08B.ITM : Opcode 123 à gérer.
+AX1H09.ITM : Opcode 123 à gérer.
+AX1H09A.ITM : Opcode 123 à gérer.
+AX1H09B.ITM : Opcode 123 à gérer.
+AX1H10.ITM : Opcode 123 à gérer.
+AX1H10A.ITM : Opcode 123 à gérer.
+AX1H10B.ITM : Opcode 123 à gérer.
+AX1H16.ITM : Opcode 123 à gérer.
+AX1H16A.ITM : Opcode 123 à gérer.
+AX1H16B.ITM : Opcode 123 à gérer.
+BLUN38.ITM : Opcode 232 : La ressource blun38.spl n'existe pas.
+BLUN38.ITM : La ressource BLUN38.spl n'existe pas.
+DAGG09.ITM : Opcode 123 à gérer.
+DAGG09A.ITM : Opcode 123 à gérer.
+DAGG09B.ITM : Opcode 123 à gérer.
+DAGG11.ITM : Opcode 123 à gérer.
+DAGG11A.ITM : Opcode 123 à gérer.
+DAGG11B.ITM : Opcode 123 à gérer.
+DAGG12.ITM : Opcode 123 à gérer.
+DAGG12A.ITM : Opcode 123 à gérer.
+DAGG12B.ITM : Opcode 123 à gérer.
+DAGG22.ITM : Opcode 123 à gérer.
+DAGG22A.ITM : Opcode 123 à gérer.
+HALB09.ITM : Opcode 206 : La ressource spwi812d.spl n'existe pas.
+HAMM06.ITM : Opcode 123 à gérer.
+HAMM06A.ITM : Opcode 123 à gérer.
+HAMM06B.ITM : Opcode 123 à gérer.
+HAMM09.ITM : Opcode 123 à gérer.
+HAMM09A.ITM : Opcode 123 à gérer.
+HAMM13.ITM : Opcode 206 : La ressource sppr309d.spl n'existe pas.
+HAMM13.ITM : Opcode 206 : La ressource spwi203d.spl n'existe pas.
+RODAXE.ITM : Opcode 123 à gérer.
+RODAXE.ITM : Opcode 123 à gérer.
+RODAXE.ITM : Opcode 123 à gérer.
+RODAXE.ITM : Opcode 123 à gérer.
+RODMACE.ITM : Opcode 123 à gérer.
+RODMACE.ITM : Opcode 123 à gérer.
+RODMACE.ITM : Opcode 123 à gérer.
+RODMACE.ITM : Opcode 123 à gérer.
+RODS02.ITM : Opcode 123 à gérer.
+RODS02.ITM : Opcode 123 à gérer.
+RODS02.ITM : Opcode 123 à gérer.
+RODS02.ITM : Opcode 123 à gérer.
+RODS02A.ITM : Opcode 123 à gérer.
+RODS02A.ITM : Opcode 123 à gérer.
+RODS02A.ITM : Opcode 123 à gérer.
+RODS02A.ITM : Opcode 123 à gérer.
+RODSPEAR.ITM : Opcode 123 à gérer.
+RODSPEAR.ITM : Opcode 123 à gérer.
+RODSPEAR.ITM : Opcode 123 à gérer.
+RODSPEAR.ITM : Opcode 123 à gérer.
+RODSWORD.ITM : Opcode 123 à gérer.
+RODSWORD.ITM : Opcode 123 à gérer.
+RODSWORD.ITM : Opcode 123 à gérer.
+RODSWORD.ITM : Opcode 123 à gérer.
+SECRET01.ITM : Opcode 180 : La ressource DVENBOLT.itm n'existe pas.
+STAF11.ITM : Opcode 206 : La ressource sppr121.spl n'existe pas.
+STAF11.ITM : Opcode 206 : La ressource spwi505d.spl n'existe pas.
+STAF11.ITM : Opcode 233: Proficiency not found : 118
+STAF20.ITM : Opcode 206 : La ressource rr#curse.spl n'existe pas.
+SW1H27.ITM : Opcode 206 : La ressource bdspidga.spl n'existe pas.
+SW1H27.ITM : Opcode 206 : La ressource spwi215d.spl n'existe pas.
+SW1H27.ITM : Opcode 206 : La ressource wand14d.spl n'existe pas.
+SW1H27.ITM : Opcode 206 : La ressource d0spiweb.spl n'existe pas.
+SW1H27.ITM : Opcode 206 : La ressource dvweb.spl n'existe pas.
+SW1H27.ITM : Opcode 206 : La ressource dw#0w215.spl n'existe pas.
+SW1H27.ITM : Opcode 206 : La ressource dw#mweb.spl n'existe pas.
+SW1H27.ITM : Opcode 206 : La ressource dw#web.spl n'existe pas.
+SW1H33.ITM : Opcode 112 à gérer.
+SW1H33A.ITM : Opcode 112 à gérer.
+SW1H68C.ITM : Opcode 112 à gérer.
+SW1H69C.ITM : Opcode 112 à gérer.
+SW2H06.ITM : Opcode 206 : La ressource bdspidga.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource spwi215d.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource wand14d.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource d0spiweb.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource dvweb.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource dw#0w215.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource dw#mweb.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource dw#web.spl n'existe pas.
+SW2H06.ITM : Opcode 206 : La ressource spin175.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource bdspidga.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource spwi215d.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource wand14d.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource d0spiweb.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource dvweb.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource dw#0w215.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource dw#mweb.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource dw#web.spl n'existe pas.
+SW2H13.ITM : Opcode 206 : La ressource spin175.spl n'existe pas.
+SW2HD1.ITM : Opcode 321 : La ressource ohdsw1.itm n'existe pas.
+SW2HD1.ITM : Opcode 321 : no names of spells or items found
+SW2HD1.ITM : Opcode 321 : La ressource ohdsw1.itm n'existe pas.
+SW2HD1.ITM : Opcode 321 : no names of spells or items found
+XBOW15.ITM : Opcode 180 : La ressource DVENBOLT.itm n'existe pas.
+XBOW16.ITM : Opcode 180 : La ressource DVENBOLT.itm n'existe pas.
+ARROPHEO.ITM : Opcode 67 : La ressource pheogurd.cre n'existe pas.
+ARROPHEO.ITM : Opcode 67 : La ressource pheogurd.cre n'existe pas.
+ARROPHEO.itm : Opcode 67 : La ressource pheogurd.cre n'existe pas.
+ARROPHEO.itm : Opcode 67 : La ressource pheogurd.cre n'existe pas.
+SW1H68C.itm : Opcode 112 à gérer.
+SW1H69C.itm : Opcode 112 à gérer.
+npclck.itm : Opcode 206 : La ressource sppr517d.spl n'existe pas.
+npclck.itm : Opcode 206 : La ressource sppr717d.spl n'existe pas.
+aegis2.itm : Opcode 123 à gérer.
+aegis2a.itm : Opcode 123 à gérer.
+aegis2b.itm : Opcode 123 à gérer.
+amul24.itm : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+amul24.itm : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+amul24.itm : Opcode 206 : La ressource spwi889.spl n'existe pas.
+amul24.itm : Opcode 206 : La ressource sppr420.spl n'existe pas.
+amul27.itm : Opcode 233: Proficiency not found : 117
+ax1h05.itm : Opcode 123 à gérer.
+ax1h05a.itm : Opcode 123 à gérer.
+ax1h05b.itm : Opcode 123 à gérer.
+ax1h06.itm : Opcode 123 à gérer.
+ax1h06a.itm : Opcode 123 à gérer.
+ax1h06b.itm : Opcode 123 à gérer.
+ax1h08.itm : Opcode 123 à gérer.
+ax1h08a.itm : Opcode 123 à gérer.
+ax1h08b.itm : Opcode 123 à gérer.
+ax1h09.itm : Opcode 123 à gérer.
+ax1h09a.itm : Opcode 123 à gérer.
+ax1h09b.itm : Opcode 123 à gérer.
+ax1h10.itm : Opcode 123 à gérer.
+ax1h10a.itm : Opcode 123 à gérer.
+ax1h10b.itm : Opcode 123 à gérer.
+ax1h16.itm : Opcode 123 à gérer.
+ax1h16a.itm : Opcode 123 à gérer.
+ax1h16b.itm : Opcode 123 à gérer.
+blun38.itm : Opcode 232 : La ressource blun38.spl n'existe pas.
+blun38.itm : La ressource BLUN38.spl n'existe pas.
+boot07.itm : Opcode 206 : La ressource dvshille.spl n'existe pas.
+boot07.itm : Opcode 206 : La ressource sppr105d.spl n'existe pas.
+boot11.itm : Opcode 206 : La ressource spwi505d.spl n'existe pas.
+boot11.itm : Opcode 206 : La ressource helm30a.spl n'existe pas.
+brac18.itm : Opcode 83 : Type de projectile '357'
+brac18.itm : Opcode 83 : Type de projectile '312'
+brac18.itm : Opcode 83 : Type de projectile '11'
+brac18.itm : Opcode 83 : Type de projectile '15'
+brac18.itm : Opcode 83 : Type de projectile '20'
+brac18.itm : Opcode 83 : Type de projectile '101'
+brac18.itm : Opcode 83 : Type de projectile '257'
+brac18.itm : Opcode 83 : Type de projectile '270'
+clck06.itm : Opcode 206 : La ressource sppr309d.spl n'existe pas.
+clck06.itm : Opcode 206 : La ressource spwi203d.spl n'existe pas.
+clck06.itm : Opcode 206 : La ressource dvdinvis.spl n'existe pas.
+clck23.itm : Opcode 206 : La ressource bdspidga.spl n'existe pas.
+clck23.itm : Opcode 206 : La ressource spwi215d.spl n'existe pas.
+clck23.itm : Opcode 206 : La ressource wand14d.spl n'existe pas.
+clck23.itm : Opcode 206 : La ressource d0spiweb.spl n'existe pas.
+clck23.itm : Opcode 206 : La ressource dvweb.spl n'existe pas.
+clck23.itm : Opcode 206 : La ressource dw#0w215.spl n'existe pas.
+clck23.itm : Opcode 206 : La ressource dw#mweb.spl n'existe pas.
+clck23.itm : Opcode 206 : La ressource dw#web.spl n'existe pas.
+clck27.itm : Opcode 206 : La ressource dvstench.spl n'existe pas.
+dagg09.itm : Opcode 123 à gérer.
+dagg09a.itm : Opcode 123 à gérer.
+dagg09b.itm : Opcode 123 à gérer.
+dagg11.itm : Opcode 123 à gérer.
+dagg11a.itm : Opcode 123 à gérer.
+dagg11b.itm : Opcode 123 à gérer.
+dagg12.itm : Opcode 123 à gérer.
+dagg12a.itm : Opcode 123 à gérer.
+dagg12b.itm : Opcode 123 à gérer.
+dagg22.itm : Opcode 123 à gérer.
+dagg22a.itm : Opcode 123 à gérer.
+dvjelly.itm : Opcode 206 : La ressource spwi889.spl n'existe pas.
+halb09.itm : Opcode 206 : La ressource spwi812d.spl n'existe pas.
+hamm06.itm : Opcode 123 à gérer.
+hamm06a.itm : Opcode 123 à gérer.
+hamm06b.itm : Opcode 123 à gérer.
+hamm09.itm : Opcode 123 à gérer.
+hamm09a.itm : Opcode 123 à gérer.
+hamm13.itm : Opcode 206 : La ressource sppr309d.spl n'existe pas.
+hamm13.itm : Opcode 206 : La ressource spwi203d.spl n'existe pas.
+helm29.itm : Opcode 206 : La ressource sppr309d.spl n'existe pas.
+helm29.itm : Opcode 206 : La ressource spwi203d.spl n'existe pas.
+helm29.itm : Opcode 206 : La ressource dvdinvis.spl n'existe pas.
+helm30.itm : Opcode 206 : La ressource sppr309d.spl n'existe pas.
+helm30.itm : Opcode 206 : La ressource spwi203d.spl n'existe pas.
+helm30.itm : Opcode 206 : La ressource dvdinvis.spl n'existe pas.
+mdog1.itm : Opcode 206 : La ressource mummydsp.spl n'existe pas.
+misc5x.itm : Opcode 206 : La ressource sppr309d.spl n'existe pas.
+misc5x.itm : Opcode 206 : La ressource spwi203d.spl n'existe pas.
+misc5x.itm : Opcode 206 : La ressource dvdinvis.spl n'existe pas.
+misc8j.itm : Opcode 206 : La ressource rr#dpdis.spl n'existe pas.
+misc8j.itm : Opcode 206 : La ressource fl#csdis.spl n'existe pas.
+ring28.itm : Opcode 206 : La ressource spwi213d.spl n'existe pas.
+ring28.itm : Opcode 206 : La ressource spwi502d.spl n'existe pas.
+ring28.itm : Opcode 206 : La ressource spwi614d.spl n'existe pas.
+ring28.itm : Opcode 206 : La ressource spwi810d.spl n'existe pas.
+ring28.itm : Opcode 206 : La ressource wand13.spl n'existe pas.
+ring28.itm : Opcode 206 : La ressource dvckill2.spl n'existe pas.
+ring42.itm : Opcode 206 : La ressource sppr519.spl n'existe pas.
+ring47.itm : Opcode 283 : La ressource ZOMBIE.eff n'existe pas.
+rodaxe.itm : Opcode 123 à gérer.
+rodaxe.itm : Opcode 123 à gérer.
+rodaxe.itm : Opcode 123 à gérer.
+rodaxe.itm : Opcode 123 à gérer.
+rodmace.itm : Opcode 123 à gérer.
+rodmace.itm : Opcode 123 à gérer.
+rodmace.itm : Opcode 123 à gérer.
+rodmace.itm : Opcode 123 à gérer.
+rods02.itm : Opcode 123 à gérer.
+rods02.itm : Opcode 123 à gérer.
+rods02.itm : Opcode 123 à gérer.
+rods02.itm : Opcode 123 à gérer.
+rods02a.itm : Opcode 123 à gérer.
+rods02a.itm : Opcode 123 à gérer.
+rods02a.itm : Opcode 123 à gérer.
+rods02a.itm : Opcode 123 à gérer.
+rodspear.itm : Opcode 123 à gérer.
+rodspear.itm : Opcode 123 à gérer.
+rodspear.itm : Opcode 123 à gérer.
+rodspear.itm : Opcode 123 à gérer.
+rodsword.itm : Opcode 123 à gérer.
+rodsword.itm : Opcode 123 à gérer.
+rodsword.itm : Opcode 123 à gérer.
+rodsword.itm : Opcode 123 à gérer.
+secret01.itm : Opcode 180 : La ressource DVENBOLT.itm n'existe pas.
+shld24.itm : Opcode 83 : Type de projectile '357'
+shld24.itm : Opcode 83 : Type de projectile '312'
+shld24.itm : Opcode 83 : Type de projectile '11'
+shld24.itm : Opcode 83 : Type de projectile '15'
+shld24.itm : Opcode 83 : Type de projectile '20'
+shld24.itm : Opcode 83 : Type de projectile '101'
+shld24.itm : Opcode 83 : Type de projectile '257'
+shld24.itm : Opcode 83 : Type de projectile '270'
+staf11.itm : Opcode 206 : La ressource sppr121.spl n'existe pas.
+staf11.itm : Opcode 206 : La ressource spwi505d.spl n'existe pas.
+staf11.itm : Opcode 233: Proficiency not found : 118
+staf20.itm : Opcode 206 : La ressource rr#curse.spl n'existe pas.
+sw1h27.itm : Opcode 206 : La ressource bdspidga.spl n'existe pas.
+sw1h27.itm : Opcode 206 : La ressource spwi215d.spl n'existe pas.
+sw1h27.itm : Opcode 206 : La ressource wand14d.spl n'existe pas.
+sw1h27.itm : Opcode 206 : La ressource d0spiweb.spl n'existe pas.
+sw1h27.itm : Opcode 206 : La ressource dvweb.spl n'existe pas.
+sw1h27.itm : Opcode 206 : La ressource dw#0w215.spl n'existe pas.
+sw1h27.itm : Opcode 206 : La ressource dw#mweb.spl n'existe pas.
+sw1h27.itm : Opcode 206 : La ressource dw#web.spl n'existe pas.
+sw1h33.itm : Opcode 112 à gérer.
+sw1h33a.itm : Opcode 112 à gérer.
+sw2h06.itm : Opcode 206 : La ressource bdspidga.spl n'existe pas.
+sw2h06.itm : Opcode 206 : La ressource spwi215d.spl n'existe pas.
+sw2h06.itm : Opcode 206 : La ressource wand14d.spl n'existe pas.
+sw2h06.itm : Opcode 206 : La ressource d0spiweb.spl n'existe pas.
+sw2h06.itm : Opcode 206 : La ressource dvweb.spl n'existe pas.
+sw2h06.itm : Opcode 206 : La ressource dw#0w215.spl n'existe pas.
+sw2h06.itm : Opcode 206 : La ressource dw#mweb.spl n'existe pas.
+sw2h06.itm : Opcode 206 : La ressource dw#web.spl n'existe pas.
+sw2h06.itm : Opcode 206 : La ressource spin175.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource bdspidga.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource spwi215d.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource wand14d.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource d0spiweb.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource dvweb.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource dw#0w215.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource dw#mweb.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource dw#web.spl n'existe pas.
+sw2h13.itm : Opcode 206 : La ressource spin175.spl n'existe pas.
+sw2hd1.itm : Opcode 321 : La ressource ohdsw1.itm n'existe pas.
+sw2hd1.itm : Opcode 321 : no names of spells or items found
+sw2hd1.itm : Opcode 321 : La ressource ohdsw1.itm n'existe pas.
+sw2hd1.itm : Opcode 321 : no names of spells or items found
+xbow15.itm : Opcode 180 : La ressource DVENBOLT.itm n'existe pas.
+xbow16.itm : Opcode 180 : La ressource DVENBOLT.itm n'existe pas.
