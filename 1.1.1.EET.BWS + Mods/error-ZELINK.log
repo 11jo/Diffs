@@ -1,0 +1,27 @@
+	
+zlin192.itm : Opcode 55: Invalid ids entry : class.ids (0)
+zlin192.itm : Opcode 55: Invalid ids entry : class.ids (0)
+zlin281.itm : Opcode 0: parameter1 equal to 0 for a bonus/malus to the armor class.
+zlin367.itm : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+zlin397.itm : Opcode 0: parameter1 equal to 0 for a bonus/malus to the armor class.
+zlin407.itm : Opcode 0: parameter1 equal to 0 for a bonus/malus to the armor class.
+zlink20.itm : Opcode 238: Wrong ids file : 0
+zlink41.itm : Opcode 0: parameter1 equal to 0 for a bonus/malus to the armor class.
+zlink92.itm : Opcode 43: Les 2 parametres doivent avoir la valeur 0
+zlink93.itm : Opcode 190 : Invalid value for parameter2 : 24
+
+Total : 417
+
+Sans description : 0
+
+Ignores : 53
+
+Reussis : 349
+
+Echoues : 15
+
+Potions (TODO): 14
+
+Munitions (TODO) : 8
+
+Opcodes a coder : 18

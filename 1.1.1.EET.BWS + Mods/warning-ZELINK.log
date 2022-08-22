@@ -1,0 +1,52 @@
+	
+zlin117.itm : opcode 101: Traduction 11010011 manquante
+zlin133.itm : Opcode 264 à gérer.
+zlin136.itm : opcode 101: Traduction 11010310 manquante
+zlin143.itm : Opcode 264 à gérer.
+zlin146.itm : Opcode 206 : La ressource d0qpmgaz.spl n'existe pas.
+zlin163.itm : Unknown macro: opcode_self_212
+zlin164.itm : Unknown macro: opcode_self_212
+zlin184.itm : Unknown macro: opcode_target_135
+zlin190.itm : Unknown macro: opcode_party_67
+zlin200.itm : Unknown macro: opcode_target_135
+zlin212.itm : Opcode 264 à gérer.
+zlin215.itm : Opcode 321 : La ressource spwi205.itm n'existe pas.
+zlin215.itm : Opcode 321 : La ressource spin105.itm n'existe pas.
+zlin217.itm : Opcode 148: Unknow target : 5 
+zlin220.itm : Opcode 112 à gérer.
+zlin220.itm : Opcode 112 à gérer.
+zlin220.itm : Opcode 112 à gérer.
+zlin220.itm : Opcode 112 à gérer.
+zlin220.itm : Opcode 112 à gérer.
+zlin231.itm : FAILURE: opcode 12: Failure("zlin231.itm : Type de degat '268435456' pour le opcode 12 pas encore gere")
+zlin232.itm : Unknown macro: opcode_target_probability_135
+zlin246.itm : Opcode 83 : Type de projectile '0'
+zlin247.itm : FAILURE: opcode 12: Failure("zlin247.itm : Type de degat '268435456' pour le opcode 12 pas encore gere")
+zlin262.itm : opcode 101: Traduction 11010011 manquante
+zlin272.itm : FAILURE: opcode 12: Failure("zlin272.itm : Type de degat '131073' pour le opcode 12 pas encore gere")
+zlin300.itm : Unknown macro: opcode_self_149
+zlin309.itm : Unknown macro: opcode_party_46
+zlin328.itm : Opcode 177 : La ressource evildam.eff n'existe pas.
+zlin328.itm : Opcode 115: Unknow target : 5 
+zlin348.itm : Opcode 116: Unknow target : 4 
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin401.itm : Opcode 233: Proficiency not found : 125
+zlin415.itm : Unknown macro: opcode_target_probability_135
+zlink42.itm : opcode 120: Traduction 11200015 manquante
+zlink69.itm : opcode 101: Traduction 11010011 manquante
+zlink71.itm : Unknown macro: opcode_target_probability_135
+zlink87.itm : Opcode 264 à gérer.
+zlink9.itm : Unknown macro: opcode_self_212
+zlink92.itm : opcode 101: Traduction 11010011 manquante

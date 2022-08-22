@@ -1,0 +1,23 @@
+	
+reg1hp2.itm : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+reg1hp2.itm : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+reg1hp2.itm : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+reg1hp2.itm : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+reg1hp2.itm : Opcode 79: Les 2 parametres doivent avoir la valeur 0
+
+
+Total : 171
+
+Sans description : 0
+
+Ignores : 97
+
+Reussis : 74
+
+Echoues : 0
+
+Potions (TODO): 38
+
+Munitions (TODO) : 6
+
+Opcodes a coder : 18
