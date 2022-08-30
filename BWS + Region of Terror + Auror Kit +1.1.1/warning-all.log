@@ -1,4 +1,8 @@
 	
+A4AUI0AA.ITM : Opcode 112 à gérer.
+A4AUI0AB.ITM : Opcode 112 à gérer.
+A4AUI0AC.ITM : Opcode 112 à gérer.
+A4AUI0AD.ITM : Opcode 112 à gérer.
 A7!EQMG.ITM : Opcode 83 : Type de projectile '226'
 A7!EQMG.ITM : Opcode 83 : Type de projectile '227'
 A7!EQMG.ITM : Opcode 83 : Type de projectile '229'
@@ -10,10 +14,9 @@ ABAZRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 ALDETH.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 ALDETH.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 ALDETH.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-AMAUNMAC.ITM : Opcode 177 : La ressource SMOLD3.eff n'existe pas.
-AMAUNMAC.ITM : Opcode 177 : La ressource EMBER3.eff n'existe pas.
 AMUL17.ITM : Opcode 321 : La ressource spwi205.itm n'existe pas.
 AMUL17.ITM : Opcode 321 : La ressource spin105.itm n'existe pas.
+AX1H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 AX1H19.ITM : Opcode 112 à gérer.
 BAZPATRG.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 BAZPATRG.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
@@ -21,8 +24,8 @@ BAZPATRG.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 BDAX1H02.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDAX1H05.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDBELT01.ITM : Opcode 321 : La ressource SPWI209.itm n'existe pas.
-BDBLUN04.ITM : FAILURE: opcode 12: Failure("BDBLUN04.ITM : Type de degat '3' pour le opcode 12 pas encore gere")
-BDBLUN04.ITM : FAILURE: opcode 341: Failure("Opcode 12: Failure(\"BDBLUN04.ITM : Type de degat '3' pour le opcode 12 pas encore gere\")")
+BDBLUN04.ITM : FAILURE: opcode 12: Failure("BDBLUN04.ITM: opcode_12_common: mode 3 a gerer : la cible perd 15 % de ses pv max")
+BDBLUN04.ITM : FAILURE: opcode 341: Failure("Opcode 12: Failure(\"BDBLUN04.ITM: opcode_12_common: mode 3 a gerer : la cible perd 15 % de ses pv max\")")
 BDBOW01.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 BDRING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 BDRING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
@@ -32,25 +35,39 @@ BDSW1H03.ITM : Unknown macro: opcode_target_68
 BDSW1H03.ITM : FAILURE: opcode 326: Failure("Unknown macro: opcode_target_68")
 BDSW1H03.ITM : FAILURE: opcode 341: Failure("Opcode 326: Failure(\"Unknown macro: opcode_target_68\")")
 BDSW1H08.ITM : Opcode 321 : La ressource SPWI418.itm n'existe pas.
+BDSW1H25.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 BEHOLDER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 BEHOLDER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 BEHOLDER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-BHSW1H01.ITM : Opcode 177 : La ressource BHSW1H1A.eff n'existe pas.
-BHSW1H01.ITM : Opcode 177 : La ressource BHSW1H1B.eff n'existe pas.
-BHSW1H01.ITM : Opcode 177 : La ressource BHSW1H1C.eff n'existe pas.
-BLADETRM.ITM : Opcode 264 à gérer.
 BLUN30.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 BLUN30.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 BLUN30.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-CATRING.ITM : FAILURE: opcode 1: Not_found
-CBWTNI6A.ITM : Opcode 248 : La ressource CBROLFSW.eff n'existe pas.
-CBWTNI6A.ITM : Opcode 248 : La ressource GUIVVIS.eff n'existe pas.
-CBWTNI6A.ITM : Opcode 249 : La ressource GUIVVIS.eff n'existe pas.
+C0MNBR01.ITM : Opcode 345 à gérer.
+C0MNBR02.ITM : Opcode 345 à gérer.
+C0MNBR03.ITM : Opcode 345 à gérer.
+C0MNBR04.ITM : Opcode 345 à gérer.
+C0MNBR05.ITM : Opcode 345 à gérer.
+C0MNBR06.ITM : Opcode 345 à gérer.
 CDHGTRL.ITM : Opcode 112 à gérer.
+CDHGTRL.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+CDHGTRL.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+CDHGTRL.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+CDHGTRL.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+CDHGTRL.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
 CDHGTRL.ITM : Opcode 112 à gérer.
 CDTORGAL.ITM : Opcode 112 à gérer.
+CDTORGAL.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+CDTORGAL.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
 CDTORGAL.ITM : Opcode 112 à gérer.
 CDTRLBLZ.ITM : Opcode 112 à gérer.
+CDTRLBLZ.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+CDTRLBLZ.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
 CDTRLBLZ.ITM : Opcode 112 à gérer.
 CHALCY3.ITM : Opcode 321 : La ressource spwi205.itm n'existe pas.
 CHALCY3.ITM : Opcode 321 : La ressource spin105.itm n'existe pas.
@@ -60,15 +77,15 @@ CIGBARD.ITM : Opcode 321 : La ressource SPWI101.itm n'existe pas.
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '219'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '205'
 CLCK24.ITM : Opcode 197 : Réflection du type de projectile '320'
-DEATHREB.ITM : Opcode 177 : La ressource LICHHIT3.eff n'existe pas.
-DEATHREB.ITM : Opcode 177 : La ressource LICHDAM3.eff n'existe pas.
-DEATHREB.ITM : Opcode 177 : La ressource SKELHIT3.eff n'existe pas.
-DEATHREB.ITM : Opcode 177 : La ressource SKELDAM3.eff n'existe pas.
+DEVA.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+DEVAEVIL.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 DRAGRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 DRAGRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 DRAGRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 ETTERC.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 ETTERC.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+FINSOL01.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+FINSOL01.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 FREERING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 FREERING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 FREERING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
@@ -83,7 +100,7 @@ GORCHR.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 GORCHR.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 GORCHR.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 HAMM09.ITM : Opcode 123 à gérer.
-HARM.ITM : FAILURE: opcode 12: Failure("HARM.ITM : Type de degat '4194305' pour le opcode 12 pas encore gere")
+HARM.ITM : FAILURE: opcode 12: Failure("HARM.ITM: opcode_12_common: mode 1 a gerer : les points de vie de la cible passent a 1")
 HELM35.ITM : Opcode 83: TODO: self_probability
 HOLDRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 HOLDRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
@@ -102,65 +119,129 @@ JWSUPER.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 JWSUPER.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 L#NDSW1.ITM : opcode 326: Traduction 13260076 manquante
-L#RNI3.ITM : Unknown macro: opcode_target_1
-L#RNI3.ITM : FAILURE: opcode 177: Failure("Failure(\"Unknown macro: opcode_target_1\")")
-L#SHADM1.ITM : Unknown macro: opcode_self_24
-L#SHADM1.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_self_24")
-L#ULCDA.ITM : Unknown macro: opcode_target_233
-L#ULCDA.ITM : FAILURE: opcode 341: Failure("Unknown macro: opcode_target_233")
-L#ZSOD9.ITM : Opcode 321 : La ressource L#ZSOD9A.itm n'existe pas.
-L#ZSOD9.ITM : Opcode 321 : no names of spells or items found
-L#ZSOD9.ITM : Opcode 321 : La ressource L#ZSOD9B.itm n'existe pas.
-L#ZSOD9.ITM : Opcode 321 : no names of spells or items found
-L#ZSOD9.ITM : Opcode 321 : La ressource L#ZSOD9C.itm n'existe pas.
-L#ZSOD9.ITM : Opcode 321 : no names of spells or items found
-L#ZSOD9.ITM : Opcode 321 : La ressource L#ZSOD9E.itm n'existe pas.
-L#ZSOD9.ITM : Opcode 321 : no names of spells or items found
-L#ZSOD9.ITM : Opcode 321 : La ressource L#ZSOD9F.itm n'existe pas.
-L#ZSOD9.ITM : Opcode 321 : no names of spells or items found
-LAVAHND.ITM : Opcode 264 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
-LV16ROB.ITM : Opcode 112 à gérer.
 MAGE05.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 MAGE05.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 MAGE05.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-MISERY.ITM : Opcode 177 : La ressource ELFDAM1.eff n'existe pas.
-MISERY.ITM : Opcode 177 : La ressource ELFHIT1.eff n'existe pas.
-MOONLITE.ITM : Opcode 177 : La ressource UNDDAM2.eff n'existe pas.
-NIGHTHND.ITM : Unknown macro: opcode_target_probability_36
+NEWNTXA.ITM : Opcode 112 à gérer.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSCI03.ITM : opcode 326: Traduction 13260076 manquante
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN977.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWISH25.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWM164.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN983.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPIN575.itm n'existe pas.
+NEWSCI03.ITM : Opcode 321 : La ressource SPWI312.itm n'existe pas.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
+NEWSTF03.ITM : Opcode 112 à gérer.
 NPPLAT.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 NPPLAT.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 NPPLAT.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
@@ -177,22 +258,23 @@ PALRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 PALRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 PHSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
 PHSPID.ITM : Opcode 318 : self avec parameter1 et parameter2 différent de 0
+PLANETAR.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 PLYJELLY.ITM : Opcode 318 : La ressource wand13.spl n'existe pas.
 PLYWYVRN.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 PLYWYVRN.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 PLYWYVRN.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
-POWEATH1.ITM : opcode 101: Traduction 11010082 manquante
-POWEATH1.ITM : opcode 101: Traduction 11010068 manquante
 REG1HP2.ITM : Opcode 112 à gérer.
+REG1HP2.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+REG1HP2.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+REG1HP2.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+REG1HP2.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+REG1HP2.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
 RING09.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 RING09.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 RING09.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 RING97.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 RING97.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 RING97.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-RINGDUND.ITM : Opcode 206 : La ressource spmi145.spl n'existe pas.
-RINGDUND.ITM : Opcode 206 : La ressource sprb999.spl n'existe pas.
-RINGDUND.ITM : Opcode 206 : La ressource spmi103.spl n'existe pas.
 ROSSRING.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 ROSSRING.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 ROSSRING.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
@@ -202,13 +284,6 @@ SHALT01.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 SHLD08P.ITM : Unknown macro: opcode_target_1
 SHLD08P.ITM : FAILURE: opcode 326: Failure("Unknown macro: opcode_target_1")
 SHLD08P.ITM : FAILURE: opcode 232: Failure("Opcode 326: Failure(\"Unknown macro: opcode_target_1\")")
-SILBLADE.ITM : Opcode 177 : La ressource GOODDAM4.eff n'existe pas.
-SILBLADE.ITM : Opcode 177 : La ressource GOODDA24.eff n'existe pas.
-SILBLADE.ITM : Opcode 177 : La ressource GOODHIT4.eff n'existe pas.
-SILBLADE.ITM : Opcode 177 : La ressource GOODHI24.eff n'existe pas.
-SILBLADE.ITM : Opcode 177 : La ressource GOODDA34.eff n'existe pas.
-SILBLADE.ITM : Opcode 177 : La ressource GOODHI34.eff n'existe pas.
-SILBLADE.ITM : Opcode 146 : La ressource sginvis.spl n'existe pas.
 SOAITM27.ITM : Opcode 115: Unknow target : 4 
 SOAITM30.ITM : Opcode 115: Unknow target : 4 
 SPER12.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
@@ -241,14 +316,10 @@ SPRNGS04.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
 SPRNGZ05.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 SPRNGZ05.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 SPRNGZ05.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-STARYM.ITM : Opcode 177 : La ressource HUMHIT3.eff n'existe pas.
-STARYM.ITM : Opcode 177 : La ressource HUMDAM3.eff n'existe pas.
-STARYM.ITM : Opcode 177 : La ressource HELFHIT3.eff n'existe pas.
-STARYM.ITM : Opcode 177 : La ressource HELFDAM3.eff n'existe pas.
+STAF11.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 SUREHP1.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 SUREHP1.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 SUREHP1.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
-SW1H13.ITM : Opcode 233: Proficiency not found : 127
 SW1H43.ITM : Opcode 146 : La ressource sw1h43.spl n'existe pas.
 SW1H46.ITM : Opcode 146 : La ressource sw1h46.spl n'existe pas.
 SW1H48.ITM : Opcode 146 : La ressource sw1h48.spl n'existe pas.
@@ -259,102 +330,21 @@ SW1P01.ITM : FAILURE: opcode 232: Failure("Unknown macro: opcode_target_233")
 SW2H06.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 SW2H06.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 SW2H06.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SW2H10.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 SW2H13.ITM : Opcode 206 : La ressource cdsw1h58.spl n'existe pas.
 SW2H13.ITM : Opcode 206 : La ressource cdmound.spl n'existe pas.
 SW2H13.ITM : Opcode 206 : La ressource cdhgnya1.spl n'existe pas.
+SW2H19.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
 SW2HD1.ITM : Opcode 321 : La ressource ohdsw1.itm n'existe pas.
 SW2HD1.ITM : Opcode 321 : no names of spells or items found
 SW2HD1.ITM : Opcode 321 : La ressource ohdsw1.itm n'existe pas.
 SW2HD1.ITM : Opcode 321 : no names of spells or items found
 TROLLREG.ITM : Opcode 112 à gérer.
+TROLLREG.ITM : Opcode 4: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 75: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 77: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 81: Les 2 parametres doivent avoir la valeur 0
+TROLLREG.ITM : Opcode 79: Les 2 parametres doivent avoir la valeur 0
 TROLLREG.ITM : Opcode 112 à gérer.
-TROLSIND.ITM : Opcode 177 : La ressource TROLDAM3.eff n'existe pas.
-TROLSIND.ITM : Opcode 177 : La ressource TROLHIT3.eff n'existe pas.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
-VA#CALAN.ITM : Opcode 112 à gérer.
 WA2SHIEL.ITM : Opcode 197 : Réflection du type de projectile '320'
 WQXMAIN.ITM : Opcode 112 à gérer.
-ZLIN117.ITM : opcode 101: Traduction 11010011 manquante
-ZLIN133.ITM : Opcode 264 à gérer.
-ZLIN136.ITM : opcode 101: Traduction 11010310 manquante
-ZLIN143.ITM : Opcode 264 à gérer.
-ZLIN146.ITM : Opcode 206 : La ressource d0qpmgaz.spl n'existe pas.
-ZLIN163.ITM : Unknown macro: opcode_self_212
-ZLIN164.ITM : Unknown macro: opcode_self_212
-ZLIN184.ITM : Unknown macro: opcode_target_135
-ZLIN190.ITM : Unknown macro: opcode_party_67
-ZLIN200.ITM : Unknown macro: opcode_target_135
-ZLIN212.ITM : Opcode 264 à gérer.
-ZLIN215.ITM : Opcode 321 : La ressource spwi205.itm n'existe pas.
-ZLIN215.ITM : Opcode 321 : La ressource spin105.itm n'existe pas.
-ZLIN217.ITM : Opcode 148: Unknow target : 5 
-ZLIN220.ITM : Opcode 112 à gérer.
-ZLIN220.ITM : Opcode 112 à gérer.
-ZLIN220.ITM : Opcode 112 à gérer.
-ZLIN220.ITM : Opcode 112 à gérer.
-ZLIN220.ITM : Opcode 112 à gérer.
-ZLIN231.ITM : FAILURE: opcode 12: Failure("ZLIN231.ITM : Type de degat '268435456' pour le opcode 12 pas encore gere")
-ZLIN232.ITM : Unknown macro: opcode_target_probability_135
-ZLIN246.ITM : Opcode 83 : Type de projectile '0'
-ZLIN247.ITM : FAILURE: opcode 12: Failure("ZLIN247.ITM : Type de degat '268435456' pour le opcode 12 pas encore gere")
-ZLIN262.ITM : opcode 101: Traduction 11010011 manquante
-ZLIN272.ITM : FAILURE: opcode 12: Failure("ZLIN272.ITM : Type de degat '131073' pour le opcode 12 pas encore gere")
-ZLIN300.ITM : Unknown macro: opcode_self_149
-ZLIN309.ITM : Unknown macro: opcode_party_46
-ZLIN328.ITM : Opcode 177 : La ressource evildam.eff n'existe pas.
-ZLIN328.ITM : Opcode 115: Unknow target : 5 
-ZLIN348.ITM : Opcode 116: Unknow target : 4 
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN401.ITM : Opcode 233: Proficiency not found : 125
-ZLIN415.ITM : Unknown macro: opcode_target_probability_135
-ZLINK42.ITM : opcode 120: Traduction 11200015 manquante
-ZLINK69.ITM : opcode 101: Traduction 11010011 manquante
-ZLINK71.ITM : Unknown macro: opcode_target_probability_135
-ZLINK87.ITM : Opcode 264 à gérer.
-ZLINK9.ITM : Unknown macro: opcode_self_212
-ZLINK92.ITM : opcode 101: Traduction 11010011 manquante
