@@ -1,0 +1,5 @@
+	
+BDCHANCA.ITM : FAILURE: Unknown macro: opcode_self_219
+C2LEAT01.ITM : FAILURE: Unknown macro: opcode_self_219
+C2LEAT01.ITM : Opcode 318 : La ressource wand13.spl n'existe pas.
+CHAINBM.ITM : Opcode 318 : La ressource umbergaz.spl n'existe pas.
