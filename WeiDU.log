@@ -14,12 +14,11 @@
 ~SENTRIZEAL_AA_PACK/SETUP-SENTRIZEAL_AA_PACK.TP2~ #0 #4 // Sentrizeal's Human Gladiator Avatar (Female): v1.3.1
 ~SENTRIZEAL_AA_PACK/SETUP-SENTRIZEAL_AA_PACK.TP2~ #0 #5 // Sentrizeal's Human Gladiator Avatar (Male): v1.3.1
 ~SENTRIZEAL_AA_PACK/SETUP-SENTRIZEAL_AA_PACK.TP2~ #0 #6 // Sentrizeal's Human Mercenary Avatar (Female): v1.3.1
+~EEEX/EEEX.TP2~ #0 #0 // EEex: 0.9.8
+~EEEX/EEEX.TP2~ #0 #1 // Enable effect menu module - (LShift-on-hover to view spells affecting creature): 0.9.8
+~EEEX/EEEX.TP2~ #0 #2 // Enable timer module - (visual indicators for modal actions, contingency spells, and spell/item cooldowns): 0.9.8
 ~TIPUN_GUI/TIPUN_GUI.TP2~ #2 #10 // Tipun's User Interface (main component): v2.1.3
-~BP_IN_BG/BP_IN_BG.TP2~ #0 #100 // add access to the Black Pits in BGEE/EET: 0.6
-~EEEX/EEEX.TP2~ #0 #0 // EEex: 0.9.7
-~EEEX/EEEX.TP2~ #0 #1 // Enable effect menu module - (LShift-on-hover to view spells affecting creature): 0.9.7
-~EEEX/EEEX.TP2~ #0 #2 // Enable timer module - (visual indicators for modal actions, contingency spells, and spell/item cooldowns): 0.9.7
-~BUBB_SPELL_MENU_EXTENDED/BUBB_SPELL_MENU_EXTENDED.TP2~ #0 #0 // Bubb's Spell Menu Extended: 4.5.1
+~BUBB_SPELL_MENU_EXTENDED/BUBB_SPELL_MENU_EXTENDED.TP2~ #1 #0 // Bubb's Spell Menu Extended: v4.5.2
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #1 #10 // Ajouter l'option de jeu "Activer le Mode de debogage": 3.0
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #1 #11 // Ajouter l'option de jeu "Activer le mode de modification de l'interface utilisateur": 3.0
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #1 #12 // Ajouter l'option de jeu "Afficher les numeros des textes": 3.0
@@ -83,7 +82,11 @@
 ~BG1NPC/BG1NPC.TP2~ #2 #155 // BG1 NPC Project : donner a Coran son portrait de "Murder in Baldur's Gate": v30
 ~BG1NPC/BG1NPC.TP2~ #2 #160 // BG1 NPC Project : ajouter des portraits de PNJs non-recrutables pour les dialogues et les quetes: v30
 ~BG1NPC/BG1NPC.TP2~ #2 #200 // BG1 NPC Project : dialogues inities par le joueur: v30
+~GORGON/SETUP-GORGON.TP2~ #0 #0 // Install The Gorgon's Eye: v2
 ~AJANTISBG1/SETUP-AJANTISBG1.TP2~ #1 #0 // Installe le mod Expansion Ajantis pour BG1: 18.3
+~XANBG1FRIEND/SETUP-XANBG1FRIEND.TP2~ #3 #0 // Xan's friendship path for BG1: v11
+~GAVIN/GAVIN.TP2~ #1 #0 // Gavin NPC pour Tutu, BGT et BG:EE: 14
+~GAVIN/GAVIN.TP2~ #1 #10 // Gavin : Dialogues inities par le joueur: 14
 ~ASCENSION/ASCENSION.TP2~ #2 #0 // Reecriture du chapitre final de Throne of Bhaal: 2.0.17
 ~ASCENSION/ASCENSION.TP2~ #2 #10 // Balthazar peut etre rachete: 2.0.17
 ~ASCENSION/ASCENSION.TP2~ #2 #20 // Interactions entre Sarevok et le joueur ameliorees: 2.0.17
@@ -142,6 +145,27 @@
 ~TANGLEDISLE/TANGLEDISLE.TP2~ #3 #0 // L'ile du Chene Enchevetre : une nouvelle zone d'Athkatla -> Oui , mais ne pas patcher les sauvegardes existantes: v4.0
 ~ISNF/ISNF.TP2~ #2 #0 // Couleurs de l'Infini : I Shall Never Forget (Je N'Oublierai Jamais): 6.1.1
 ~EILISTRAEE/SETUP-EILISTRAEE.TP2~ #1 #0 // Eilistraee's Song -> Oui, mais sans corriger les sauvegardes de jeu existantes: 7.2
+~IEPBANTERS/IEPBANTERS.TP2~ #3 #0 // Interaction entre les PNJs plus developpee dans SoA: v5.8
+~IEPBANTERS/IEPBANTERS.TP2~ #3 #1 // Interaction Minsc/Aerie plus developpee dans ToB: v5.8
+~IEPBANTERS/IEPBANTERS.TP2~ #3 #2 // Dialogue "retrospectif" pour Imoen dans ToB: v5.8
+~IEPBANTERS/IEPBANTERS.TP2~ #3 #3 // Dialogue au reveil pour la romance d'Anomen (de David Gaider avec des ajouts de Kulyok): v5.8
+~IEPBANTERS/IEPBANTERS.TP2~ #3 #4 // Revision des conflits entre PNJs: v5.8
+~IEPBANTERS/IEPBANTERS.TP2~ #3 #5 // Restitution de commentaires Aerie/Jaheira/Anomen dans l'Ombreterre: v5.8
+~XAN/XAN.TP2~ #3 #0 // PNJ Xan, module pour Baldur's Gate II: v19
+~XANFRENCHMINI/SETUP-XANFRENCHMINI.TP2~ #1 #1 // ?????? -> : ???
+~PAINA/PAINA.TP2~ #0 #0 // Pai'Na NPC for BG:EE
+~DEARNISE/DEARNISE.TP2~ #2 #0 // Romance de'Arnise pour Baldur's Gate II: v7
+~SETUP-EDWINROMANCE.TP2~ #1 #3 // Nouvelle fin pour la Romance de Viconia ecrite par Laufey: v2.11
+~MAZZY/MAZZY.TP2~ #1 #0 // Mazzy Friendship: v3.5
+~VICONIA/VICONIA.TP2~ #1 #0 // Viconia Friendship: v4.5
+~YOSHIMO/YOSHIMO.TP2~ #2 #0 // Yoshimo Friendship pour BGII : SoA: v4.6
+~CHATTYIMOEN/SETUP-CHATTYIMOEN.TP2~ #1 #0 // Chatty Imoen : Repliques audio supplementaires: v1.3
+~CHATTYIMOEN/SETUP-CHATTYIMOEN.TP2~ #1 #1 // Chatty Imoen : Interactions supplementaires avec les autres personnages: v1.3
+~IMOENFRIENDSHIP/IMOENFRIENDSHIP.TP2~ #3 #0 // Imoen Friendship pour SoA: v3.6
+~SAREVOKFRIENDSHIP/SAREVOKFRIENDSHIP.TP2~ #1 #0 // Sarevok Friendship pour BGII : ToB: v2.6
+~BANTERPACK/SETUP-BANTERPACK.TP2~ #3 #0 // Pack de Dialogues du Pocket Plane Group pour BG2 : SoA: v18
+~BANTERPACK/SETUP-BANTERPACK.TP2~ #3 #2 // Pack de Dialogues du Pocket Plane Group pour BG2 : ToB: v18
+~KETO/SETUP-KETO.TP2~ #1 #0 // Keto-SOA NPC: V6
 ~LUCY/LUCY.TP2~ #5 #0 // Lucy la Wiverne: v5.0
 ~SLANDOR/SLANDOR.TP2~ #2 #0 // Le minotaure et Lilarcor: 2.0
 ~UB/SETUP-UB.TP2~ #1 #0 // Le rapt de Bouh par Cliffette: v28
@@ -178,15 +202,6 @@
 ~SETUP-D0QUESTPACK.TP2~ #3 #21 // Voler l'infernal: v3.5
 ~ALTERNATIVES/SETUP-ALTERNATIVES.TP2~ #2 #0 // Alternatives: v15
 ~BRIDGESBLOCK/BRIDGESBLOCK.TP2~ #4 #0 // Les terres d'Athkatlan : Le Bloc du Pont: 1.5
-~RTTITEMPACK/RTTITEMPACK.TP2~ #2 #0 // Voulez-vous installer RTT Item Pack ? **Tous les objets magiques sont ajoutes au magasin 'special' de Ribald (Marche de l'Aventurier, Promenade de Waukyne) qui sera accessible seulement au retour de l'asile de SpellHold.**: v1.4
-~ITEMUPGRADE/ITEMUPGRADE.TP2~ #1 #0 // Shadows Of Amn Item Upgrades -> Version d'origine (les nouvelles ameliorations sont proposees dans une liste): v49
-~ITEMUPGRADE/ITEMUPGRADE.TP2~ #1 #1 // Throne Of Bhaal Item Upgrades -> Version d'origine (les nouvelles ameliorations sont proposees dans une liste): v49
-~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #1 #17 // Installer " Armes et Equipements oublies " -> Mise à jour des objets existants et ajout des nouveaux objets: v0.8-beta
-~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #1 #11 // Ajouter le parchemin Breche au Bazar Magique de la Porte de Baldur: v0.8-beta
-~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #1 #4 // Mise a jour des statistiques et scores de capacite des objets ameliores pour une meilleur integration: v0.8-beta
-~THEUNDYING/SETUP-THEUNDYING.TP2~ #0 #0 //  "The Undying" Mod 
-~A4AUROR/SETUP-A4AUROR.TP2~ #1 #0 // L'Auror : Kit de rodeuse pour BGII-TOB, BGII-EE, BG-EE et EET: v4.04
-~WARSLINGSNIPERKIT/SETUP-WARSLINGSNIPERKIT.TP2~ #1 #0 // Le Frondeur d'elite, kit de guerrier
 ~A7-GOLEMCONSTRUCTION/SETUP-A7-GOLEMCONSTRUCTION.TP2~ #1 #0 // Capacite de Fabrication de Golem pour lanceurs de sorts: 6.2
 ~A7-GOLEMCONSTRUCTION/SETUP-A7-GOLEMCONSTRUCTION.TP2~ #1 #15 // Ameliorer l'IA des lanceurs de sorts ennemis: 6.2
 ~A7-GOLEMCONSTRUCTION/SETUP-A7-GOLEMCONSTRUCTION.TP2~ #1 #20 // Des golems pour les lanceurs de sorts ennemis: 6.2
@@ -195,6 +210,9 @@
 ~A7-GOLEMCONSTRUCTION/SETUP-A7-GOLEMCONSTRUCTION.TP2~ #1 #35 // Rendre les golems vulnerables aux effets de certains sorts: 6.2
 ~A7-GOLEMCONSTRUCTION/SETUP-A7-GOLEMCONSTRUCTION.TP2~ #1 #40 // Reduire les resistances et l'immunite aux armes des golems fabriques: 6.2
 ~A7-TOTLM-BG2EE/A7-TOTLM-BG2EE.TP2~ #1 #0 // Les Epreuves du Maitre des Leurres pour BG2:EE: 3.0
+~DJINNICOMPANION/DJINNICOMPANION.TP2~ #2 #0 // Afaaq, le compagnon Djinn -> Version complete (avec quetes, conversations et plus encore): v2.9
+~DJINNICOMPANION/DJINNICOMPANION.TP2~ #2 #103 // Changer la frequence des conversations (n'affecte que le djinn, par defaut : 60 minutes) -> 45 minutes: v2.9
+~WSR/WSR.TP2~ #2 #100 // Revision du kit de Tueur de magiciens: v1.14
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2250 // Table de progression des sorts du sorcier debridee: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2260 // Alterer la table de progression des sorts du mage -> Table debridee (Blucher): v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2270 // Alterer la table de progression des sorts du barde -> Table debridee (Blucher): v15 BWS-FR Fix
@@ -227,7 +245,10 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2040 // Gourdins universels: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2060 // Styles de combat pour toutes les classes: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2080 // Reporter les competences de haut niveau: v15 BWS-FR Fix
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2150 // Port de plusieurs objets de protection -> Restrictions style P&P: v15 BWS-FR Fix
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2100 // Autoriser l'utilisation des competences de voleur en armure lourde: v15 BWS-FR Fix
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2120 // Autoriser le lancement des sorts profanes en armure: v15 BWS-FR Fix
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2140 // Options de jumelage etendues: v15 BWS-FR Fix
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2151 // Port de plusieurs objets de protection -> Pas de restrictions: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2170 // Lancement des sorts depuis les parchemins (et autres objets) au niveau du personnage: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2200 // Grande maitrise pour les multi-classes (Weimer): v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #2210 // Modifier les bonus de grande maitrise -> Veritable grande maitrise (Baldurdash): v15 BWS-FR Fix
@@ -252,6 +273,8 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3000 // Davantage de points de vie a la montee de niveau -> Maximum: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3008 // Autoriser le tirage des PV jusqu'au niveau 20 (Angel): v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3010 // Points de vie maximum pour les PNJs (the bigg) -> Pour toutes les creatures du jeu: v15 BWS-FR Fix
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3030 // Apprentissage des sorts assoupli -> 100 % de chance d'apprendre un sort: v15 BWS-FR Fix
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3040 // Sacs de contenance sans fond: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3050 // Retirer l'effet de fatigue des sorts de restauration: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3060 // Desactiver la voix "Vous devez reunir votre groupe avant d'aller plus loin" (Weimer): v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3080 // Augmenter la taille de la pile de munitions -> Empilement illimite des munitions: v15 BWS-FR Fix
@@ -260,9 +283,7 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3110 // Augmenter la limite d'empilement des parchemins -> Empilement illimite des parchemins: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3121 // Patch du bonheur (les PNJs du groupe ne se plaignent pas de la reputation) -> Les PNJs peuvent etre en colere a propos de la reputation mais ne partent jamais (Salk): v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3125 // Rendre heureux les personnages neutres lorsque la reputation est moyenne: v15 BWS-FR Fix
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3140 // Cinematiques et reves des chapitres 1 et 2 acceleres -> Version originale d'Ease of Use (Karzak, Blucher): v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3170 // Pas d'avatar d'elfe noir pour le groupe en Ombre-Terre: v15 BWS-FR Fix
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3183 // Triche sur les romances: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3200 // Batons, gourdins et frondes vendables (Icelus): v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3205 // Les magasins achetent tous les types d'objets: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #3230 // Taerum fabrique une armure d'Ankheg supplementaire (Icendoan/grogerson): v15 BWS-FR Fix
@@ -275,20 +296,61 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #4150 // Deplacer Bouh dans le sac de Minsc: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #4160 // Permettre a Yeslick d'utiliser les haches: v15 BWS-FR Fix
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #2 #4180 // Objets detachables des PNJ: v15 BWS-FR Fix
+~WARSLINGSNIPERKIT/SETUP-WARSLINGSNIPERKIT.TP2~ #1 #0 // Le Frondeur d'elite, kit de guerrier
+~A4AUROR/SETUP-A4AUROR.TP2~ #1 #0 // L'Auror : Kit de rodeuse pour BGII-TOB, BGII-EE, BG-EE et EET: v4.04
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1 // Artisan's Kitpack: Enable All Classes for All Races: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2 // Artisan's Kitpack: Enable Multi-Classes for -> All Races: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1100 // Artisan's Kitpack: Fighter Overhaul (required for kit components): 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1003 // Artisan's Kitpack: Berserker Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1006 // Artisan's Kitpack: Wizard Slayer Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1004 // Artisan's Kitpack: Kensai Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1005 // Artisan's Kitpack: Barbarian Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1007 // Artisan's Kitpack: Dwarven Defender Overhaul + Vanguard Fighter Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1001 // Artisan's Kitpack: Arcane Archer (Fighter/Mage): 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2000 // Artisan's Kitpack: Ranger Overhaul (required for kit components): 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2010 // Artisan's Kitpack: Archer Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2011 // Artisan's Kitpack: Stalker Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2012 // Artisan's Kitpack: Beast Master Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2001 // Artisan's Kitpack: Rashemi Berserker Ranger Kit for Minsc: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2002 // Artisan's Kitpack: Dark Hunter Ranger Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3000 // Artisan's Kitpack: Paladin Overhaul (required for kit components): 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3010 // Artisan's Kitpack: Cavalier Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3003 // Artisan's Kitpack: Inquisitor Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3011 // Artisan's Kitpack: Undead Hunter Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3004 // Artisan's Kitpack: Blackguard Overhaul: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3001 // Artisan's Kitpack: Divine Champion Paladin Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3101 // Artisan's Kitpack: Give Ajantis the Divine Champion Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3002 // Artisan's Kitpack: Mystic Fire Paladin Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3005 // Artisan's Kitpack: Martyr Paladin Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5101 // Artisan's Kitpack: Give Cernd the Elementalist Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5003 // Artisan's Kitpack: Red Wizard Mage Kit for Edwin: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7004 // Artisan's Kitpack: Way of the Assassin (Assassin Overhaul): 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7101 // Artisan's Kitpack: Give Imoen the Rogue Archer Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7002 // Artisan's Kitpack: Magekiller Thief Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7003 // Artisan's Kitpack: Trickster Thief Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7203 // Artisan's Kitpack: Trickster - Mimic Mod Kit Abilities (install this after other kits!): 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7103 // Artisan's Kitpack: Make Montaron an Assassin: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7005 // Artisan's Kitpack: Invisible Blade Thief Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8002 // Artisan's Kitpack: 3e-accurate Dragon Disciple -> Original Stat Bonuses: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #9001 // Artisan's Kitpack: Warhorn Shaman Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #9101 // Artisan's Kitpack: Give M'khiin the Warhorn Shaman Kit: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #10001 // Artisan's Kitpack: Monk Revisions: 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #20000 // Artisan's Kitpack: Eldritch Knight (Fighter / Mage Kit): 2.5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #20001 // Artisan's Kitpack: Arcane Trickster (Mage / Thief Kit): 2.5
+~PIRATE/SETUP-PIRATE.TP2~ #0 #0 // Pirate Kit v1.1: v2
+~PIRATE/SETUP-PIRATE.TP2~ #0 #2 // Race du perroquet Coco -> Ara ararauna (vert-bleu-jaune) : v2
+~PIRATE/SETUP-PIRATE.TP2~ #0 #6 // Dons innés régionaux ->  Pirate de Zakhara : Maîtrise supérieure du cimeterre (6ème étoile de compétence) : Pour les pirates des sables brûlants de Zakhara, les cimeterres ordinaires (non enchantés) sont maniés avec une telle maîtrise qu'ils sont considérés comme des armes à deux mains +1, bénéficiant ainsi des mêmes avantages en terme de dégats, sans l'inconvénient de la lenteur due au poids de ces dernières. : v2
+~WSR/WSR.TP2~ #2 #200 // Revision des facultes de haut niveau du Tueur de magiciens: v1.14
+~WSR/WSR.TP2~ #2 #302 // Revision des restrictions d'utilisation d'objets pour le Tueur de magiciens -> Changements moderes: v1.14
 ~PPE/SETUP-PPE.TP2~ #2 #0 // Portraits Portraits Everywhere (PPE) - Composant principal: 1.02
-~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #1 #10 // Armes dans le style de NWN2: v0.8-beta
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #1 #2 // "Kuroisan", le kensai acide: v0.1
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #1 #3 // "L'insigne rouge", une Rencontre Basee sur le Poison: v0.1
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #1 #4 // La Liche sur les Quais, de Gebhard Blucher: v0.1
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #1 #5 // Le Gnome Guerrier/Illusioniste des Quais, de Kensai Ryu: v0.1
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #1 #6 // Amelioration du Roi de la crypte, par Kensai Ryu: v0.1
-~ENHANCED-POWERGAMING-SCRIPTS/ENHANCED-POWERGAMING-SCRIPTS.TP2~ #1 #14 // Installez "Scripts dynamique ameliores" -> Vitesse normal pour le lancement des sorts de preparation au combat: v10.0
-~ENHANCED-POWERGAMING-SCRIPTS/ENHANCED-POWERGAMING-SCRIPTS.TP2~ #1 #9 // Installer les scripts ameliores pour les Devas invoques: v10.0
-~ENHANCED-POWERGAMING-SCRIPTS/ENHANCED-POWERGAMING-SCRIPTS.TP2~ #1 #10 // Installer les scripts ameliores pour les Simulacres: v10.0
 ~PPE/SETUP-PPE.TP2~ #2 #10 // Utiliser les portraits d'Isandir pour le CHARNAME: 1.02
 ~PPE/SETUP-PPE.TP2~ #2 #30 // Ust Natha Drow NPCs: 1.02
 ~PPE/SETUP-PPE.TP2~ #2 #40 // Vampire NPCs: 1.02
 ~PPE/SETUP-PPE.TP2~ #2 #100 // Categorie de portraits (Recommande) -> Sequenced: 1.02
 ~EET_END/EET_END.TP2~ #3 #0 // EET end (dernier mod dans l'ordre d'installation) -> Installation standard
-~TIPUN_GUI/TIPUN_GUI.TP2~ #2 #20 // Tipun's User Interface (create data tables): v2.1.3
-~AUTODESCRIPTION/AUTODESCRIPTION.TP2~ #0 #20 // Uniformisation des descriptions d'un mod: 0.9.19
+// Recently Uninstalled: ~SETUP-BWS_FINAL.TP2~ #0 #0 // Make quick-logged WeiDU-entries visible
