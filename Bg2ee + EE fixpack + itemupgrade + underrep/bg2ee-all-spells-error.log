@@ -1,0 +1,138 @@
+
+BHAAL4A.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+BHAAL4A.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+OHBPR608.SPL : Opcode 111: Resource key is empty.
+OHBPR608.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+OHBPR608.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+OHBPR608.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+OHBPR608.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+OHTYR1.SPL : Opcode 321 : no sppr422.spl or sppr422.itm found
+SPCL731.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPCL731.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPCL909.SPL : Opcode 235: has no effect : levelMin (10) > levelMax (2) 
+SPCL909.SPL : Opcode 45: has no effect : levelMin (10) > levelMax (2) 
+SPCL909.SPL : Opcode 235: has no effect : levelMin (10) > levelMax (2) 
+SPCL909.SPL : Opcode 45: has no effect : levelMin (10) > levelMax (2) 
+SPDM103.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPDM103.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPIN113.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPIN113.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPIN202.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPIN202.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPIN530.SPL : Opcode 173 : No change detected Value = Value + 0.
+SPIN663.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPIN663.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN823.SPL : Opcode 12: Unknown damage type : 268435456.
+SPIN944.SPL : Opcode 324 : no effect : duration 0
+SPJA01.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPJA01.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR110.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR110.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR206.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR206.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR213.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR213.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR350.SPL : Opcode 321 : no bdaurafe.spl or bdaurafe.itm found
+SPPR350.SPL : Opcode 321 : no bdmycsp1.spl or bdmycsp1.itm found
+SPPR350.SPL : Opcode 321 : no bdmycsp2.spl or bdmycsp2.itm found
+SPPR414.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR414.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR504.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR504.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR510.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR510.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR511.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR511.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR550.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR550.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR608.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR608.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR614.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR614.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR712.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR712.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR721.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR721.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPPR729.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+SPSD02.SPL : Opcode 1: Invalid parameter1 value ([-10 10] expected).
+SPWI115.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI115.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI117.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI117.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI218.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI218.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI325.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI325.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI518.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI518.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI915.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI915.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI920.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI920.SPL : Opcode 318 : no *PINHUMW.spl or *PINHUMW.itm found
+SPWI959.SPL : Opcode 324 : no effect : duration 0
+SPWI960.SPL : Opcode 324 : no effect : duration 0
+SPWI982.SPL : Opcode 67 : Resource pheogurd.cre doesn't exist.
+SPWI982.SPL : Opcode 67 : Resource pheogurd.cre doesn't exist.
+SPWI982.SPL : Opcode 67 : Resource pheogurd.cre doesn't exist.
+SPWI982.SPL : Opcode 67 : Resource pheogurd.cre doesn't exist.
+SPWI982.SPL : Opcode 67 : Resource pheogurd.cre doesn't exist.
+SPWI982.SPL : Opcode 67 : Resource pheogurd.cre doesn't exist.
+SPWI982.SPL : Opcode 67 : Resource pheogurd.cre doesn't exist.
+SPWI982.SPL : Opcode 67 : Resource pheogurd.cre doesn't exist.
+SPWISH10.SPL : Opcode 172 : Resource spcl110.spl doesn't exist.
+SPWISH10.SPL : Opcode 172 : Resource spwi492.spl doesn't exist.
+U#HFDTPD.SPL : Opcode 324 : no effect : duration 0
